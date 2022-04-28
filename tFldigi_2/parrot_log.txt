@@ -1,0 +1,303 @@
+123
+123
+123
+test
+
+====================
+
+*** Time Stamp : 2022-03-29 22:21:26 :  
+NOT RELAYED
+RELAY_CALL FROM_CALL [INFO?|HELP?|TO_CALL]
+
+*** Time Stamp : 2022-03-29 22:25:19 :  
+NOT RELAYED
+HELP?
+123
+123
+123
+test
+
+*** Time Stamp : 2022-03-29 22:27:42 :  
+PSK500R (S/N 23 dB)  Message Relayed on 5367.9 for : ECHO
+GM4SLV HELP?
+123
+123
+123
+test
+
+====================
+
+*** Time Stamp : 2022-03-29 22:27:53 :  
+NOT RELAYED
+RELAY_CALL FROM_CALL [ INFO? | HELP? | TO_CALL ]
+
+*** Time Stamp : 2022-03-29 22:28:28 :  
+PSK500R (S/N 24 dB)  Message Relayed on 5367.9 for : ECHO
+GM4SLV GM4sLV HELP?
+123
+123
+123
+test
+
+====================
+
+*** Time Stamp : 2022-03-29 22:28:39 :  
+NOT RELAYED
+RELAY_CALL FROM_CALL [ INFO? | HELP? | TO_CALL ]
+
+*** Time Stamp : 2022-03-29 22:30:37 :  
+PSK500R (S/N 25 dB)  Message Relayed on 5367.9 for : ECHO
+GM4SLV GM4sLV INFO?
+123
+123
+123
+test
+
+====================
+
+*** Time Stamp : 2022-03-29 22:32:53 :  
+PSK500R (S/N 23 dB)  Message Relayed on 5367.9 for : ECHO
+GM4SLV GM4sLV InFO?
+123
+123
+123
+test
+
+====================
+
+*** Time Stamp : 2022-03-29 22:35:42 :  
+Cont-4/500 ()  Message Relayed on 7043.5 for : ECHO
+GM4SLV GM4SLV INFO?
+123
+123
+123
+TEST
+
+====================
+
+*** Time Stamp : 2022-03-29 22:37:41 :  
+Cont-4/500 ()  Message Relayed on 7043.5 for : GM4SLV
+GM4SLV GM4SLV G0RAS
+TEST RELAY FUNCTION
+123
+
+====================
+
+*** Time Stamp : 2022-03-29 22:42:18 :  
+OLIVIA-16/500 ()  Message Relayed on 5368.0 for : GM4SLV
+GM4SLV GM4sLV G0RAS
+Test Relay function
+123
+
+====================
+
+*** Time Stamp : 2022-03-29 22:48:12 :  
+OLIVIA-16/500 ()  Message Relayed on 5368.0 for : GM4SLV
+GM4SLV GM4sLV G4VLC
+Test Relay function
+123
+
+====================
+
+*** Time Stamp : 2022-03-30 06:20:45 :  
+PSK500R (S/N 28 dB)  Message Relayed on 3584.5 for : QSY
+GM4SLV GM4sLV QSY? 3583
+
+====================
+
+*** Time Stamp : 2022-03-30 06:25:00 :  
+PSK500R (S/N 28 dB)  Message Relayed on 5368.0 for : QSY
+GM4SLV GM4sLV QSY? 5366.5
+
+====================
+
+*** Time Stamp : 2022-03-30 06:27:32 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? 14070
+
+*** Time Stamp : 2022-03-30 06:30:22 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? 5366.5
+
+*** Time Stamp : 2022-03-30 06:32:21 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? 5366.5
+
+*** Time Stamp : 2022-03-30 06:35:46 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? 3583
+
+*** Time Stamp : 2022-03-30 06:38:41 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? 3583
+
+*** Time Stamp : 2022-03-30 06:39:26 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? 5366
+
+*** Time Stamp : 2022-03-30 06:44:58 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? 14070
+
+*** Time Stamp : 2022-03-30 06:46:55 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? 14110
+
+*** Time Stamp : 2022-03-30 06:48:47 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? 5366.5
+
+*** Time Stamp : 2022-03-30 06:51:18 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? 3583
+
+*** Time Stamp : 2022-03-30 06:52:33 :  
+PSK500R (S/N 24 dB)  Message Relayed on 3584.5 for : ECHO
+GM4SLV GM4sLV INFO? 3583
+
+====================
+
+*** Time Stamp : 2022-03-30 06:53:21 :  
+PSK500R (S/N 25 dB)  Message Relayed on 3584.5 for : GM4SLV
+GM4SLV GM4sLV G4VLC 3583
+test
+
+====================
+
+*** Time Stamp : 2022-03-30 06:54:02 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? 5366.5
+test
+
+*** Time Stamp : 2022-03-30 07:00:56 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? 14020
+test
+
+*** Time Stamp : 2022-03-30 07:01:43 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? home
+test
+
+*** Time Stamp : 2022-03-30 07:06:57 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? HOME
+test
+
+*** Time Stamp : 2022-03-30 07:07:44 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? 14070
+test
+
+*** Time Stamp : 2022-03-30 07:08:41 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? HOME
+test
+
+*** Time Stamp : 2022-03-30 07:11:17 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? 14070
+test
+
+*** Time Stamp : 2022-03-30 07:11:48 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? HOME
+test
+
+*** Time Stamp : 2022-03-30 07:12:39 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? 3585
+test
+
+*** Time Stamp : 2022-03-30 07:15:00 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? 3585
+test
+
+*** Time Stamp : 2022-03-30 07:17:56 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? 3585
+test
+
+*** Time Stamp : 2022-03-30 07:19:01 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? 7040
+test
+
+*** Time Stamp : 2022-03-30 07:21:02 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? HOME
+test
+
+*** Time Stamp : 2022-03-30 07:24:02 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? HOME
+test
+
+*** Time Stamp : 2022-03-30 07:24:45 :  
+NOT RELAYED
+GM4SLV GM4sLV QSY? HOME
+test
+
+*** Time Stamp : 2022-03-30 07:25:49 :  
+PSK1000R (S/N  8 dB)  Message Relayed on 5368.0 for : QSY?
+GM4SLV  QSY? HOME
+test
+
+====================
+
+*** Time Stamp : 2022-03-30 07:26:24 :  
+NOT RELAYED
+GM4SLV  GM4SLV QSY? HOME
+test
+
+*** Time Stamp : 2022-03-30 07:27:35 :  
+NOT RELAYED
+GM4SLV  GM4SLV QSY? 5378.5
+test
+
+*** Time Stamp : 2022-03-30 07:28:12 :  
+NOT RELAYED
+GM4SLV  GM4SLV QSY? HOME
+test
+
+*** Time Stamp : 2022-03-30 07:29:10 :  
+NOT RELAYED
+GM4SLV  GM4SLV QSY? 5378.5
+TEST
+
+*** Time Stamp : 2022-03-30 07:29:53 :  
+NOT RELAYED
+GM4SLV  GM4SLV QSY? HOME
+TEST
+
+*** Time Stamp : 2022-03-30 07:32:53 :  
+NOT RELAYED
+GM4SLV  GM4SLV QSY? HOME
+TEST
+
+*** Time Stamp : 2022-03-30 07:33:48 :  
+NOT RELAYED
+GM4SLV  GM4SLV QSY? 5278.5
+TEST
+
+*** Time Stamp : 2022-03-30 07:34:28 :  
+NOT RELAYED
+GM4SLV  GM4SLV QSY? HOME
+TEST
+
+*** Time Stamp : 2022-03-30 07:40:25 :  
+NOT RELAYED
+GM4SLV  GM4SLV QSY? 14070
+
+*** Time Stamp : 2022-03-30 07:43:58 :  
+NOT RELAYED
+GM4SLV  GM4SLV QSY? 14050
+
+*** Time Stamp : 2022-03-30 07:45:00 :  
+NOT RELAYED
+GM4SLV  GM4SLV QSY? HOME
+
+*** Time Stamp : 2022-03-30 07:46:31 :  
+NOT RELAYED
+GM4SLV  GM4SLV QSY? HOME
