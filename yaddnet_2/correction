@@ -1,0 +1,2 @@
+update newlog set from_name = 'Hebron Oil Platform, CKR759' where raw_from_mmsi = '003160175';
+update newlog set to_name = 'Hebron Oil Platform, CKR759' where raw_to_mmsi = '003160175';

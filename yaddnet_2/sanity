@@ -1,0 +1,4 @@
+select DATETIME, RX_ID, RX_FREQ, FROM_NAME from newlog where rx_freq = 2187.5 and from_type = 'COAST' and from_mid = '366';
+select DATETIME, RX_ID, RX_FREQ, FROM_NAME from newlog where rx_freq = 2187.5 and from_type = 'COAST' and from_mid='503';
+select DATETIME, RX_ID, RX_FREQ, FROM_NAME from newlog where rx_freq <> 2187.5 and from_type = 'COAST' and from_mid = 232 and raw_from_mmsi != '002320204';
+select DATETIME, RX_ID, RX_FREQ, FROM_NAME from newlog where rx_freq > 2187.5 and from_type = 'COAST' and (from_mid = 232 or from_mid = 244 or from_mid = 219 or from_mid = 261) and raw_from_mmsi != '002320204' and raw_from_mmsi != '219015591';

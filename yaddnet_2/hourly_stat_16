@@ -1,0 +1,1 @@
+select count(*) from newlog where rx_freq = '16804.5' and datetime > date_sub(now(), interval 60 minute) and ecc ="OK";

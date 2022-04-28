@@ -1,0 +1,6 @@
+[paths]
+default = ssh://gm4slv@shack/yaddnet
+default-push = /home/gm4slv/Dropbox/PythonProjects/yaddnet
+
+[hooks]
+changegroup = hg update
