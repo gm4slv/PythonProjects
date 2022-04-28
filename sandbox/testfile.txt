@@ -1,13 +1,5 @@
 testing initial version
 
-<<<<<<< HEAD
 
 second line
 
-<<<<<<< HEAD
-third line
-=======
->>>>>>> parent of 7261d60 (second line)
-=======
-
->>>>>>> parent of d2cefcd (third line)
