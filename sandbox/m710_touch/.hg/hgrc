@@ -1,0 +1,3 @@
+[paths]
+default = ssh://gm4slv@raspi/m710_touch
+dropbox = /home/gm4slv/Dropbox/PythonProjects/m710_touch

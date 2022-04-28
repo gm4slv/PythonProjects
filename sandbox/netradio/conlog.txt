@@ -1,0 +1,24 @@
+01/08/2015 14:12:01 Server loop running in thread: Thread-1
+01/08/2015 14:12:20 Connect from 192.168.21.4 using Thread-2 
+01/08/2015 14:12:29 Got quit from 192.168.21.4
+01/08/2015 14:13:27 Server loop running in thread: Thread-1
+01/08/2015 14:13:30 Connect from 192.168.21.4 using Thread-2 
+01/08/2015 14:15:09 Server loop running in thread: Thread-1
+01/08/2015 14:15:12 Connect from 192.168.21.4 using Thread-2 
+01/08/2015 14:16:46 Got quit from 192.168.21.4
+19/09/2019 06:06:28 Server loop running in thread: Thread-1
+19/09/2019 06:07:15 Server loop running in thread: Thread-1
+19/09/2019 06:09:47 Server loop running in thread: Thread-1
+19/09/2019 06:10:25 Server loop running in thread: Thread-1
+19/09/2019 06:10:40 Connect from 127.0.0.1 using Thread-2 
+19/09/2019 06:11:50 Connect from 127.0.0.1 using Thread-3 
+19/09/2019 06:12:39 Connect from 127.0.0.1 using Thread-4 
+19/09/2019 06:12:45 Got quit from 127.0.0.1
+19/09/2019 06:13:00 Got quit from 127.0.0.1
+19/09/2019 06:13:22 Connect from 127.0.0.1 using Thread-5 
+19/09/2019 06:14:19 Got quit from 127.0.0.1
+19/09/2019 06:14:36 Connect from 127.0.0.1 using Thread-6 
+19/09/2019 06:16:07 Got quit from 127.0.0.1
+19/09/2019 06:18:27 Server loop running in thread: Thread-1
+19/09/2019 06:18:35 Connect from 127.0.0.1 using Thread-2 
+19/09/2019 06:22:02 Got quit from 127.0.0.1

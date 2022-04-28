@@ -1,0 +1,1 @@
+CREATE TABLE txpwr (datetime text, freq text, pwr text, swr text);

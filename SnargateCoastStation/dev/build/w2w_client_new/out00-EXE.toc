@@ -1,0 +1,9 @@
+('C:\\Users\\gm4slv\\Python_Projects\\SnargateCoastStation\\dev\\dist\\w2w_client_new.exe',
+ False,
+ False,
+ None,
+ None,
+ [],
+ None,
+ True,
+ 1433594391L)

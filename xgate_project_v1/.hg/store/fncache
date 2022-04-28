@@ -1,0 +1,10 @@
+data/conf.py.i
+data/ident.py.i
+data/id_tx.py.i
+data/icom.py.i
+data/cwid.py.i
+data/start_xgate.sh.i
+data/test.py.i
+data/watchdog.py.i
+data/id_tx_menu.py.i
+data/xgate_dtmf.py.i

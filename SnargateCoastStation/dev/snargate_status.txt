@@ -1,0 +1,9 @@
+Coast Station online (Service uptime: 0 weeks 0 days 00:01 )
+TX Enabled
+PTT OFF
+2016-05-10 13:37:35 : 4207.5 : 477274400 : CSCL SATURN : VRJS5 : TEST : REQ
+2016-05-10 13:37:36 : 4207.5 : 477274400 : CSCL SATURN : VRJS5 : TEST : ACK
+Message Count : { Sent : 73 } { Received : total  142 / for us  105 } {Count reset : 16:16 08/05/16 }
+2MHz: 3,  4MHz: 12,  6MHz: 16,  8MHz: 34,  12MHz: 6,  16MHz: 2
+12577.0;16804.5;4207.5;6312.0;8414.5;2187.5
+2016-05-10 13:35:33 : 8414.5 : 477274400 : VRJS5 : TEST

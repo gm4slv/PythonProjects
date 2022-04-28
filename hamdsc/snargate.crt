@@ -1,0 +1,73 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 3 (0x3)
+    Signature Algorithm: md5WithRSAEncryption
+        Issuer: C=UK, ST=UK, L=Shetland, O=Wire2waves, OU=Wire2waves, CN=Monster/name=Monster/emailAddress=gm4slv@gmail.com
+        Validity
+            Not Before: Jul 24 21:25:37 2015 GMT
+            Not After : Jul 21 21:25:37 2025 GMT
+        Subject: C=uk, ST=shetland, L=clousta, O=wire2waves, OU=snargate, CN=gm4slv/name=changeme/emailAddress=gm4slv@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (1024 bit)
+                Modulus:
+                    00:d7:08:43:69:e7:57:2b:59:97:f7:00:a1:54:cc:
+                    fa:db:05:c5:bb:c1:af:8f:a7:55:e9:4b:21:3d:e3:
+                    04:c0:19:64:6b:ec:6a:8a:d4:5e:72:c2:fb:fd:9b:
+                    99:6a:12:2e:52:08:ef:cd:49:1f:ef:21:d0:45:23:
+                    66:7d:21:1a:bf:33:3b:4c:14:cc:4f:36:d3:07:28:
+                    a0:2d:ab:b4:0b:3e:94:ce:41:62:0b:0a:be:ee:23:
+                    41:d8:3e:ad:dc:00:a4:5c:11:dd:22:32:69:38:0d:
+                    e7:28:74:5c:de:71:8a:4c:7e:59:0c:de:a8:1f:2c:
+                    35:5d:d1:bc:8f:23:0c:36:bb
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                BC:31:7B:71:69:EA:55:86:B1:35:24:9D:F9:8F:B7:F1:03:AC:0E:70
+            X509v3 Authority Key Identifier: 
+                keyid:81:EB:A9:34:D8:A6:4F:34:8B:76:28:48:27:38:D9:88:B4:E2:95:E3
+                DirName:/C=UK/ST=UK/L=Shetland/O=Wire2waves/OU=Wire2waves/CN=Monster/name=Monster/emailAddress=gm4slv@gmail.com
+                serial:A0:4C:68:A9:C4:A2:67:E4
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: md5WithRSAEncryption
+         54:39:28:40:0c:62:08:eb:79:ed:ed:f2:08:62:66:bf:17:1b:
+         1e:c4:2d:73:bb:e9:2c:39:ed:38:c1:62:9d:11:ee:d6:ea:9d:
+         9d:56:0e:f3:bd:9b:17:c7:39:61:10:95:c3:cd:8f:27:36:84:
+         12:3e:9c:78:ee:eb:f3:9a:40:3d:14:de:e9:48:18:ca:a6:90:
+         00:18:de:30:15:32:3d:70:c1:9d:1f:56:67:05:55:a8:af:3b:
+         c2:8c:e3:da:ab:6e:8b:50:ad:2c:92:93:44:2a:84:56:e9:db:
+         e0:40:a8:4e:37:b9:a5:f2:bd:36:0a:eb:4b:9e:e9:c7:69:0d:
+         68:d0
+-----BEGIN CERTIFICATE-----
+MIIECDCCA3GgAwIBAgIBAzANBgkqhkiG9w0BAQQFADCBnDELMAkGA1UEBhMCVUsx
+CzAJBgNVBAgTAlVLMREwDwYDVQQHEwhTaGV0bGFuZDETMBEGA1UEChMKV2lyZTJ3
+YXZlczETMBEGA1UECxMKV2lyZTJ3YXZlczEQMA4GA1UEAxMHTW9uc3RlcjEQMA4G
+A1UEKRMHTW9uc3RlcjEfMB0GCSqGSIb3DQEJARYQZ200c2x2QGdtYWlsLmNvbTAe
+Fw0xNTA3MjQyMTI1MzdaFw0yNTA3MjEyMTI1MzdaMIGfMQswCQYDVQQGEwJ1azER
+MA8GA1UECBMIc2hldGxhbmQxEDAOBgNVBAcTB2Nsb3VzdGExEzARBgNVBAoTCndp
+cmUyd2F2ZXMxETAPBgNVBAsTCHNuYXJnYXRlMQ8wDQYDVQQDEwZnbTRzbHYxETAP
+BgNVBCkTCGNoYW5nZW1lMR8wHQYJKoZIhvcNAQkBFhBnbTRzbHZAZ21haWwuY29t
+MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDXCENp51crWZf3AKFUzPrbBcW7
+wa+Pp1XpSyE94wTAGWRr7GqK1F5ywvv9m5lqEi5SCO/NSR/vIdBFI2Z9IRq/MztM
+FMxPNtMHKKAtq7QLPpTOQWILCr7uI0HYPq3cAKRcEd0iMmk4DecodFzecYpMflkM
+3qgfLDVd0byPIww2uwIDAQABo4IBUzCCAU8wCQYDVR0TBAIwADAtBglghkgBhvhC
+AQ0EIBYeRWFzeS1SU0EgR2VuZXJhdGVkIENlcnRpZmljYXRlMB0GA1UdDgQWBBS8
+MXtxaepVhrE1JJ35j7fxA6wOcDCB0QYDVR0jBIHJMIHGgBSB66k02KZPNIt2KEgn
+ONmItOKV46GBoqSBnzCBnDELMAkGA1UEBhMCVUsxCzAJBgNVBAgTAlVLMREwDwYD
+VQQHEwhTaGV0bGFuZDETMBEGA1UEChMKV2lyZTJ3YXZlczETMBEGA1UECxMKV2ly
+ZTJ3YXZlczEQMA4GA1UEAxMHTW9uc3RlcjEQMA4GA1UEKRMHTW9uc3RlcjEfMB0G
+CSqGSIb3DQEJARYQZ200c2x2QGdtYWlsLmNvbYIJAKBMaKnEomfkMBMGA1UdJQQM
+MAoGCCsGAQUFBwMCMAsGA1UdDwQEAwIHgDANBgkqhkiG9w0BAQQFAAOBgQBUOShA
+DGII63nt7fIIYma/FxsexC1zu+ksOe04wWKdEe7W6p2dVg7zvZsXxzlhEJXDzY8n
+NoQSPpx47uvzmkA9FN7pSBjKppAAGN4wFTI9cMGdH1ZnBVWorzvCjOPaq26LUK0s
+kpNEKoRW6dvgQKhON7ml8r02CutLnunHaQ1o0A==
+-----END CERTIFICATE-----

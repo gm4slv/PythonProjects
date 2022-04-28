@@ -1,0 +1,1258 @@
+25/10/2020 22:15:05 Talkthrough ON25/10/2020 22:17:33 Talkthrough OFF25/10/2020 22:19:03 Talkthrough OFF
+25/10/2020 22:19:36 Talkthrough OFF
+25/10/2020 22:19:47 New Frequency 1933.0
+25/10/2020 22:25:14 Talkthrough OFF
+25/10/2020 22:25:24 S Meter : S2
+25/10/2020 22:25:53 Talkthrough OFF
+25/10/2020 22:26:02 TX Power set to 100
+25/10/2020 22:26:09 Talkthrough OFF
+25/10/2020 22:26:18 TX Power set to 25
+25/10/2020 22:31:00 Talkthrough OFF
+25/10/2020 22:31:09 S Meter : S7
+25/10/2020 22:31:09 STATUS : Mode LSB, Frequency 1933.0, S7, Talk Through OFF
+25/10/2020 22:31:34 User Command login
+25/10/2020 22:31:34 Talkthrough OFF
+25/10/2020 22:31:47 Command received : D7
+25/10/2020 22:31:48 S Meter : S6
+25/10/2020 22:31:56 User Command login
+25/10/2020 22:31:56 Talkthrough OFF
+25/10/2020 22:32:07 Command received : A54500
+25/10/2020 22:32:07 New Frequency 5450.0
+25/10/2020 22:32:11 User Command login
+25/10/2020 22:32:11 Talkthrough OFF
+25/10/2020 22:32:20 Command received : B1
+25/10/2020 22:32:20 New Mode USB
+25/10/2020 22:32:29 User Command login
+25/10/2020 22:32:29 Talkthrough OFF
+25/10/2020 22:32:40 Command received : *83
+25/10/2020 22:32:40 IF Filter : WIDE
+25/10/2020 22:32:56 User Command login
+25/10/2020 22:32:56 Talkthrough OFF
+25/10/2020 22:33:06 Command received : *82
+25/10/2020 22:33:06 IF Filter : NORMAL
+25/10/2020 22:33:34 User Command login
+25/10/2020 22:33:34 Talkthrough OFF
+25/10/2020 22:33:39 Command received : 31
+25/10/2020 22:33:50 User Command login
+25/10/2020 22:33:50 Talkthrough OFF
+25/10/2020 22:33:58 Command received : *31
+25/10/2020 22:33:58 Noise Reduction ON
+25/10/2020 22:34:06 User Command login
+25/10/2020 22:34:06 Talkthrough OFF
+25/10/2020 22:34:14 Command received : *30
+25/10/2020 22:34:14 Noise Reduction OFF
+25/10/2020 22:34:30 User Command login
+25/10/2020 22:34:30 Talkthrough OFF
+25/10/2020 22:34:36 Command received : *40
+25/10/2020 22:34:36 Auto Notch Filter OFF
+25/10/2020 22:35:04 User Command login
+25/10/2020 22:35:04 Talkthrough OFF
+25/10/2020 22:35:10 Command received : *1
+25/10/2020 22:35:13 ATU Tune.... Tuned cycle complete
+25/10/2020 22:35:20 User Command login
+25/10/2020 22:35:20 Talkthrough OFF
+25/10/2020 22:35:25 Command received : *2
+25/10/2020 22:35:47 User Command login
+25/10/2020 22:35:47 Talkthrough OFF
+25/10/2020 22:35:55 Command received : A280000
+25/10/2020 22:35:56 New Frequency 28000.0
+25/10/2020 22:36:00 User Command login
+25/10/2020 22:36:00 Talkthrough OFF
+25/10/2020 22:36:04 Command received : C1
+25/10/2020 22:36:04 Talkthrough ON
+25/10/2020 22:36:48 User Command login
+25/10/2020 22:36:48 Talkthrough OFF
+25/10/2020 22:36:55 Command received : C0
+25/10/2020 22:36:55 Talkthrough OFF
+25/10/2020 22:41:32 Talkthrough OFF
+25/10/2020 22:41:41 S Meter : S0
+25/10/2020 22:41:41 STATUS : Mode USB, Frequency 28000.0, S0, Talk Through OFF
+25/10/2020 22:42:09 User Command login
+25/10/2020 22:42:09 Talkthrough OFF
+25/10/2020 22:42:17 Command received : *2
+25/10/2020 22:42:17 Peeking on HF....
+25/10/2020 22:43:03 Wrong PIN
+25/10/2020 22:43:06 Wrong PIN
+25/10/2020 22:43:11 User Command login
+25/10/2020 22:43:11 Talkthrough OFF
+25/10/2020 22:43:16 Command received : 
+25/10/2020 22:43:16 Exception in command_two : 
+25/10/2020 22:43:20 User Command login
+25/10/2020 22:43:20 Talkthrough OFF
+25/10/2020 22:43:27 Command received : 9*
+25/10/2020 22:43:27 Command 9* not understood
+25/10/2020 22:43:35 User Command login
+25/10/2020 22:43:35 Talkthrough OFF
+25/10/2020 22:43:45 Command received : D7
+25/10/2020 22:43:45 S Meter : S0
+25/10/2020 22:44:00 Programmed killed by ^C
+25/10/2020 22:44:52 X-Gate Start.....
+25/10/2020 22:44:52 Talkthrough OFF
+25/10/2020 22:45:01 S Meter : S0
+25/10/2020 22:45:01 STATUS : Mode USB, Frequency 28000.0, S0, Talk Through OFF
+25/10/2020 22:45:41 Programmed killed by ^C
+25/10/2020 22:51:04 
+
+X-Gate Start.........................................................
+25/10/2020 22:51:04 Talkthrough OFF
+25/10/2020 22:51:13 S Meter : S0
+25/10/2020 22:51:13 STATUS : Mode USB, Frequency 28000.0, S0, Talk Through OFF
+25/10/2020 22:51:42 User Command login
+25/10/2020 22:51:42 Talkthrough OFF
+25/10/2020 22:51:54 Command received : A19420
+25/10/2020 22:51:54 New Frequency 1942.0
+25/10/2020 22:51:59 User Command login
+25/10/2020 22:51:59 Talkthrough OFF
+25/10/2020 22:52:04 Command received : B2
+25/10/2020 22:52:04 New Mode LSB
+25/10/2020 22:52:11 User Command login
+25/10/2020 22:52:11 Talkthrough OFF
+25/10/2020 22:52:15 Command received : *2
+25/10/2020 22:52:15 Peeking on HF....
+25/10/2020 22:52:41 User Command login
+25/10/2020 22:52:41 Talkthrough OFF
+25/10/2020 22:52:49 Command received : A19330
+25/10/2020 22:52:49 New Frequency 1933.0
+25/10/2020 22:52:54 User Command login
+25/10/2020 22:52:54 Talkthrough OFF
+25/10/2020 22:52:59 Command received : *2
+25/10/2020 22:52:59 Peeking on HF....
+25/10/2020 22:53:24 User Command login
+25/10/2020 22:53:24 Talkthrough OFF
+25/10/2020 22:53:32 Command received : A54035
+25/10/2020 22:53:32 New Frequency 5403.5
+25/10/2020 22:53:36 User Command login
+25/10/2020 22:53:36 Talkthrough OFF
+25/10/2020 22:53:41 Command received : B1
+25/10/2020 22:53:41 New Mode USB
+25/10/2020 22:53:48 User Command login
+25/10/2020 22:53:48 Talkthrough OFF
+25/10/2020 22:53:53 Command received : *1
+25/10/2020 22:53:57 ATU Tune.... Tuned cycle complete
+25/10/2020 22:54:04 User Command login
+25/10/2020 22:54:04 Talkthrough OFF
+25/10/2020 22:54:08 Command received : *2
+25/10/2020 22:54:08 Peeking on HF....
+25/10/2020 22:55:30 User Command login
+25/10/2020 22:55:30 Talkthrough OFF
+25/10/2020 22:55:37 Command received : D
+25/10/2020 22:55:37 S Meter : S2
+25/10/2020 22:55:37 STATUS : Mode USB, Frequency 5403.5, S2, Talk Through OFF
+25/10/2020 22:56:05 User Command login
+25/10/2020 22:56:05 Talkthrough OFF
+25/10/2020 22:56:10 Command received : C1
+25/10/2020 22:56:10 Talkthrough ON
+25/10/2020 22:56:22 Identify
+25/10/2020 23:07:05 
+
+Programmed killed by keyboard interrupt.......................
+25/10/2020 23:10:28 X-Gate Start.........................................................
+25/10/2020 23:10:28 Talkthrough OFF
+25/10/2020 23:10:38 S Meter : S8
+25/10/2020 23:10:38 STATUS : Mode USB, Frequency 5403.5, S8, Talk Through OFF
+25/10/2020 23:12:05 User Command login
+25/10/2020 23:12:05 Talkthrough OFF
+25/10/2020 23:12:11 Command received : *999*
+25/10/2020 23:12:11 Got quit command
+25/10/2020 23:12:11 Exception in command_two : *999*
+25/10/2020 23:12:37 User Command login
+25/10/2020 23:12:37 Talkthrough OFF
+25/10/2020 23:12:43 Command received : *999
+25/10/2020 23:12:43 Command *999 not understood
+25/10/2020 23:12:49 User Command login
+25/10/2020 23:12:49 Talkthrough OFF
+25/10/2020 23:12:55 Command received : *999*
+25/10/2020 23:12:55 Got quit command
+25/10/2020 23:12:55 Exception in command_two : *999*
+25/10/2020 23:12:59 Program killed by keyboard interrupt.......................
+25/10/2020 23:14:17 X-Gate Start.........................................................
+25/10/2020 23:14:17 Talkthrough OFF
+25/10/2020 23:14:29 User Command login
+25/10/2020 23:14:29 Talkthrough OFF
+25/10/2020 23:14:35 Command received : *999*
+25/10/2020 23:14:35 Got quit command
+25/10/2020 23:14:35 Exception in command_two : *999*
+25/10/2020 23:14:44 Program killed by keyboard interrupt.......................
+25/10/2020 23:18:56 X-Gate Start.........................................................
+25/10/2020 23:18:56 Talkthrough OFF
+25/10/2020 23:19:09 User Command login
+25/10/2020 23:19:09 Talkthrough OFF
+25/10/2020 23:19:14 Command received : *999*
+25/10/2020 23:19:14 Got quit command
+25/10/2020 23:19:24 X-Gate Start.........................................................
+25/10/2020 23:19:24 Talkthrough OFF
+25/10/2020 23:19:37 User Command login
+25/10/2020 23:19:37 Talkthrough OFF
+25/10/2020 23:19:40 Command received : 
+25/10/2020 23:19:40 Exception in command_two : 
+25/10/2020 23:19:47 Wrong PIN
+25/10/2020 23:19:51 User Command login
+25/10/2020 23:19:51 Talkthrough OFF
+25/10/2020 23:19:58 Command received : *999*
+25/10/2020 23:19:58 Got quit command
+25/10/2020 23:20:12 X-Gate Start.........................................................
+25/10/2020 23:20:12 Talkthrough OFF
+25/10/2020 23:20:20 Program killed by keyboard interrupt.......................
+25/10/2020 23:20:23 X-Gate Start.........................................................
+25/10/2020 23:20:23 Talkthrough OFF
+25/10/2020 23:20:34 Program killed by keyboard interrupt.......................
+25/10/2020 23:22:35 X-Gate Start.........................................................
+25/10/2020 23:22:35 Talkthrough OFF
+25/10/2020 23:23:12 User Command login
+25/10/2020 23:23:12 Talkthrough OFF
+25/10/2020 23:23:18 Command received : *999*
+25/10/2020 23:23:18 Got quit command
+25/10/2020 23:23:18 Talkthrough OFF
+25/10/2020 23:25:01 X-Gate Start.........................................................
+25/10/2020 23:25:01 Talkthrough OFF
+25/10/2020 23:25:21 User Command login
+25/10/2020 23:25:21 Talkthrough OFF
+25/10/2020 23:25:28 Command received : *999*
+25/10/2020 23:25:28 Got quit command
+25/10/2020 23:25:28 Talkthrough OFF
+25/10/2020 23:25:28 TX Power set to 0
+25/10/2020 23:27:52 X-Gate Start.........................................................
+25/10/2020 23:27:52 Talkthrough OFF
+25/10/2020 23:28:02 S Meter : S6
+25/10/2020 23:28:02 STATUS : Mode USB, Frequency 5403.5, S6
+25/10/2020 23:35:27 User Command login
+25/10/2020 23:35:27 Talkthrough OFF
+25/10/2020 23:35:51 Command received : A55050
+25/10/2020 23:35:51 New Frequency 5505.0
+25/10/2020 23:35:53 Identify
+25/10/2020 23:36:08 User Command login
+25/10/2020 23:36:08 Talkthrough OFF
+25/10/2020 23:36:16 Command received : A100510
+25/10/2020 23:36:16 New Frequency 10051.0
+25/10/2020 23:36:20 User Command login
+25/10/2020 23:36:20 Talkthrough OFF
+25/10/2020 23:36:27 Command received : *1
+25/10/2020 23:36:30 ATU Tune.... ATU Tune cycle complete
+25/10/2020 23:36:49 User Command login
+25/10/2020 23:36:50 Talkthrough OFF
+25/10/2020 23:36:55 Command received : *2
+25/10/2020 23:36:55 Peeking on HF....
+25/10/2020 23:37:21 Program killed by keyboard interrupt.......................
+25/10/2020 23:40:13 X-Gate Start.........................................................
+25/10/2020 23:40:13 Talkthrough OFF
+25/10/2020 23:40:23 S Meter : S0
+25/10/2020 23:40:23 STATUS : Mode USB, Frequency 10051.0, S0
+25/10/2020 23:40:40 User Command login
+25/10/2020 23:40:40 Talkthrough OFF
+25/10/2020 23:40:48 Command received : *26
+25/10/2020 23:40:48 Command *26 not understood
+25/10/2020 23:40:59 Program killed by keyboard interrupt.......................
+25/10/2020 23:41:46 X-Gate Start.........................................................
+25/10/2020 23:41:46 Talkthrough OFF
+25/10/2020 23:41:49 User Command login
+25/10/2020 23:41:49 Talkthrough OFF
+25/10/2020 23:41:56 Command received : *21
+25/10/2020 23:41:56 Exception in command_two : *21
+25/10/2020 23:43:11 Program killed by keyboard interrupt.......................
+25/10/2020 23:45:07 X-Gate Start.........................................................
+25/10/2020 23:45:07 Talkthrough OFF
+25/10/2020 23:45:17 User Command login
+25/10/2020 23:45:17 Talkthrough OFF
+25/10/2020 23:45:24 Command received : *22
+25/10/2020 23:45:24 Command *22 not understood
+25/10/2020 23:45:30 User Command login
+25/10/2020 23:45:30 Talkthrough OFF
+25/10/2020 23:45:35 Command received : *2
+25/10/2020 23:45:35 Command *2 not understood
+25/10/2020 23:45:38 Program killed by keyboard interrupt.......................
+25/10/2020 23:47:52 X-Gate Start.........................................................
+25/10/2020 23:47:52 Talkthrough OFF
+25/10/2020 23:47:55 User Command login
+25/10/2020 23:47:55 Talkthrough OFF
+25/10/2020 23:48:00 Command received : *21
+25/10/2020 23:48:00 Peeking on HF for 1 ....
+25/10/2020 23:48:07 User Command login
+25/10/2020 23:48:07 Talkthrough OFF
+25/10/2020 23:48:14 Command received : *28
+25/10/2020 23:48:14 Peeking on HF for 8 ....
+25/10/2020 23:48:25 User Command login
+25/10/2020 23:48:25 Talkthrough OFF
+25/10/2020 23:48:30 Command received : *2
+25/10/2020 23:48:30 Exception in command_two : *2
+25/10/2020 23:48:34 Program killed by keyboard interrupt.......................
+25/10/2020 23:50:23 X-Gate Start.........................................................
+25/10/2020 23:50:23 Talkthrough OFF
+25/10/2020 23:50:27 User Command login
+25/10/2020 23:50:27 Talkthrough OFF
+25/10/2020 23:50:33 Command received : *23
+25/10/2020 23:50:33 Peeking on HF for 3 ....
+25/10/2020 23:50:39 User Command login
+25/10/2020 23:50:39 Talkthrough OFF
+25/10/2020 23:50:44 Command received : *2
+25/10/2020 23:50:44 Peeking on HF for 10 ....
+25/10/2020 23:50:56 User Command login
+25/10/2020 23:50:56 Talkthrough OFF
+25/10/2020 23:51:03 Command received : *230
+25/10/2020 23:51:03 Peeking on HF for 30 ....
+25/10/2020 23:51:49 User Command login
+25/10/2020 23:51:49 Talkthrough OFF
+25/10/2020 23:51:53 Command received : D
+25/10/2020 23:51:53 S Meter : S0
+25/10/2020 23:51:53 STATUS : Mode USB, Frequency 10051.0, S0
+25/10/2020 23:52:17 Program killed by keyboard interrupt.......................
+25/10/2020 23:53:27 X-Gate Start.........................................................
+25/10/2020 23:53:27 Talkthrough OFF
+25/10/2020 23:53:36 S Meter : S0
+25/10/2020 23:53:36 STATUS : Mode USB, Frequency 10051.0, S0
+25/10/2020 23:53:58 User Command login
+25/10/2020 23:53:58 Talkthrough OFF
+25/10/2020 23:54:07 Command received : A53985
+25/10/2020 23:54:07 New Frequency 5398.5
+25/10/2020 23:54:12 User Command login
+25/10/2020 23:54:12 Talkthrough OFF
+25/10/2020 23:54:17 Command received : D
+25/10/2020 23:54:17 S Meter : S0
+25/10/2020 23:54:17 STATUS : Mode USB, Frequency 5398.5, S0
+25/10/2020 23:54:32 User Command login
+25/10/2020 23:54:32 Talkthrough OFF
+25/10/2020 23:54:37 Command received : C1
+25/10/2020 23:54:37 Talkthrough ON
+25/10/2020 23:55:21 User Command login
+25/10/2020 23:55:21 Talkthrough OFF
+25/10/2020 23:55:29 Command received : *A50
+25/10/2020 23:55:29 TX Power set to 50
+25/10/2020 23:55:35 User Command login
+25/10/2020 23:55:35 Talkthrough OFF
+25/10/2020 23:55:39 Command received : C1
+25/10/2020 23:55:39 Talkthrough ON
+25/10/2020 23:57:25 User Command login
+25/10/2020 23:57:25 Talkthrough OFF
+25/10/2020 23:57:33 Command received : 41
+25/10/2020 23:57:34 Command 41 not understood
+25/10/2020 23:57:38 User Command login
+25/10/2020 23:57:38 Talkthrough OFF
+25/10/2020 23:57:43 Command received : *41
+25/10/2020 23:57:43 Auto Notch Filter ON
+25/10/2020 23:57:51 User Command login
+25/10/2020 23:57:51 Talkthrough OFF
+25/10/2020 23:57:55 Command received : C1
+25/10/2020 23:57:55 Talkthrough ON
+25/10/2020 23:59:05 Program killed by keyboard interrupt.......................
+26/10/2020 00:02:50 X-Gate Start.........................................................
+26/10/2020 00:02:50 Talkthrough OFF
+26/10/2020 00:03:00 S Meter : S4
+26/10/2020 00:03:00 STATUS : Mode USB, Frequency 5398.5, S4
+26/10/2020 00:03:13 User Command login
+26/10/2020 00:03:23 Command received : C1
+26/10/2020 00:03:23 Talkthrough ON
+26/10/2020 00:03:46 User Command login
+26/10/2020 00:03:46 Talkthrough OFF
+26/10/2020 00:03:57 Command received : A55050
+26/10/2020 00:03:57 New Frequency 5505.0
+26/10/2020 00:03:59 We were in TT prior... returning to TT
+26/10/2020 00:04:33 Program killed by keyboard interrupt.......................
+26/10/2020 00:05:23 X-Gate Start.........................................................
+26/10/2020 00:05:23 Talkthrough OFF
+26/10/2020 00:05:32 S Meter : S6
+26/10/2020 00:05:32 STATUS : Mode USB, Frequency 5505.0, S6
+26/10/2020 00:05:46 User Command login
+26/10/2020 00:05:58 Command received : A55550
+26/10/2020 00:05:58 New Frequency 5555.0
+26/10/2020 00:06:00 Remaining TT OFF
+26/10/2020 00:06:03 User Command login
+26/10/2020 00:06:10 Command received : A280000
+26/10/2020 00:06:10 New Frequency 28000.0
+26/10/2020 00:06:12 Remaining TT OFF
+26/10/2020 00:06:17 User Command login
+26/10/2020 00:06:22 Command received : C1
+26/10/2020 00:06:22 Talkthrough ON
+26/10/2020 00:06:35 Remaining TT OFF
+26/10/2020 00:07:29 Wrong PIN
+26/10/2020 00:07:36 Wrong PIN
+26/10/2020 00:07:42 User Command login
+26/10/2020 00:07:42 Talkthrough OFF
+26/10/2020 00:07:55 Command received : C1
+26/10/2020 00:07:55 Talkthrough ON
+26/10/2020 00:08:08 We were in TT prior... returning to TT
+26/10/2020 00:08:08 Talkthrough ON
+26/10/2020 00:08:32 User Command login
+26/10/2020 00:08:32 Talkthrough OFF
+26/10/2020 00:08:40 Command received : A55050
+26/10/2020 00:08:40 New Frequency 5505.0
+26/10/2020 00:08:41 We were in TT prior... returning to TT
+26/10/2020 00:08:41 Talkthrough ON
+26/10/2020 00:08:50 Program killed by keyboard interrupt.......................
+26/10/2020 00:10:58 X-Gate Start.........................................................
+26/10/2020 00:10:58 Talkthrough OFF
+26/10/2020 00:11:08 S Meter : S6
+26/10/2020 00:11:08 STATUS : Mode USB, Frequency 5505.0, S6
+26/10/2020 00:11:31 User Command login
+26/10/2020 00:11:38 Command received : *230
+26/10/2020 00:11:38 Peeking on HF for 30 ....
+26/10/2020 00:12:32 User Command login
+26/10/2020 00:12:42 Command received : A53450
+26/10/2020 00:12:42 New Frequency 5345.0
+26/10/2020 00:12:46 User Command login
+26/10/2020 00:12:51 Command received : C1
+26/10/2020 00:12:51 Talkthrough ON
+26/10/2020 00:13:15 User Command login
+26/10/2020 00:13:15 Talkthrough OFF
+26/10/2020 00:13:28 Command received : *81
+26/10/2020 00:13:28 IF Filter : NARROW
+26/10/2020 00:13:33 We were in TT prior... returning to TT
+26/10/2020 00:13:33 Talkthrough ON
+26/10/2020 00:13:44 User Command login
+26/10/2020 00:13:44 Talkthrough OFF
+26/10/2020 00:13:57 Command received : *82
+26/10/2020 00:13:57 IF Filter : NORMAL
+26/10/2020 00:14:02 We were in TT prior... returning to TT
+26/10/2020 00:14:02 Talkthrough ON
+26/10/2020 00:14:13 Wrong PIN
+26/10/2020 00:14:19 User Command login
+26/10/2020 00:14:19 Talkthrough OFF
+26/10/2020 00:14:26 Command received : C0
+26/10/2020 00:14:26 Talkthrough OFF
+26/10/2020 00:14:30 We were in TT prior... returning to TT
+26/10/2020 00:14:30 Talkthrough ON
+26/10/2020 00:14:40 Program killed by keyboard interrupt.......................
+26/10/2020 00:16:17 X-Gate Start.........................................................
+26/10/2020 00:16:17 Talkthrough OFF
+26/10/2020 00:16:27 S Meter : S4
+26/10/2020 00:16:27 STATUS : Mode USB, Frequency 5345.0, S4
+26/10/2020 00:16:44 User Command login
+26/10/2020 00:16:50 Command received : C1
+26/10/2020 00:16:50 Talkthrough ON
+26/10/2020 00:17:07 User Command login
+26/10/2020 00:17:07 Talkthrough OFF
+26/10/2020 00:17:14 Command received : C0
+26/10/2020 00:17:14 Talkthrough OFF
+26/10/2020 00:17:32 User Command login
+26/10/2020 00:17:36 Command received : C1
+26/10/2020 00:17:36 Talkthrough ON
+26/10/2020 00:17:54 User Command login
+26/10/2020 00:17:54 Talkthrough OFF
+26/10/2020 00:18:00 Command received : *41
+26/10/2020 00:18:01 Auto Notch Filter ON
+26/10/2020 00:18:05 We were in TT prior... returning to TT
+26/10/2020 00:18:05 Talkthrough ON
+26/10/2020 00:18:15 User Command login
+26/10/2020 00:18:15 Talkthrough OFF
+26/10/2020 00:18:21 Command received : C0
+26/10/2020 00:18:21 Talkthrough OFF
+26/10/2020 00:18:29 User Command login
+26/10/2020 00:18:34 Command received : *40
+26/10/2020 00:18:34 Auto Notch Filter OFF
+26/10/2020 00:19:00 User Command login
+26/10/2020 00:19:07 Command received : A55050
+26/10/2020 00:19:07 New Frequency 5505.0
+26/10/2020 00:19:11 User Command login
+26/10/2020 00:19:17 Command received : *260
+26/10/2020 00:19:17 Peeking on HF for 60 ....
+26/10/2020 00:20:54 Program killed by keyboard interrupt.......................
+26/10/2020 00:24:01 X-Gate Start.........................................................
+26/10/2020 00:24:01 Talkthrough OFF
+26/10/2020 00:24:06 User Command login
+26/10/2020 00:24:17 Command received : D
+26/10/2020 00:24:17 S Meter : S9
+26/10/2020 00:24:17 STATUS : Mode USB, Frequency 5505.0, S9
+26/10/2020 00:24:36 Program killed by keyboard interrupt.......................
+26/10/2020 00:24:53 X-Gate Start.........................................................
+26/10/2020 00:24:54 Talkthrough OFF
+26/10/2020 00:25:01 User Command login
+26/10/2020 00:25:11 Command received : D
+26/10/2020 00:25:11 S Meter : S4
+26/10/2020 00:25:11 STATUS : Mode USB, Frequency 5505.0, S4
+26/10/2020 00:25:29 User Command login
+26/10/2020 00:25:36 Program killed by keyboard interrupt.......................
+26/10/2020 00:26:37 X-Gate Start.........................................................
+26/10/2020 00:26:37 Talkthrough OFF
+26/10/2020 00:26:37 User Command login
+26/10/2020 00:26:49 Command received : *22
+26/10/2020 00:26:49 Peeking on HF for 2 ....
+26/10/2020 00:26:51 User Command login
+26/10/2020 00:27:05 Command received : A54500
+26/10/2020 00:27:05 New Frequency 5450.0
+26/10/2020 00:27:07 User Command login
+26/10/2020 00:27:14 Program killed by keyboard interrupt.......................
+26/10/2020 00:30:17 X-Gate Start.........................................................
+26/10/2020 00:30:17 Talkthrough OFF
+26/10/2020 00:30:24 Wrong PIN
+26/10/2020 00:30:29 User Command login
+26/10/2020 00:30:34 Command received : *2
+26/10/2020 00:30:34 Peeking on HF for 10 ....
+26/10/2020 00:30:44 User Command login
+26/10/2020 00:30:57 Command received : A19330
+26/10/2020 00:30:57 New Frequency 1933.0
+26/10/2020 00:30:58 User Command login
+26/10/2020 00:31:12 Program killed by keyboard interrupt.......................
+26/10/2020 00:32:14 X-Gate Start.........................................................
+26/10/2020 00:32:14 Talkthrough OFF
+26/10/2020 00:32:20 User Command login
+26/10/2020 00:32:28 Command received : A12350
+26/10/2020 00:32:28 New Frequency 1235.0
+26/10/2020 00:32:39 Command received : *1
+26/10/2020 00:32:42 ATU Tune.... ATU Tune cycle complete
+26/10/2020 00:32:49 Command received : *999*
+26/10/2020 00:32:49 Got quit command
+26/10/2020 00:32:49 Talkthrough OFF
+26/10/2020 00:32:49 TX Power set to 0
+26/10/2020 00:34:33 X-Gate Start.........................................................
+26/10/2020 00:34:33 Talkthrough OFF
+26/10/2020 00:34:38 Wrong PIN
+26/10/2020 00:34:44 User Command login
+26/10/2020 00:34:48 Command received : *2
+26/10/2020 00:34:48 Peeking on HF for 10 ....
+26/10/2020 00:35:02 Command received : A21820
+26/10/2020 00:35:02 New Frequency 2182.0
+26/10/2020 00:35:08 Command received : *99*
+26/10/2020 00:35:08 Command *99* not understood
+26/10/2020 00:35:18 Program killed by keyboard interrupt.......................
+26/10/2020 00:35:48 X-Gate Start.........................................................
+26/10/2020 00:35:48 Talkthrough OFF
+26/10/2020 00:35:52 User Command login
+26/10/2020 00:35:57 Command received : *2
+26/10/2020 00:35:57 Peeking on HF for 10 ....
+26/10/2020 00:36:13 Command received : C1
+26/10/2020 00:36:13 Talkthrough ON
+26/10/2020 00:36:27 Talkthrough OFF
+26/10/2020 00:36:31 Command received : C1
+26/10/2020 00:36:31 Talkthrough ON
+26/10/2020 00:36:46 We were in TT prior... returning to TT
+26/10/2020 00:36:46 Talkthrough ON
+26/10/2020 00:36:46 Talkthrough OFF
+26/10/2020 00:36:59 Program killed by keyboard interrupt.......................
+26/10/2020 00:39:42 X-Gate Start.........................................................
+26/10/2020 00:39:42 Talkthrough OFF
+26/10/2020 00:39:47 User Command login
+26/10/2020 00:39:51 Command received : C1
+26/10/2020 00:39:51 Talkthrough ON
+26/10/2020 00:40:49 Command received : C0
+26/10/2020 00:40:49 Talkthrough OFF
+26/10/2020 00:41:05 Command received : *99*
+26/10/2020 00:41:05 Logout
+26/10/2020 00:41:14 Wrong PIN
+26/10/2020 00:41:19 User Command login
+26/10/2020 00:41:31 Command received : *9999*
+26/10/2020 00:41:31 Got quit command
+26/10/2020 00:41:31 Talkthrough OFF
+26/10/2020 00:41:31 TX Power set to 0
+26/10/2020 00:43:26 X-Gate Start.........................................................
+26/10/2020 00:43:27 Talkthrough OFF
+26/10/2020 00:43:31 User Command login
+26/10/2020 00:43:36 Command received : *99*
+26/10/2020 00:43:36 Logout
+26/10/2020 00:43:43 User Command login
+26/10/2020 00:44:02 Command received : *99*
+26/10/2020 00:44:02 Logout
+26/10/2020 00:44:06 Wrong PIN
+26/10/2020 00:44:09 Wrong PIN
+26/10/2020 00:44:17 User Command login
+26/10/2020 00:44:25 Command received : A17700
+26/10/2020 00:44:25 New Frequency 1770.0
+26/10/2020 00:44:30 Command received : D
+26/10/2020 00:44:30 S Meter : S0
+26/10/2020 00:44:30 STATUS : Mode USB, Frequency 1770.0, S0
+26/10/2020 00:44:47 Command received : *99*
+26/10/2020 00:44:47 Logout
+26/10/2020 00:44:56 User Command login
+26/10/2020 00:45:01 Command received : *9999*
+26/10/2020 00:45:01 Got quit command
+26/10/2020 00:45:01 Talkthrough OFF
+26/10/2020 00:45:01 TX Power set to 0
+26/10/2020 00:45:45 X-Gate Start.........................................................
+26/10/2020 00:45:45 Talkthrough OFF
+26/10/2020 00:45:51 User Command login
+26/10/2020 00:46:02 Command received : A37750
+26/10/2020 00:46:02 New Frequency 3775.0
+26/10/2020 00:46:06 Command received : B2
+26/10/2020 00:46:06 New Mode LSB
+26/10/2020 00:46:21 Command received : *215
+26/10/2020 00:46:21 Peeking on HF for 15 ....
+26/10/2020 00:46:38 Command received : *99*
+26/10/2020 00:46:38 Logout
+26/10/2020 00:46:44 Wrong PIN
+26/10/2020 00:46:53 User Command login
+26/10/2020 00:47:19 Command received : D
+26/10/2020 00:47:19 S Meter : S0
+26/10/2020 00:47:19 STATUS : Mode LSB, Frequency 3775.0, S0
+26/10/2020 00:47:38 Command received : *1
+26/10/2020 00:47:41 ATU Tune.... ATU Tune cycle complete
+26/10/2020 00:47:55 Program killed by keyboard interrupt.......................
+26/10/2020 00:48:49 X-Gate Start.........................................................
+26/10/2020 00:48:49 Talkthrough OFF
+26/10/2020 00:48:53 Wrong PIN
+26/10/2020 00:49:00 User Command login
+26/10/2020 00:49:06 Command received : A37600
+26/10/2020 00:49:06 New Frequency 3760.0
+26/10/2020 00:49:15 Command received : A36600
+26/10/2020 00:49:15 New Frequency 3660.0
+26/10/2020 00:49:22 Command received : A3652
+26/10/2020 00:49:22 New Frequency 365.2
+26/10/2020 00:49:31 Command received : A6930
+26/10/2020 00:49:31 New Frequency 693.0
+26/10/2020 00:49:37 Command received : *2
+26/10/2020 00:49:37 Peeking on HF for 10 ....
+26/10/2020 00:49:52 Command received : B3
+26/10/2020 00:49:52 New Mode AM
+26/10/2020 00:49:57 Command received : *2
+26/10/2020 00:49:57 Peeking on HF for 10 ....
+26/10/2020 00:50:13 Command received : 
+26/10/2020 00:50:13 Exception in command_two : 
+26/10/2020 00:50:19 Command received : *83
+26/10/2020 00:50:19 IF Filter : WIDE
+26/10/2020 00:50:25 Command received : *2
+26/10/2020 00:50:25 Peeking on HF for 10 ....
+26/10/2020 00:50:36 Command received : 82
+26/10/2020 00:50:36 Command 82 not understood
+26/10/2020 00:50:41 Command received : *82
+26/10/2020 00:50:41 IF Filter : NORMAL
+26/10/2020 00:50:50 Command received : B1
+26/10/2020 00:50:50 New Mode USB
+26/10/2020 00:51:00 Command received : A8100
+26/10/2020 00:51:00 New Frequency 810.0
+26/10/2020 00:51:05 Command received : *2
+26/10/2020 00:51:05 Peeking on HF for 10 ....
+26/10/2020 00:51:26 Command received : A35250
+26/10/2020 00:51:26 New Frequency 3525.0
+26/10/2020 00:51:34 Command received : A35300
+26/10/2020 00:51:34 New Frequency 3530.0
+26/10/2020 00:51:40 Command received : *2
+26/10/2020 00:51:40 Peeking on HF for 10 ....
+26/10/2020 00:51:59 Command received : C1
+26/10/2020 00:51:59 Talkthrough ON
+26/10/2020 00:52:17 Command received : C0
+26/10/2020 00:52:17 Talkthrough OFF
+26/10/2020 00:52:26 Command received : *9999*
+26/10/2020 00:52:26 Got quit command
+26/10/2020 00:52:26 Talkthrough OFF
+26/10/2020 00:52:26 TX Power set to 0
+26/10/2020 00:53:45 X-Gate Start.........................................................
+26/10/2020 00:53:45 Talkthrough OFF
+26/10/2020 00:53:51 User Command login
+26/10/2020 00:53:54 Command received : D
+26/10/2020 00:53:54 S Meter : S4
+26/10/2020 00:53:54 STATUS : Mode USB, Frequency 3530.0, S4 , OFF
+26/10/2020 00:54:12 Command received : C1
+26/10/2020 00:54:12 Talkthrough ON
+26/10/2020 00:54:43 Command received : C1DD
+26/10/2020 00:54:43 Command C1DD not understood
+26/10/2020 00:54:49 Command received : D
+26/10/2020 00:54:49 S Meter : S0
+26/10/2020 00:54:49 STATUS : Mode USB, Frequency 3530.0, S0 , ON
+26/10/2020 00:55:09 Command received : C0
+26/10/2020 00:55:09 Talkthrough OFF
+26/10/2020 00:55:20 Command received : A21820
+26/10/2020 00:55:20 New Frequency 2182.0
+26/10/2020 00:55:33 Command received : A100510
+26/10/2020 00:55:33 New Frequency 10051.0
+26/10/2020 00:55:46 Command received : *99*
+26/10/2020 00:55:46 Logout
+26/10/2020 01:00:50 User Command login
+26/10/2020 01:01:05 Command received : A36600
+26/10/2020 01:01:05 New Frequency 3660.0
+26/10/2020 01:01:06 Identify
+26/10/2020 01:01:19 Command received : C0
+26/10/2020 01:01:19 Talkthrough OFF
+26/10/2020 01:01:27 Command received : B2
+26/10/2020 01:01:28 New Mode LSB
+26/10/2020 01:01:32 Command received : *2
+26/10/2020 01:01:32 Peeking on HF for 10 ....
+26/10/2020 01:01:52 Command received : *99*
+26/10/2020 01:01:52 Logout
+26/10/2020 07:24:11 Program killed by keyboard interrupt.......................
+26/10/2020 07:33:55 X-Gate Start.........................................................
+26/10/2020 07:33:55 Talkthrough OFF
+26/10/2020 07:34:06 User Command login
+26/10/2020 07:34:09 Command received : D
+26/10/2020 07:34:09 S Meter : S2
+26/10/2020 07:34:09 STATUS : Mode USB, Frequency 5304.0, S2 , OFF
+26/10/2020 07:34:26 Command received : C1
+26/10/2020 07:34:26 Talkthrough ON
+26/10/2020 07:34:46 Command received : *99*
+26/10/2020 07:34:46 Logout
+26/10/2020 07:34:55 User Command login
+26/10/2020 07:34:57 Talkthrough OFF
+26/10/2020 07:34:59 Command received : D
+26/10/2020 07:35:00 S Meter : S2
+26/10/2020 07:35:00 STATUS : Mode USB, Frequency 5304.0, S2 , ON
+26/10/2020 07:35:16 Command received : *99*
+26/10/2020 07:35:16 Logout
+26/10/2020 07:35:18 We were in TT prior... returning to TT
+26/10/2020 07:35:18 Talkthrough ON
+26/10/2020 07:35:25 Program killed by keyboard interrupt.......................
+26/10/2020 07:36:49 X-Gate Start.........................................................
+26/10/2020 07:36:49 Talkthrough OFF
+26/10/2020 07:36:55 User Command login
+26/10/2020 07:36:59 Command received : C1
+26/10/2020 07:37:16 Command received : *99*
+26/10/2020 07:37:16 Logout
+26/10/2020 07:37:18 We were in TT prior... returning to TT
+26/10/2020 07:37:18 Talkthrough ON
+26/10/2020 07:37:27 User Command login
+26/10/2020 07:37:28 Talkthrough OFF
+26/10/2020 07:37:30 Command received : C0
+26/10/2020 07:37:30 Talkthrough OFF
+26/10/2020 07:37:37 Command received : *99*
+26/10/2020 07:37:37 Logout
+26/10/2020 07:37:48 User Command login
+26/10/2020 07:37:54 Command received : C1
+26/10/2020 07:38:08 Command received : D
+26/10/2020 07:38:08 S Meter : S1
+26/10/2020 07:38:08 STATUS : Mode USB, Frequency 5304.0, S1 , ON
+26/10/2020 07:38:36 Command received : *99*
+26/10/2020 07:38:36 Logout
+26/10/2020 07:38:38 We were in TT prior... returning to TT
+26/10/2020 07:38:38 Talkthrough ON
+26/10/2020 07:41:55 User Command login
+26/10/2020 07:41:57 Talkthrough OFF
+26/10/2020 07:42:03 Command received : *812
+26/10/2020 07:42:03 Command *812 not understood
+26/10/2020 07:42:05 Identify
+26/10/2020 07:42:17 Command received : *82
+26/10/2020 07:42:17 IF Filter : NORMAL
+26/10/2020 07:42:28 Command received : *81
+26/10/2020 07:42:28 IF Filter : NARROW
+26/10/2020 07:42:35 Command received : *83
+26/10/2020 07:42:35 IF Filter : WIDE
+26/10/2020 07:42:41 Command received : *82
+26/10/2020 07:42:41 IF Filter : NORMAL
+26/10/2020 07:42:51 Command received : A36150
+26/10/2020 07:42:51 New Frequency 3615.0
+26/10/2020 07:42:57 Command received : *230
+26/10/2020 07:42:57 Peeking on HF for 30 ....
+26/10/2020 07:44:09 Command received : C1
+26/10/2020 07:44:24 Command received : *99*
+26/10/2020 07:44:24 Logout
+26/10/2020 07:44:26 We were in TT prior... returning to TT
+26/10/2020 07:44:26 Talkthrough ON
+26/10/2020 07:45:51 User Command login
+26/10/2020 07:45:53 Talkthrough OFF
+26/10/2020 07:46:03 Command received : *1
+26/10/2020 07:46:06 ATU Tune.... ATU Tune cycle complete
+26/10/2020 07:46:15 Command received : B3
+26/10/2020 07:46:15 New Mode AM
+26/10/2020 07:46:22 Command received : *81
+26/10/2020 07:46:22 IF Filter : NARROW
+26/10/2020 07:46:32 Command received : *82
+26/10/2020 07:46:32 IF Filter : NORMAL
+26/10/2020 07:46:43 Command received : *83
+26/10/2020 07:46:43 IF Filter : WIDE
+26/10/2020 07:46:52 Command received : *82
+26/10/2020 07:46:52 IF Filter : NORMAL
+26/10/2020 07:47:02 Command received : *81
+26/10/2020 07:47:02 IF Filter : NARROW
+26/10/2020 07:47:16 Command received : B2
+26/10/2020 07:47:16 New Mode LSB
+26/10/2020 07:47:28 Command received : *230
+26/10/2020 07:47:28 Peeking on HF for 30 ....
+26/10/2020 07:47:58 Identify
+26/10/2020 07:48:18 Command received : B1
+26/10/2020 07:48:18 New Mode USB
+26/10/2020 07:48:27 Command received : *31
+26/10/2020 07:48:27 Noise Reduction ON
+26/10/2020 07:48:35 Command received : *99*
+26/10/2020 07:48:35 Logout
+26/10/2020 07:48:37 We were in TT prior... returning to TT
+26/10/2020 07:48:37 Talkthrough ON
+26/10/2020 07:50:15 User Command login
+26/10/2020 07:50:16 Talkthrough OFF
+26/10/2020 07:50:23 Command received : *41
+26/10/2020 07:50:23 Auto Notch Filter ON
+26/10/2020 07:50:33 Command received : *260
+26/10/2020 07:50:33 Peeking on HF for 60 ....
+26/10/2020 07:51:58 Command received : A53985
+26/10/2020 07:51:58 New Frequency 5398.5
+26/10/2020 07:52:01 Command received : *1
+26/10/2020 07:52:05 ATU Tune.... ATU Tune cycle complete
+26/10/2020 07:52:13 Command received : *30
+26/10/2020 07:52:13 Noise Reduction OFF
+26/10/2020 07:52:22 Command received : *31
+26/10/2020 07:52:22 Noise Reduction ON
+26/10/2020 07:52:30 Command received : C1
+26/10/2020 07:52:45 Command received : *99*
+26/10/2020 07:52:45 Logout
+26/10/2020 07:52:47 We were in TT prior... returning to TT
+26/10/2020 07:52:47 Talkthrough ON
+26/10/2020 07:53:49 Program killed by keyboard interrupt.......................
+26/10/2020 07:55:01 X-Gate Start.........................................................
+26/10/2020 07:55:01 Talkthrough OFF
+26/10/2020 07:55:10 User Command login
+26/10/2020 07:55:15 Command received : C1*
+26/10/2020 07:55:15 Exception in command_two : C1*
+26/10/2020 07:55:23 Command received : *99*
+26/10/2020 07:55:23 Logout
+26/10/2020 07:55:26 Program killed by keyboard interrupt.......................
+26/10/2020 07:56:51 X-Gate Start.........................................................
+26/10/2020 07:56:51 Talkthrough OFF
+26/10/2020 07:56:55 User Command login
+26/10/2020 07:57:00 Command received : C1*
+26/10/2020 07:57:00 Force TT ON during login session
+26/10/2020 07:57:00 Talkthrough ON
+26/10/2020 07:57:22 Command received : *99*
+26/10/2020 07:57:22 Logout
+26/10/2020 07:57:33 Program killed by keyboard interrupt.......................
+26/10/2020 07:57:53 X-Gate Start.........................................................
+26/10/2020 07:57:53 Talkthrough OFF
+26/10/2020 07:57:58 User Command login
+26/10/2020 07:58:01 Command received : C1*
+26/10/2020 07:58:01 Force TT ON during login session
+26/10/2020 07:58:01 Talkthrough ON
+26/10/2020 07:58:22 Command received : *99*
+26/10/2020 07:58:23 Logout
+26/10/2020 07:58:25 We were in TT prior... returning to TT
+26/10/2020 07:58:25 Talkthrough ON
+26/10/2020 07:58:36 User Command login
+26/10/2020 07:58:38 Talkthrough OFF
+26/10/2020 07:58:40 Command received : C0
+26/10/2020 07:58:40 Talkthrough OFF
+26/10/2020 07:58:47 Command received : *99*
+26/10/2020 07:58:47 Logout
+26/10/2020 07:58:55 User Command login
+26/10/2020 07:58:58 Command received : C1
+26/10/2020 07:59:14 Command received : *99*
+26/10/2020 07:59:14 Logout
+26/10/2020 07:59:16 We were in TT prior... returning to TT
+26/10/2020 07:59:16 Talkthrough ON
+26/10/2020 07:59:26 User Command login
+26/10/2020 07:59:27 Talkthrough OFF
+26/10/2020 07:59:33 Command received : D
+26/10/2020 07:59:33 S Meter : S1
+26/10/2020 07:59:33 STATUS : Mode USB, Frequency 5398.5, S1 , ON
+26/10/2020 07:59:57 Command received : *99*
+26/10/2020 07:59:57 Logout
+26/10/2020 07:59:59 We were in TT prior... returning to TT
+26/10/2020 07:59:59 Talkthrough ON
+26/10/2020 08:00:45 User Command login
+26/10/2020 08:00:47 Talkthrough OFF
+26/10/2020 08:00:51 Command received : A52760
+26/10/2020 08:00:51 New Frequency 5276.0
+26/10/2020 08:00:54 Command received : *1
+26/10/2020 08:00:57 ATU Tune.... ATU Tune cycle complete
+26/10/2020 08:01:04 Command received : *230
+26/10/2020 08:01:04 Peeking on HF for 30 ....
+26/10/2020 08:02:59 Command received : 2182
+26/10/2020 08:02:59 Command 2182 not understood
+26/10/2020 08:03:04 Command received : 2182
+26/10/2020 08:03:04 Command 2182 not understood
+26/10/2020 08:03:06 Identify
+26/10/2020 08:03:20 Command received : *99*
+26/10/2020 08:03:20 Logout
+26/10/2020 08:03:22 We were in TT prior... returning to TT
+26/10/2020 08:03:22 Talkthrough ON
+26/10/2020 08:03:30 User Command login
+26/10/2020 08:03:31 Talkthrough OFF
+26/10/2020 08:03:36 Command received : C0
+26/10/2020 08:03:36 Talkthrough OFF
+26/10/2020 08:03:51 Command received : A53985
+26/10/2020 08:03:51 New Frequency 5398.5
+26/10/2020 08:03:58 Command received : D
+26/10/2020 08:03:58 S Meter : S4
+26/10/2020 08:03:58 STATUS : Mode USB, Frequency 5398.5, S4 , OFF
+26/10/2020 08:04:18 Command received : D7
+26/10/2020 08:04:18 S Meter : S1
+26/10/2020 08:04:25 Command received : *30
+26/10/2020 08:04:25 Noise Reduction OFF
+26/10/2020 08:04:32 Command received : *40
+26/10/2020 08:04:32 Auto Notch Filter OFF
+26/10/2020 08:04:45 Command received : *31
+26/10/2020 08:04:45 Noise Reduction ON
+26/10/2020 08:04:54 Command received : D
+26/10/2020 08:04:54 S Meter : S6
+26/10/2020 08:04:54 STATUS : Mode USB, Frequency 5398.5, S6 , OFF
+26/10/2020 08:05:15 Command received : A53715
+26/10/2020 08:05:15 New Frequency 5371.5
+26/10/2020 08:05:22 Command received : *2
+26/10/2020 08:05:22 Peeking on HF for 10 ....
+26/10/2020 08:05:38 Command received : A37600
+26/10/2020 08:05:38 New Frequency 3760.0
+26/10/2020 08:05:41 Command received : B2
+26/10/2020 08:05:41 New Mode LSB
+26/10/2020 08:05:45 Command received : *230
+26/10/2020 08:05:45 Peeking on HF for 30 ....
+26/10/2020 08:06:26 Command received : A36600
+26/10/2020 08:06:27 New Frequency 3660.0
+26/10/2020 08:06:34 Command received : A37750
+26/10/2020 08:06:34 New Frequency 3775.0
+26/10/2020 08:06:40 Command received : *2
+26/10/2020 08:06:40 Peeking on HF for 10 ....
+26/10/2020 08:07:00 Command received : A36400
+26/10/2020 08:07:00 New Frequency 3640.0
+26/10/2020 08:07:04 Command received : A36150
+26/10/2020 08:07:04 New Frequency 3615.0
+26/10/2020 08:07:08 Command received : *1
+26/10/2020 08:07:11 ATU Tune.... ATU Tune cycle complete
+26/10/2020 08:07:16 Command received : *230
+26/10/2020 08:07:16 Peeking on HF for 30 ....
+26/10/2020 08:34:49 Command received : 2182
+26/10/2020 08:34:49 Command 2182 not understood
+26/10/2020 08:34:57 Command received : D
+26/10/2020 08:34:57 S Meter : S6
+26/10/2020 08:34:57 STATUS : Mode LSB, Frequency 3615.0, S6 , OFF
+26/10/2020 08:35:12 Identify
+26/10/2020 08:35:24 Command received : *260
+26/10/2020 08:35:24 Peeking on HF for 60 ....
+26/10/2020 08:36:34 Command received : B2
+26/10/2020 08:36:34 New Mode LSB
+26/10/2020 08:36:40 Command received : *25
+26/10/2020 08:36:40 Peeking on HF for 5 ....
+26/10/2020 08:36:50 Command received : A36140
+26/10/2020 08:36:50 New Frequency 3614.0
+26/10/2020 08:36:55 Command received : *2
+26/10/2020 08:36:55 Peeking on HF for 10 ....
+26/10/2020 08:37:11 Command received : A36130
+26/10/2020 08:37:12 New Frequency 3613.0
+26/10/2020 08:37:16 Command received : *25
+26/10/2020 08:37:16 Peeking on HF for 5 ....
+26/10/2020 08:37:27 Command received : A36140
+26/10/2020 08:37:27 New Frequency 3614.0
+26/10/2020 08:37:31 Command received : D
+26/10/2020 08:37:31 S Meter : S2
+26/10/2020 08:37:31 STATUS : Mode LSB, Frequency 3614.0, S2 , OFF
+26/10/2020 08:38:11 Command received : A53985
+26/10/2020 08:38:11 New Frequency 5398.5
+26/10/2020 08:38:14 Command received : B1
+26/10/2020 08:38:14 New Mode USB
+26/10/2020 08:38:17 Command received : D
+26/10/2020 08:38:17 S Meter : S0
+26/10/2020 08:38:17 STATUS : Mode USB, Frequency 5398.5, S0 , OFF
+26/10/2020 08:38:33 Command received : *1
+26/10/2020 08:38:36 ATU Tune.... ATU Tune cycle complete
+26/10/2020 08:38:47 Command received : A52760
+26/10/2020 08:38:47 New Frequency 5276.0
+26/10/2020 08:38:53 Command received : A53780
+26/10/2020 08:38:53 New Frequency 5378.0
+26/10/2020 08:38:58 Command received : A52790
+26/10/2020 08:38:58 New Frequency 5279.0
+26/10/2020 08:39:04 Command received : A53715
+26/10/2020 08:39:04 New Frequency 5371.5
+26/10/2020 08:39:10 Command received : A53665
+26/10/2020 08:39:10 New Frequency 5366.5
+26/10/2020 08:39:13 Command received : D
+26/10/2020 08:39:13 S Meter : S5
+26/10/2020 08:39:13 STATUS : Mode USB, Frequency 5366.5, S5 , OFF
+26/10/2020 08:39:30 Command received : D7
+26/10/2020 08:39:30 S Meter : S5
+26/10/2020 08:39:41 Command received : *310
+26/10/2020 08:39:41 Command *310 not understood
+26/10/2020 08:39:45 Command received : *31
+26/10/2020 08:39:45 Noise Reduction ON
+26/10/2020 08:39:51 Command received : D7
+26/10/2020 08:39:51 S Meter : S5
+26/10/2020 08:40:00 Command received : A53985
+26/10/2020 08:40:00 New Frequency 5398.5
+26/10/2020 08:40:04 Command received : D
+26/10/2020 08:40:04 S Meter : S0
+26/10/2020 08:40:04 STATUS : Mode USB, Frequency 5398.5, S0 , OFF
+26/10/2020 08:40:24 Command received : *230
+26/10/2020 08:40:24 Peeking on HF for 30 ....
+26/10/2020 08:40:54 Identify
+26/10/2020 09:36:47 Command received : *99*
+26/10/2020 09:36:47 Logout
+26/10/2020 09:37:03 User Command login
+26/10/2020 09:37:07 Command received : D
+26/10/2020 09:37:07 S Meter : S1
+26/10/2020 09:37:07 STATUS : Mode USB, Frequency 5398.5, S1 , OFF
+26/10/2020 09:37:21 Identify
+26/10/2020 09:37:33 Command received : A52760
+26/10/2020 09:37:33 New Frequency 5276.0
+26/10/2020 09:37:37 Command received : *1
+26/10/2020 09:37:40 ATU Tune.... ATU Tune cycle complete
+26/10/2020 09:37:43 Command received : 
+26/10/2020 09:37:43 Exception in command_two : 
+26/10/2020 09:37:46 Command received : 
+26/10/2020 09:37:46 Exception in command_two : 
+26/10/2020 09:37:51 Command received : D
+26/10/2020 09:37:51 S Meter : S2
+26/10/2020 09:37:51 STATUS : Mode USB, Frequency 5276.0, S2 , OFF
+26/10/2020 09:38:08 Command received : D
+26/10/2020 09:38:08 S Meter : S0
+26/10/2020 09:38:08 STATUS : Mode USB, Frequency 5276.0, S0 , OFF
+26/10/2020 09:38:28 Command received : C1
+26/10/2020 09:54:22 Command received : C1
+26/10/2020 09:54:43 Command received : *99*
+26/10/2020 09:54:43 Logout
+26/10/2020 09:54:45 We were in TT prior... returning to TT
+26/10/2020 09:54:45 Talkthrough ON
+26/10/2020 09:54:45 Identify
+26/10/2020 10:48:42 User Command login
+26/10/2020 10:48:44 Talkthrough OFF
+26/10/2020 10:48:50 Command received : A53985
+26/10/2020 10:48:50 New Frequency 5398.5
+26/10/2020 10:48:52 Identify
+26/10/2020 16:53:55 X-Gate Start.........................................................
+26/10/2020 16:53:55 Talkthrough OFF
+26/10/2020 16:54:05 S Meter : S5
+26/10/2020 16:54:05 STATUS : Mode USB, Frequency 5276.0, S5 , OFF
+26/10/2020 16:54:25 User Command login
+26/10/2020 16:54:33 Command received : *99*
+26/10/2020 16:54:33 Logout
+26/10/2020 16:54:45 User Command login
+26/10/2020 16:54:49 Command received : C1
+26/10/2020 16:55:15 Command received : *99*
+26/10/2020 16:55:15 Logout
+26/10/2020 16:55:17 We were in TT prior... returning to TT
+26/10/2020 16:55:17 Talkthrough ON
+26/10/2020 17:32:58 Program killed by keyboard interrupt.......................
+26/10/2020 17:33:16 X-Gate Start.........................................................
+26/10/2020 17:33:16 Talkthrough OFF
+26/10/2020 17:33:25 S Meter : S8
+26/10/2020 17:33:25 STATUS : Mode USB, Frequency 5276.0, S8 , OFF
+26/10/2020 17:33:41 Program killed by keyboard interrupt.......................
+27/10/2020 09:37:53 X-Gate Start.........................................................
+27/10/2020 09:37:53 Talkthrough OFF
+27/10/2020 09:38:02 S Meter : S0
+27/10/2020 09:38:02 STATUS : Mode USB, Frequency 14343.0, S0 , OFF
+27/10/2020 09:39:40 Wrong PIN
+27/10/2020 09:39:46 User Command login
+27/10/2020 09:39:54 Command received : A53985
+27/10/2020 09:39:54 New Frequency 5398.5
+27/10/2020 09:43:42 Program killed by keyboard interrupt.......................
+27/10/2020 09:43:42 Got quit command
+27/10/2020 09:43:42 Talkthrough OFF
+27/10/2020 11:05:13 X-Gate Start.........................................................
+27/10/2020 11:05:13 Talkthrough OFF
+27/10/2020 11:05:22 S Meter : S1
+27/10/2020 11:05:22 STATUS : Mode LSB, Frequency 3773.0, S1 , OFF
+27/10/2020 11:05:44 User Command login
+27/10/2020 11:05:51 Command received : *9
+27/10/2020 11:05:52 S Meter : S0
+27/10/2020 11:05:52 STATUS : Mode LSB, Frequency 3773.0, S0 , OFF
+27/10/2020 11:06:10 Command received : *91
+27/10/2020 11:06:10 S Meter : S1
+27/10/2020 11:06:15 Command received : *92
+27/10/2020 11:06:50 Command received : 8
+27/10/2020 11:06:50 Command 8 not understood
+27/10/2020 11:06:56 Command received : *8
+27/10/2020 11:06:59 ATU Tune.... ATU Tune cycle complete
+27/10/2020 11:07:04 Command received : *7
+27/10/2020 11:07:04 Peeking on HF for 10 ....
+27/10/2020 11:07:17 Command received : *75
+27/10/2020 11:07:17 Peeking on HF for 5 ....
+27/10/2020 11:07:27 Command received : *425
+27/10/2020 11:07:27 TX Power set to 25
+27/10/2020 11:07:37 Command received : *40
+27/10/2020 11:07:37 TX Power set to 0
+27/10/2020 11:07:51 Command received : *4100
+27/10/2020 11:07:51 TX Power set to 100
+27/10/2020 11:08:01 Command received : D121820
+27/10/2020 11:08:01 Command D121820 not understood
+27/10/2020 11:08:28 Command received : *121820
+27/10/2020 11:08:28 New Frequency 2182.0
+27/10/2020 11:08:32 Command received : **
+27/10/2020 11:08:32 Command ** not understood
+27/10/2020 11:08:38 Command received : *A
+27/10/2020 11:08:38 Command *A not understood
+27/10/2020 11:08:42 Command received : A
+27/10/2020 11:08:42 Command A not understood
+27/10/2020 11:08:46 Command received : 
+27/10/2020 11:08:46 Command  not understood
+27/10/2020 11:08:49 Command received : B
+27/10/2020 11:08:49 Command B not understood
+27/10/2020 11:09:08 Command received : 
+27/10/2020 11:09:08 Command  not understood
+27/10/2020 11:09:15 Command received : 
+27/10/2020 11:09:15 Command  not understood
+27/10/2020 11:09:25 Command received : 96523BAAA
+27/10/2020 11:09:25 Command 96523BAAA not understood
+27/10/2020 11:09:39 Command received : *9
+27/10/2020 11:09:39 S Meter : S0
+27/10/2020 11:09:39 STATUS : Mode LSB, Frequency 2182.0, S0 , OFF
+27/10/2020 11:09:57 Command received : *21
+27/10/2020 11:09:57 New Mode USB
+27/10/2020 11:10:03 Command received : *22
+27/10/2020 11:10:03 New Mode LSB
+27/10/2020 11:10:07 Command received : *23
+27/10/2020 11:10:07 New Mode AM
+27/10/2020 11:10:12 Command received : *21
+27/10/2020 11:10:12 New Mode USB
+27/10/2020 11:10:20 Command received : *137730
+27/10/2020 11:10:20 New Frequency 3773.0
+27/10/2020 11:10:26 Command received : *22
+27/10/2020 11:10:26 New Mode LSB
+27/10/2020 11:10:32 Command received : *
+27/10/2020 11:10:32 Command * not understood
+27/10/2020 11:10:37 Command received : *8
+27/10/2020 11:10:41 ATU Tune.... ATU Tune cycle complete
+27/10/2020 11:10:51 Command received : *311
+27/10/2020 11:10:51 Noise Reduction ON
+27/10/2020 11:11:01 Command received : *310
+27/10/2020 11:11:01 Noise Reduction OFF
+27/10/2020 11:11:09 Command received : *32
+27/10/2020 11:11:09 Command *32 not understood
+27/10/2020 11:11:16 Command received : *321
+27/10/2020 11:11:17 Auto Notch Filter ON
+27/10/2020 11:11:26 Command received : *320
+27/10/2020 11:11:26 Auto Notch Filter OFF
+27/10/2020 11:11:39 Command received : *331
+27/10/2020 11:11:40 IF Filter : NARROW
+27/10/2020 11:11:49 Command received : 322
+27/10/2020 11:11:49 Command 322 not understood
+27/10/2020 11:12:02 Command received : *322
+27/10/2020 11:12:02 Command *322 not understood
+27/10/2020 11:12:21 Command received : *323
+27/10/2020 11:12:21 Command *323 not understood
+27/10/2020 11:12:41 Command received : 332
+27/10/2020 11:12:41 Command 332 not understood
+27/10/2020 11:12:49 Program killed by keyboard interrupt.......................
+27/10/2020 11:12:49 Got quit command
+27/10/2020 11:12:49 Talkthrough OFF
+27/10/2020 11:13:25 X-Gate Start.........................................................
+27/10/2020 11:13:25 Talkthrough OFF
+27/10/2020 11:13:34 S Meter : S0
+27/10/2020 11:13:34 STATUS : Mode LSB, Frequency 3773.0, S0 , OFF
+27/10/2020 11:15:46 User Command login
+27/10/2020 11:15:53 Command received : *331
+27/10/2020 11:15:53 IF Filter : NARROW
+27/10/2020 11:16:04 Command received : *332
+27/10/2020 11:16:04 IF Filter : NORMAL
+27/10/2020 11:16:13 Command received : *333
+27/10/2020 11:16:13 IF Filter : WIDE
+27/10/2020 11:17:24 Command received : *01
+27/10/2020 11:17:41 Command received : *99*
+27/10/2020 11:17:41 Logout
+27/10/2020 11:17:43 We were in TT prior... returning to TT
+27/10/2020 11:17:43 Talkthrough ON
+27/10/2020 11:17:57 User Command login
+27/10/2020 11:17:59 Talkthrough OFF
+27/10/2020 11:18:02 Command received : *0
+27/10/2020 11:18:02 Command *0 not understood
+27/10/2020 11:18:15 Command received : *00
+27/10/2020 11:18:15 Talkthrough OFF
+27/10/2020 11:18:24 Command received : *99*
+27/10/2020 11:18:24 Logout
+27/10/2020 11:18:32 User Command login
+27/10/2020 11:18:43 Command received : *715
+27/10/2020 11:18:43 Peeking on HF for 15 ....
+27/10/2020 11:19:10 Command received : *91
+27/10/2020 11:19:10 S Meter : S2
+27/10/2020 11:19:16 Command received : *92
+27/10/2020 11:19:56 Command received : *9
+27/10/2020 11:19:56 S Meter : S4
+27/10/2020 11:19:56 STATUS : Mode LSB, Frequency 3773.0, S4 , OFF
+27/10/2020 11:20:18 Command received : *152760
+27/10/2020 11:20:18 New Frequency 5276.0
+27/10/2020 11:20:25 Command received : *8
+27/10/2020 11:20:28 ATU Tune.... ATU Tune cycle complete
+27/10/2020 11:20:37 Command received : *1
+27/10/2020 11:20:37 Exception in command_two : *1
+27/10/2020 11:20:43 Command received : *01
+27/10/2020 11:21:01 Command received : *99*
+27/10/2020 11:21:01 Logout
+27/10/2020 11:21:03 We were in TT prior... returning to TT
+27/10/2020 11:21:03 Talkthrough ON
+27/10/2020 11:22:17 Wrong PIN
+27/10/2020 11:22:28 User Command login
+27/10/2020 11:22:30 Talkthrough OFF
+27/10/2020 11:23:20 X-Gate Start.........................................................
+27/10/2020 11:23:20 Talkthrough OFF
+27/10/2020 11:23:29 S Meter : S0
+27/10/2020 11:23:29 STATUS : Mode LSB, Frequency 5276.0, S0 , OFF
+27/10/2020 11:23:47 User Command login
+27/10/2020 11:23:54 Command received : *21
+27/10/2020 11:23:54 New Mode USB
+27/10/2020 11:24:15 Command received : *8
+27/10/2020 11:24:18 ATU Tune.... ATU Tune cycle complete
+27/10/2020 11:24:23 Command received : *9
+27/10/2020 11:24:24 S Meter : S0
+27/10/2020 11:24:24 STATUS : Mode USB, Frequency 5276.0, S0 , OFF
+27/10/2020 11:24:52 Command received : 
+27/10/2020 11:24:52 Command  not understood
+27/10/2020 11:25:03 Command received : **99
+27/10/2020 11:25:03 Command **99 not understood
+27/10/2020 11:25:09 Command received : *99
+27/10/2020 11:25:09 Command *99 not understood
+27/10/2020 11:25:18 Command received : 0
+27/10/2020 11:25:18 Command 0 not understood
+27/10/2020 11:25:23 Command received : *99*
+27/10/2020 11:25:23 Logout
+27/10/2020 11:25:35 Wrong PIN
+27/10/2020 11:25:40 User Command login
+27/10/2020 11:25:45 Command received : 9
+27/10/2020 11:25:45 Command 9 not understood
+27/10/2020 11:25:49 Command received : 9
+27/10/2020 11:25:49 Command 9 not understood
+27/10/2020 11:25:53 Command received : *9
+27/10/2020 11:25:53 S Meter : S0
+27/10/2020 11:25:53 STATUS : Mode USB, Frequency 5276.0, S0 , OFF
+27/10/2020 11:26:48 Command received : 0
+27/10/2020 11:26:48 Command 0 not understood
+27/10/2020 11:26:51 Command received : 0
+27/10/2020 11:26:51 Command 0 not understood
+27/10/2020 11:26:59 Command received : 01
+27/10/2020 11:26:59 Command 01 not understood
+27/10/2020 11:27:04 Command received : 
+27/10/2020 11:27:04 Command  not understood
+27/10/2020 11:27:16 Command received : 01
+27/10/2020 11:27:16 Command 01 not understood
+27/10/2020 11:27:43 Command received : *9
+27/10/2020 11:27:43 S Meter : S0
+27/10/2020 11:27:43 STATUS : Mode USB, Frequency 5276.0, S0 , OFF
+27/10/2020 11:28:03 Command received : *00
+27/10/2020 11:28:03 Talkthrough OFF
+27/10/2020 11:28:11 Command received : *01
+27/10/2020 11:28:27 Command received : *01*
+27/10/2020 11:28:27 Force TT ON during login session
+27/10/2020 11:28:27 Talkthrough ON
+27/10/2020 11:28:46 Command received : *00
+27/10/2020 11:28:46 Talkthrough OFF
+27/10/2020 11:33:05 Program killed by keyboard interrupt.......................
+27/10/2020 11:33:05 Got quit command
+27/10/2020 11:33:05 Talkthrough OFF
+27/10/2020 11:33:12 X-Gate Start.........................................................
+27/10/2020 11:33:12 Talkthrough OFF
+27/10/2020 11:33:19 User Command login
+27/10/2020 11:33:23 Command received : *93
+27/10/2020 11:33:54 Program killed by keyboard interrupt.......................
+27/10/2020 11:33:54 Got quit command
+27/10/2020 11:33:54 Talkthrough OFF
+27/10/2020 11:34:23 X-Gate Start.........................................................
+27/10/2020 11:34:23 Talkthrough OFF
+27/10/2020 11:34:29 User Command login
+27/10/2020 11:34:35 Command received : *93
+27/10/2020 11:35:08 Program killed by keyboard interrupt.......................
+27/10/2020 11:35:08 Got quit command
+27/10/2020 11:35:08 Talkthrough OFF
+27/10/2020 11:35:45 X-Gate Start.........................................................
+27/10/2020 11:35:45 Talkthrough OFF
+27/10/2020 11:35:50 User Command login
+27/10/2020 11:35:54 Command received : 93
+27/10/2020 11:35:54 Command 93 not understood
+27/10/2020 11:36:00 Command received : *93
+27/10/2020 11:36:35 Command received : *54500
+27/10/2020 11:36:35 Command *54500 not understood
+27/10/2020 11:36:46 Command received : *154500
+27/10/2020 11:36:46 New Frequency 5450.0
+27/10/2020 11:36:55 Command received : *730
+27/10/2020 11:36:55 Peeking on HF for 30 ....
+27/10/2020 11:37:37 Command received : *155050
+27/10/2020 11:37:37 New Frequency 5505.0
+27/10/2020 11:37:49 Command received : *152760
+27/10/2020 11:37:49 New Frequency 5276.0
+27/10/2020 11:37:56 Command received : *3773
+27/10/2020 11:37:56 Command *3773 not understood
+27/10/2020 11:38:05 Command received : *137730
+27/10/2020 11:38:05 New Frequency 3773.0
+27/10/2020 11:38:11 Command received : *8
+27/10/2020 11:38:14 ATU Tune.... ATU Tune cycle complete
+27/10/2020 11:38:25 Command received : *22
+27/10/2020 11:38:25 New Mode LSB
+27/10/2020 11:38:41 Command received : *01
+27/10/2020 11:39:00 Command received : *99*
+27/10/2020 11:39:00 Logout
+27/10/2020 11:39:02 We were in TT prior... returning to TT
+27/10/2020 11:39:02 Talkthrough ON
+27/10/2020 11:42:30 User Command login
+27/10/2020 11:42:32 Talkthrough OFF
+27/10/2020 11:42:36 Command received : *7
+27/10/2020 11:42:36 Peeking on HF for 10 ....
+27/10/2020 11:42:48 Command received : *9
+27/10/2020 11:42:48 S Meter : S1
+27/10/2020 11:42:48 STATUS : Mode LSB, Frequency 3773.0, S1 , ON
+27/10/2020 11:43:04 Command received : *91
+27/10/2020 11:43:04 S Meter : S2
+27/10/2020 11:43:08 Command received : *
+27/10/2020 11:43:08 Command * not understood
+27/10/2020 11:43:12 Command received : *92
+27/10/2020 11:43:43 Command received : *93
+27/10/2020 11:44:07 Command received : *99*
+27/10/2020 11:44:07 Logout
+27/10/2020 11:44:09 We were in TT prior... returning to TT
+27/10/2020 11:44:09 Talkthrough ON
+27/10/2020 11:50:59 Program killed by keyboard interrupt.......................
+27/10/2020 11:50:59 Got quit command
+27/10/2020 11:50:59 Talkthrough OFF

@@ -1,0 +1,5 @@
+[hooks]
+changegroup = hg update
+
+[paths]
+default = /home/gm4slv/PythonProjects/cw_keyer

@@ -1,0 +1,13 @@
+#################################################################
+#                                                               #
+#       Raspberry Pi v2 Model B + Minibian (debian wheezy)      #
+#                                                               # 
+# Icom IC-718 + Signalink USB + Inverted-L Antenna + CG3000 ATU #
+#                                                               #
+#                YaDDNet distributed RX network                 #
+#                                                               #
+#                      Sunday 26 July 2015                      #
+#                                                               #
+#                          On Air Test                          #
+#                                                               #
+#################################################################

@@ -1,0 +1,52 @@
+2015-05-31 08:40:08 ; Admin; Test Call sent to 002320204 on 12577.00 by 78.150.6.17 (rich)
+2015-05-31 08:40:09 ; Transmit on 12577.0 (TEST / REQ) to 002320204 (Snargate Radio Dover / )
+2015-05-31 08:40:30 ; Received on 12577.0 (TEST / REQ) from 002320204 (Snargate Radio Dover / ) ; JOHN-FT817
+2015-05-31 08:40:31 ; Transmit on 12577.0 (TEST / ACK) to 002320204 (Snargate Radio Dover / )
+2015-05-31 08:40:52 ; Received on 12577.0 (TEST / ACK) from 002320204 (Snargate Radio Dover / ) ; JOHN-FT817
+2015-05-31 08:44:27 ; Admin; Login from 80.229.223.86
+2015-05-31 08:44:28 ; Admin; User john logged in from 80.229.223.86
+2015-05-31 08:56:07 ; Admin; Login from 80.229.223.86
+2015-05-31 08:56:07 ; Admin; User john logged in from 80.229.223.86
+2015-05-31 09:04:01 ; Admin; Login from 80.229.223.86
+2015-05-31 09:04:02 ; Admin; User john logged in from 80.229.223.86
+2015-05-31 09:04:05 ; Admin; Logoff from 80.229.223.86 (john)
+2015-05-31 09:04:16 ; Admin; Login from 80.229.223.86
+2015-05-31 09:04:16 ; Admin; User john logged in from 80.229.223.86
+2015-05-31 09:04:29 ; Admin; Logoff from 80.229.223.86 (john)
+2015-05-31 09:04:50 ; Admin; Login from 80.229.223.86
+2015-05-31 09:04:51 ; Admin; User john logged in from 80.229.223.86
+2015-05-31 09:05:51 ; Admin; Logoff from 80.229.223.86 (john)
+2015-05-31 09:05:53 ; Admin; Login from 80.229.223.86
+2015-05-31 09:05:53 ; Admin; USER INVALID 80.229.223.86 ()
+2015-05-31 09:05:54 ; Admin; Login from 80.229.223.86
+2015-05-31 09:05:55 ; Admin; USER INVALID 80.229.223.86 ()
+2015-05-31 09:05:56 ; Admin; Login from 80.229.223.86
+2015-05-31 09:05:57 ; Admin; USER INVALID 80.229.223.86 ()
+2015-05-31 09:05:58 ; Admin; Login from 80.229.223.86
+2015-05-31 09:05:59 ; Admin; USER INVALID 80.229.223.86 ()
+2015-05-31 09:06:02 ; Admin; Login from 80.229.223.86
+2015-05-31 09:06:02 ; Admin; USER INVALID 80.229.223.86 ()
+2015-05-31 09:06:03 ; Admin; Login from 80.229.223.86
+2015-05-31 09:06:04 ; Admin; USER INVALID 80.229.223.86 ()
+2015-05-31 09:06:05 ; Admin; Login from 80.229.223.86
+2015-05-31 09:06:05 ; Admin; USER INVALID 80.229.223.86 ()
+2015-05-31 09:06:06 ; Admin; Login from 80.229.223.86
+2015-05-31 09:06:07 ; Admin; User john logged in from 80.229.223.86
+2015-05-31 09:06:08 ; Admin; Login from 80.229.223.86
+2015-05-31 09:06:08 ; Admin; User john logged in from 80.229.223.86
+2015-05-31 10:07:25 ; Received on 8414.5 (TEST / REQ) from 563736000 (PUERTO ROSARIO / 9V2202) ; DICK-RX321
+2015-05-31 10:07:25 ; Received on 8414.5 (TEST / REQ) from 563736000 (PUERTO ROSARIO / 9V2202) ; MICHAEL_SDR#3
+2015-05-31 10:07:25 ; Received on 8414.5 (TEST / REQ) from 563736000 (PUERTO ROSARIO / 9V2202) ; JOHN-FCDPP
+2015-05-31 10:07:25 ; Transmit on 8414.5 (TEST / ACK) to 563736000 (PUERTO ROSARIO / 9V2202)
+2015-05-31 10:07:45 ; Admin; Login from 80.229.223.86
+2015-05-31 10:07:45 ; Admin; User john logged in from 80.229.223.86
+2015-05-31 10:18:02 ; Admin; Login from 80.229.223.86
+2015-05-31 10:18:02 ; Admin; User john logged in from 80.229.223.86
+2015-05-31 10:21:52 ; Admin; Login from 80.229.223.86
+2015-05-31 10:21:52 ; Admin; User john logged in from 80.229.223.86
+2015-05-31 10:22:56 ; Admin; Login from 80.229.223.86
+2015-05-31 10:22:56 ; Admin; User john logged in from 80.229.223.86
+2015-05-31 10:23:48 ; Admin; Login from 80.229.223.86
+2015-05-31 10:23:49 ; Admin; User john logged in from 80.229.223.86
+
+

@@ -1,0 +1,8 @@
+# example repository config (see 'hg help config' for more info)
+[paths]
+default = ssh://xgate/xgate_project_v1
+
+[hooks]
+# update working directory after adding changesets
+changegroup.update = hg update
+

@@ -1,0 +1,1193 @@
+2015-05-28 11:39:32 ; Transmit on 8414.5 (TEST / ACK) to 209141000 (ATLANTIC PATRIOT / P3KN9)
+2015-05-28 11:44:39 ; Transmit on 12577.0 (TEST / ACK) to 636016199 (ZIM HAMBURG / D5EY9)
+2015-05-28 11:45:49 ; Transmit on 8414.5 (TEST / ACK) to 636016199 (ZIM HAMBURG / D5EY9)
+2015-05-28 12:07:13 ; Transmit on 4207.5 (TEST / ACK) to 305989000 (NELLI / V2PX6)
+2015-05-28 12:09:27 ; Transmit on 12577.0 (TEST / ACK) to 636016318 (VSC CASTOR / D5FN5)
+2015-05-28 12:20:25 ; Transmit on 8414.5 (TEST / ACK) to 376085000 (RED SPIRIT / J8B4896)
+2015-05-28 13:00:37 ; Transmit on 16804.5 (TEST / ACK) to 477622400 (KOBAI / VRFW3)
+2015-05-28 13:12:02 ; Coast Station online......
+2015-05-28 13:38:39 ; Unable to communicate with Transceiver.... quitting...
+2015-05-28 13:39:01 ; Coast Station online......
+2015-05-28 13:40:31 ; Unable to communicate with Transceiver.... quitting...
+2015-05-28 13:41:01 ; Coast Station online......
+2015-05-28 13:42:02 ; Coast Station online......
+2015-05-28 13:42:48 ; Transmit on 2187.5 (TEST / REQ) to 002320001 (Shetland Coastguard / )
+2015-05-28 14:21:20 ; Transmit on 12577.0 (TEST / ACK) to 226099000 (ATRIA / FICZ)
+2015-05-28 14:24:26 ; Transmit on 8414.5 (TEST / ACK) to 249078000 (SEAPRINCESS / 9HJZ9)
+2015-05-28 14:30:40 ; Transmit on 12577.0 (TEST / ACK) to 311009700 (GREEN CRYSTAL / C6XH5)
+2015-05-28 14:31:58 ; Transmit on 4207.5 (TEST / ACK) to 311009700 (GREEN CRYSTAL / C6XH5)
+2015-05-28 18:23:02 ; Coast Station online......
+2015-05-28 18:38:02 ; Coast Station online......
+2015-05-29 07:24:54 ; Transmit on 2187.5 (TEST / REQ) to 002320001 (Shetland Coastguard / )
+2015-05-29 07:34:10 ; Transmit on 8414.5 (TEST / ACK) to 257739000 (ARCTIC PRINCESS / LAGE6)
+2015-05-29 07:36:13 ; Transmit on 12577.0 (TEST / ACK) to 257739000 (ARCTIC PRINCESS / LAGE6)
+2015-05-29 07:37:47 ; Transmit on 12577.0 (TEST / ACK) to 257739000 (ARCTIC PRINCESS / LAGE6)
+2015-05-29 07:43:46 ; Transmit on 12577.0 (TEST / ACK) to 257739000 (ARCTIC PRINCESS / LAGE6)
+2015-05-29 07:44:51 ; Transmit on 8414.5 (TEST / ACK) to 310423000 (CARIBBEAN PRINCESS / ZCDG8)
+2015-05-29 08:57:46 ; Transmit on 16804.5 (TEST / ACK) to 367093000 (ALLIANCE ST. LOUIS / WGAE)
+2015-05-29 09:10:13 ; Transmit on 12577.0 (TEST / ACK) to 367093000 (ALLIANCE ST. LOUIS / WGAE)
+2015-05-29 09:20:21 ; Transmit on 12577.0 (TEST / ACK) to 248779000 (ALMYROS / 9HA2510)
+2015-05-29 09:33:39 ; Coast Station online......
+2015-05-29 09:34:26 ; Transmit on 2187.5 (TEST / REQ) to 002320001 (Shetland Coastguard / )
+2015-05-29 09:40:01 ; Coast Station online......
+2015-05-29 09:42:37 ; Transmit on 16804.5 (TEST / ACK) to 248779000 (ALMYROS / 9HA2510)
+2015-05-29 09:56:57 ; Coast Station online......
+2015-05-29 09:59:01 ; Unable to communicate with Transceiver.... quitting...
+2015-05-29 09:59:13 ; Coast Station online......
+2015-05-29 10:15:13 ; Transmit on 16804.5 (TEST / ACK) to 367063280 (HONOR / WDC6923)
+2015-05-29 10:22:17 ; Coast Station online......
+2015-05-29 10:23:58 ; Coast Station online......
+2015-05-29 10:26:00 ; Coast Station online......
+2015-05-29 10:29:47 ; Coast Station online......
+2015-05-29 10:30:04 ; Transmit on 2187.5 (TEST / REQ) to 002320001 (Shetland Coastguard / )
+2015-05-29 10:31:46 ; Coast Station online......
+2015-05-29 10:31:57 ; Transmit on 2187.5 (TEST / REQ) to 002320001 (Shetland Coastguard / )
+2015-05-29 10:33:18 ; Coast Station online......
+2015-05-29 10:33:27 ; Transmit on 2187.5 (TEST / REQ) to 002320001 (Shetland Coastguard / )
+2015-05-29 10:34:55 ; Coast Station online......
+2015-05-29 10:35:09 ; Transmit on 2187.5 (TEST / REQ) to 002320001 (Shetland Coastguard / )
+2015-05-29 10:36:46 ; Coast Station online......
+2015-05-29 10:39:33 ; Transmit on 2187.5 (TEST / REQ) to 002320024 (Stornoway Coastguard / )
+2015-05-29 10:40:34 ; Transmit on 2187.5 (TEST / REQ) to 002191000 (Lyngby Radio / )
+2015-05-29 10:45:02 ; Coast Station online......
+2015-05-29 10:45:26 ; Transmit on 2187.5 (TEST / REQ) to 002320001 (Shetland Coastguard / )
+2015-05-29 11:08:14 ; Transmit on 2187.5 (TEST / REQ) to 002320001 (Shetland Coastguard / )
+2015-05-29 11:09:15 ; Transmit on 2187.5 (TEST / REQ) to 002320004 (Aberdeen Coastguard / )
+2015-05-29 11:16:55 ; Transmit on 12577.0 (TEST / ACK) to 636016529 (BULK JAPAN / D5GP4)
+2015-05-29 11:40:19 ; Transmit on 12577.0 (TEST / ACK) to 636016318 (VSC CASTOR / D5FN5)
+2015-05-29 12:02:37 ; Transmit on 12577.0 (TEST / ACK) to 247218600 (VALLE BIANCA / ICEF)
+2015-05-29 12:44:44 ; Transmit on 12577.0 (TEST / ACK) to 566088000 (DON CARLOS / 9V9243)
+2015-05-29 12:47:40 ; Transmit on 8414.5 (TEST / ACK) to 244868000 (NORDIC / PBGD)
+2015-05-29 12:57:10 ; Transmit on 8414.5 (TEST / ACK) to 548718000 (SIR HENRY / DYIL)
+2015-05-29 13:28:24 ; Transmit on 8414.5 (TEST / ACK) to 538090180 (ASHNA / V7GR5)
+2015-05-29 13:30:39 ; Transmit on 8414.5 (TEST / ACK) to 255804290 (HARBOUR PROGRESS / CQNY)
+2015-05-29 13:30:53 ; Transmit on 8414.5 (TEST / ACK) to 538090180 (ASHNA / V7GR5)
+2015-05-29 13:33:01 ; Transmit on 12577.0 (TEST / ACK) to 255804290 (HARBOUR PROGRESS / CQNY)
+2015-05-29 13:35:12 ; Transmit on 16804.5 (TEST / ACK) to 538090180 (ASHNA / V7GR5)
+2015-05-29 14:07:01 ; Transmit on 16804.5 (TEST / ACK) to 563972000 (NORGAS CONCEPTION / 9V8221)
+2015-05-29 15:47:00 ; Transmit on 12577.0 (TEST / ACK) to 235084182 (CPO MALAYSIA / 2EDK6)
+2015-05-29 15:48:17 ; Transmit on 16804.5 (TEST / ACK) to 235084182 (CPO MALAYSIA / 2EDK6)
+2015-05-29 15:49:58 ; Transmit on 8414.5 (TEST / ACK) to 235084182 (CPO MALAYSIA / 2EDK6)
+2015-05-29 15:51:18 ; Transmit on 16804.5 (TEST / ACK) to 235084182 (CPO MALAYSIA / 2EDK6)
+2015-05-29 15:52:31 ; Transmit on 12577.0 (TEST / ACK) to 235084182 (CPO MALAYSIA / 2EDK6)
+2015-05-29 15:53:37 ; Transmit on 12577.0 (TEST / ACK) to 235084182 (CPO MALAYSIA / 2EDK6)
+2015-05-29 15:56:20 ; Transmit on 8414.5 (TEST / ACK) to 235084182 (CPO MALAYSIA / 2EDK6)
+2015-05-29 16:08:04 ; Transmit on 16804.5 (TEST / ACK) to 235084182 (CPO MALAYSIA / 2EDK6)
+2015-05-29 16:09:12 ; Transmit on 16804.5 (TEST / ACK) to 235084182 (CPO MALAYSIA / 2EDK6)
+2015-05-29 16:10:34 ; Transmit on 16804.5 (TEST / ACK) to 235084182 (CPO MALAYSIA / 2EDK6)
+2015-05-29 21:46:43 ; Transmit on 12577.0 (TEST / ACK) to 538003971 (ARDMORE SEAFARER / V7UL5)
+2015-05-29 22:57:57 ; Transmit on 2187.5 (TEST / ACK) to 244810209 (TRINITYBORG / P.C.W.U)
+2015-05-29 22:59:11 ; Transmit on 2187.5 (TEST / ACK) to 244810209 (TRINITYBORG / P.C.W.U)
+2015-05-29 22:59:39 ; Transmit on 4207.5 (TEST / ACK) to 244810209 (TRINITYBORG / P.C.W.U)
+2015-05-29 23:28:25 ; Transmit on 16804.5 (TEST / ACK) to 240561000 (CAP CHARLES / SXVV)
+2015-05-29 23:28:58 ; Transmit on 8414.5 (TEST / ACK) to 244104000 (MAERSK PENANG / PDHU)
+2015-05-29 23:29:09 ; Transmit on 8414.5 (TEST / ACK) to 244104000 (MAERSK PENANG / PDHU)
+2015-05-29 23:54:29 ; Transmit on 2187.5 (TEST / ACK) to 636091368 (SCL MARGRIT / A8MT8)
+2015-05-30 00:19:42 ; Transmit on 6312.0 (TEST / ACK) to 538002349 (CARDINAL / V7IB3)
+2015-05-30 02:25:02 ; Transmit on 12577.0 (TEST / ACK) to 235084182 (CPO MALAYSIA / 2EDK6)
+2015-05-30 06:15:51 ; Transmit on 8414.5 (TEST / ACK) to 240032000 (DIONE / SVTN)
+2015-05-30 06:36:41 ; Transmit on 2187.5 (TEST / ACK) to 241106000 (ANANGEL MARINER / SVBH4)
+2015-05-30 07:34:07 ; Transmit on 12577.0 (TEST / ACK) to 538005473 (OVERSEAS SHENANDOAH / V7EI2)
+2015-05-30 07:34:21 ; Transmit on 12577.0 (TEST / ACK) to 538005473 (OVERSEAS SHENANDOAH / V7EI2)
+2015-05-30 07:40:02 ; Coast Station online......
+2015-05-30 07:43:02 ; Coast Station online......
+2015-05-30 07:43:04 ; Unable to communicate with Transceiver.... quitting...
+2015-05-30 07:43:37 ; Coast Station online......
+2015-05-30 07:44:51 ; Coast Station online......
+2015-05-30 07:45:51 ; Coast Station online......
+2015-05-30 07:46:40 ; Coast Station online......
+2015-05-30 08:02:37 ; Coast Station online......
+2015-05-30 08:05:34 ; Coast Station online......
+2015-05-30 08:06:38 ; Coast Station online......
+2015-05-30 08:11:54 ; Transmit on 8414.5 (TEST / ACK) to 311361000 (BRILLIANCE OFTHESEAS / C6SJ5)
+2015-05-30 08:30:43 ; Transmit on 8414.5 (TEST / ACK) to 212366000 (HANDY STRANGER / 5BYG3)
+2015-05-30 08:54:33 ; Coast Station online......
+2015-05-30 09:10:47 ; Transmit on 16804.5 (TEST / ACK) to 215268000 (PESSADA / 9HIH7)
+2015-05-30 09:29:00 ; Transmit on 12577.0 (TEST / ACK) to 215171000 (SEAEMPRESS / 9HFA7)
+2015-05-30 10:18:25 ; Transmit on 12577.0 (TEST / ACK) to 565002000 (GREATSHIP MANISHA / 9V7823)
+2015-05-30 10:29:34 ; Transmit on 8414.5 (TEST / ACK) to 241240000 (MSC ATHOS / SVBR8)
+2015-05-30 10:35:55 ; Transmit on 12577.0 (TEST / ACK) to 352914000 (ORION III / H3YY)
+2015-05-30 10:36:21 ; Transmit on 12577.0 (TEST / ACK) to 352914000 (ORION III / H3YY)
+2015-05-30 10:39:28 ; Transmit on 12577.0 (TEST / ACK) to 356771000 (BORONIA K / 3FVY3)
+2015-05-30 11:50:04 ; Transmit on 16804.5 (TEST / ACK) to 235084182 (CPO MALAYSIA / 2EDK6)
+2015-05-30 12:25:27 ; Transmit on 6312.0 (TEST / ACK) to 636090736 (CAP BEATRICE / A8EG9)
+2015-05-30 12:27:07 ; Transmit on 8414.5 (TEST / ACK) to 305223000 (FORTITUDE / V2DI4)
+2015-05-30 12:49:08 ; Transmit on 8414.5 (TEST / ACK) to 240503000 (ANANGEL ODYSSEY / SXOE)
+2015-05-30 13:25:07 ; Transmit on 8414.5 (TEST / ACK) to 241292000 (AMAZON VICTORY / SVBW7)
+2015-05-30 13:55:58 ; Transmit on 16804.5 (TEST / ACK) to 241292000 (AMAZON VICTORY / SVBW7)
+2015-05-30 14:05:54 ; Transmit on 12577.0 (TEST / ACK) to 246666000 (PENHAR / PBXQ)
+2015-05-30 14:33:28 ; Transmit on 12577.0 (TEST / ACK) to 266339000 (CARMEN / SMGW)
+2015-05-30 14:52:45 ; Transmit on 12577.0 (TEST / ACK) to 319349000 (ORIENTAL FREESIA / ZGCD7)
+2015-05-30 18:28:34 ; Transmit on 6312.0 (TEST / ACK) to 357252000 (SALANDI / 3FEB9)
+2015-05-30 18:31:25 ; Transmit on 8414.5 (TEST / ACK) to 357252000 (SALANDI / 3FEB9)
+2015-05-30 19:43:09 ; Transmit on 16804.5 (TEST / ACK) to 566088000 (DON CARLOS / 9V9243)
+2015-05-30 20:04:20 ; Transmit on 12577.0 (TEST / ACK) to 566088000 (DON CARLOS / 9V9243)
+2015-05-30 20:04:43 ; Transmit on 12577.0 (TEST / ACK) to 566088000 (DON CARLOS / 9V9243)
+2015-05-30 20:15:40 ; Transmit on 8414.5 (TEST / ACK) to 566088000 (DON CARLOS / 9V9243)
+2015-05-30 20:28:02 ; Coast Station online......
+2015-05-30 20:30:02 ; Coast Station online......
+2015-05-30 20:32:02 ; Coast Station online......
+2015-05-30 20:33:02 ; Coast Station online......
+2015-05-30 20:35:01 ; Coast Station online......
+2015-05-30 20:37:01 ; Coast Station online......
+2015-05-30 20:56:01 ; Coast Station online......
+2015-05-30 20:59:01 ; Coast Station online......
+2015-05-30 21:01:02 ; Coast Station online......
+2015-05-30 21:02:01 ; Coast Station online......
+2015-05-30 21:06:01 ; Coast Station online......
+2015-05-30 21:08:02 ; Coast Station online......
+2015-05-30 21:09:01 ; Coast Station online......
+2015-05-30 21:10:02 ; Coast Station online......
+2015-05-30 21:20:01 ; Coast Station online......
+2015-05-30 22:12:11 ; Transmit on 2187.5 (TEST / REQ) to 002320001 (Shetland Coastguard / )
+2015-05-30 22:33:41 ; Transmit on 4207.5 (TEST / ACK) to 255805570 (CSAV LARAQUETE / CQIU)
+2015-05-30 23:28:11 ; Transmit on 2187.5 (TEST / REQ) to 002191000 (Lyngby Radio / )
+2015-05-30 23:30:54 ; Transmit on 8414.5 (TEST / REQ) to 002711000 (Istanbul Radio / )
+2015-05-30 23:31:57 ; Transmit on 6312.0 (TEST / REQ) to 002711000 (Istanbul Radio / )
+2015-05-30 23:33:10 ; Transmit on 6312.0 (TEST / REQ) to 003669991 (Boston / )
+2015-05-30 23:47:07 ; Transmit on 2187.5 (TEST / ACK) to 636016239 (PACIFIC REEFER / D5FE3)
+2015-05-30 23:57:44 ; Transmit on 2187.5 (TEST / REQ) to 636016239 (PACIFIC REEFER / D5FE3)
+2015-05-31 00:09:02 ; Coast Station online......
+2015-05-31 00:12:02 ; Coast Station online......
+2015-05-31 00:14:02 ; Coast Station online......
+2015-05-31 00:17:02 ; Coast Station online......
+2015-05-31 00:19:02 ; Coast Station online......
+2015-05-31 01:26:09 ; Transmit on 12577.0 (TEST / ACK) to 229752000 (JULIA OLDENDORFF / 9HA3578)
+2015-05-31 03:35:48 ; Transmit on 2187.5 (TEST / ACK) to 247186500 (GRANDE SICILIA / ICCQ)
+2015-05-31 06:34:02 ; Coast Station online......
+2015-05-31 07:01:02 ; Coast Station online......
+2015-05-31 07:07:01 ; Coast Station online......
+2015-05-31 07:09:02 ; Coast Station online......
+2015-05-31 07:10:01 ; Coast Station online......
+2015-05-31 07:12:54 ; Transmit on 2187.5 (TEST / REQ) to 002320001 (Shetland Coastguard / )
+2015-05-31 08:34:32 ; Transmit on 2187.5 (TEST / REQ) to 002320001 (Shetland Coastguard / )
+2015-05-31 10:07:25 ; Transmit on 8414.5 (TEST / ACK) to 563736000 (PUERTO ROSARIO / 9V2202)
+2015-05-31 11:18:02 ; Transmit on 6312.0 (TEST / ACK) to 311009600 (GREEN FREEZER / C6XH4)
+2015-05-31 11:27:00 ; Transmit on 8414.5 (TEST / ACK) to 305364000 (TIWALA / V2DX3)
+2015-05-31 11:55:40 ; Transmit on 12577.0 (TEST / ACK) to 636016318 (VSC CASTOR / D5FN5)
+2015-05-31 12:24:02 ; Coast Station online......
+2015-05-31 12:35:01 ; Coast Station online......
+2015-05-31 12:38:35 ; Transmit on 16804.5 (TEST / ACK) to 258605000 (SPAR LUPUS / LAVD5)
+2015-05-31 13:06:55 ; Transmit on 6312.0 (TEST / ACK) to 477687000 (RAINBOW QUEST / VRVZ2)
+2015-05-31 13:08:25 ; Transmit on 6312.0 (TEST / ACK) to 477687000 (RAINBOW QUEST / VRVZ2)
+2015-05-31 13:15:17 ; Transmit on 2187.5 (TEST / ACK) to 567285000 (M.V.SARANYA NAREE / HSDY2)
+2015-05-31 13:35:28 ; Transmit on 8414.5 (TEST / ACK) to 548718000 (SIR HENRY / DYIL)
+2015-05-31 15:25:17 ; Transmit on 6312.0 (TEST / ACK) to 636012813 (SCF BALTICA / A8IA5)
+2015-05-31 17:44:01 ; Coast Station online......
+2015-05-31 17:48:02 ; Coast Station online......
+2015-05-31 17:53:01 ; Coast Station online......
+2015-05-31 18:55:37 ; Transmit on 16804.5 (TEST / ACK) to 235060251 (CPO ITALY / 2AJP9)
+2015-05-31 21:05:47 ; Transmit on 2187.5 (TEST / REQ) to 002320001 (Shetland Coastguard / )
+2015-05-31 21:22:34 ; Transmit on 2187.5 (TEST / REQ) to 002191000 (Lyngby Radio / )
+2015-05-31 21:38:01 ; Transmit on 2187.5 (TEST / REQ) to 002191000 (Lyngby Radio / )
+2015-05-31 22:18:49 ; Transmit on 8414.5 (TEST / REQ) to 002711000 (Istanbul Radio / )
+2015-05-31 22:21:09 ; Transmit on 6312.0 (TEST / REQ) to 002711000 (Istanbul Radio / )
+2015-05-31 22:22:56 ; Transmit on 8414.5 (TEST / REQ) to 002241022 (Coruna Radio / )
+2015-05-31 22:25:59 ; Transmit on 2187.5 (TEST / REQ) to 002320010 (Dover Coastguard / )
+2015-05-31 22:27:42 ; Transmit on 2187.5 (TEST / REQ) to 002320005 (Forth Coastguard / )
+2015-05-31 22:28:53 ; Transmit on 2187.5 (TEST / REQ) to 002320007 (Humber Coastguard / )
+2015-05-31 22:37:26 ; Transmit on 2187.5 (TEST / REQ) to 002241024 (Valencia Radio / )
+2015-05-31 22:39:01 ; Transmit on 2187.5 (TEST / REQ) to 002570700 (Bodoe Radio / )
+2015-05-31 23:06:16 ; Transmit on 12577.0 (TEST / REQ) to 005030001 (RCC Australia / )
+2015-05-31 23:14:44 ; Transmit on 2187.5 (TEST / REQ) to 002733700 (Saint Petersburg Radio / )
+2015-05-31 23:16:05 ; Transmit on 2187.5 (TEST / REQ) to 002610210 (Witowo Radio / )
+2015-05-31 23:34:31 ; Transmit on 8414.5 (TEST / ACK) to 636092124 (JOHANN JACOB / A8XD7)
+2015-06-01 00:28:16 ; Transmit on 2187.5 (TEST / ACK) to 356205000 (MSC KIM / 3EPZ)
+2015-06-01 01:20:18 ; Transmit on 8414.5 (TEST / ACK) to 636091912 (CPO MIAMI / A8UL6)
+2015-06-01 01:26:17 ; Transmit on 6312.0 (TEST / ACK) to 636091912 (CPO MIAMI / A8UL6)
+2015-06-01 01:31:57 ; Transmit on 2187.5 (TEST / ACK) to 636013112 (AVAX / A8KR8)
+2015-06-01 02:13:38 ; Transmit on 4207.5 (TEST / ACK) to 636091912 (CPO MIAMI / A8UL6)
+2015-06-01 05:14:28 ; Transmit on 16804.5 (TEST / ACK) to 563531000 (OPTIMANA / 9VAR2)
+2015-06-01 09:21:06 ; Transmit on 8414.5 (TEST / ACK) to 228287600 (TATIANA B / FNOE)
+2015-06-01 09:29:55 ; Transmit on 16804.5 (TEST / ACK) to 563539000 (OSHIMANA / 9VAH9)
+2015-06-01 09:37:31 ; Transmit on 8414.5 (TEST / ACK) to 319306000 (ILLUSION / ZCMQ3)
+2015-06-01 09:47:21 ; Transmit on 16804.5 (TEST / ACK) to 563539000 (OSHIMANA / 9VAH9)
+2015-06-01 09:53:38 ; Transmit on 12577.0 (TEST / ACK) to 258605000 (SPAR LUPUS / LAVD5)
+2015-06-01 09:55:01 ; Transmit on 8414.5 (TEST / ACK) to 258605000 (SPAR LUPUS / LAVD5)
+2015-06-01 09:56:07 ; Transmit on 6312.0 (TEST / ACK) to 258605000 (SPAR LUPUS / LAVD5)
+2015-06-01 10:01:11 ; Transmit on 12577.0 (TEST / ACK) to 563539000 (OSHIMANA / 9VAH9)
+2015-06-01 10:03:03 ; Transmit on 12577.0 (TEST / ACK) to 247230200 (TENACIA / ICGA)
+2015-06-01 10:03:12 ; Transmit on 12577.0 (TEST / ACK) to 636016318 (VSC CASTOR / D5FN5)
+2015-06-01 10:03:12 ; Transmit on 16804.5 (TEST / ACK) to 311702000 (ASPROPYRGOS / C6TM9)
+2015-06-01 10:04:41 ; Transmit on 16804.5 (TEST / ACK) to 311702000 (ASPROPYRGOS / C6TM9)
+2015-06-01 10:12:17 ; Transmit on 16804.5 (TEST / ACK) to 563539000 (OSHIMANA / 9VAH9)
+2015-06-01 10:19:19 ; Transmit on 12577.0 (TEST / ACK) to 215506000 (ROYAL / 9HA2747)
+2015-06-01 10:19:52 ; Transmit on 8414.5 (TEST / ACK) to 548718000 (SIR HENRY / DYIL)
+2015-06-01 10:40:05 ; Transmit on 12577.0 (TEST / ACK) to 215506000 (ROYAL / 9HA2747)
+2015-06-01 10:50:12 ; Transmit on 8414.5 (TEST / ACK) to 209722000 (BLUE WAVE / 5BGC3)
+2015-06-01 11:00:49 ; Transmit on 6312.0 (TEST / ACK) to 636013112 (AVAX / A8KR8)
+2015-06-01 11:01:27 ; Transmit on 8414.5 (TEST / ACK) to 636016769 (SANTA ANGELINA / D5HS5)
+2015-06-01 11:02:37 ; Transmit on 8414.5 (TEST / ACK) to 636013112 (AVAX / A8KR8)
+2015-06-01 11:35:47 ; Transmit on 8414.5 (TEST / ACK) to 311000343 (MAGELLAN / C6BR5  )
+2015-06-01 11:37:17 ; Transmit on 8414.5 (TEST / ACK) to 636091634 (BBC RHINE / A8QR3)
+2015-06-01 11:39:04 ; Transmit on 2187.5 (TEST / REQ) to 002320001 (Shetland Coastguard / )
+2015-06-01 11:44:40 ; Transmit on 6312.0 (TEST / ACK) to 309396000 (CLIPPER TENACIOUS / C6Y2051)
+2015-06-01 11:58:28 ; Transmit on 8414.5 (TEST / ACK) to 538004380 (FEDERAL SABLE / V7WS4)
+2015-06-01 12:08:26 ; Transmit on 16804.5 (TEST / ACK) to 247230200 (TENACIA / ICGA)
+2015-06-01 12:16:32 ; Transmit on 8414.5 (TEST / ACK) to 247230200 (TENACIA / ICGA)
+2015-06-01 12:26:17 ; Transmit on 16804.5 (TEST / ACK) to 253202000 (E.R.PUSAN / LXEP)
+2015-06-01 12:31:05 ; Transmit on 12577.0 (TEST / ACK) to 253202000 (E.R.PUSAN / LXEP)
+2015-06-01 13:53:31 ; Transmit on 8414.5 (TEST / ACK) to 250001396 (ARKLOW FREEDOM / EIEX9)
+2015-06-01 13:57:57 ; Transmit on 8414.5 (TEST / ACK) to 309027000 (SILVER CLOUD / C6MQ5)
+2015-06-01 14:09:05 ; Transmit on 8414.5 (TEST / ACK) to 403531001 (BAHRI JEDDAH / HZFG)
+2015-06-01 15:01:02 ; Coast Station online......
+2015-06-01 15:02:38 ; Transmit on 16804.5 (TEST / ACK) to 563972000 (NORGAS CONCEPTION / 9V8221)
+2015-06-01 15:16:22 ; Transmit on 12577.0 (TEST / ACK) to 403531001 (BAHRI JEDDAH / HZFG)
+2015-06-01 15:34:06 ; Transmit on 16804.5 (TEST / ACK) to 563972000 (NORGAS CONCEPTION / 9V8221)
+2015-06-01 16:11:02 ; Coast Station online......
+2015-06-01 16:19:02 ; Coast Station online......
+2015-06-01 16:20:16 ; Message from [W2WTEST] ignored (excluded)
+2015-06-01 16:20:52 ; Message on 4207.5 ignored (channel deselected)
+2015-06-01 16:21:15 ; Transmit on 4207.5 (TEST / ACK) to 277400000 (FINLANDIA SEAWAYS / LYTC)
+2015-06-01 16:22:57 ; Transmit on 4207.5 (TEST / ACK) to 277400000 (FINLANDIA SEAWAYS / LYTC)
+2015-06-01 16:23:21 ; Transmit on 8414.5 (TEST / ACK) to 538004567 (SAMCO SUNDARBANS / V7XT6)
+2015-06-01 16:23:36 ; Transmit on 4207.5 (TEST / ACK) to 277400000 (FINLANDIA SEAWAYS / LYTC)
+2015-06-01 16:23:37 ; Duplicate Message, ignored...4207.5 : 277400000
+
+2015-06-01 16:28:02 ; Coast Station online......
+2015-06-01 16:31:03 ; Message from [W2WTEST] ignored (excluded)
+2015-06-01 16:31:04 ; Message from [W2WTEST] ignored (excluded)
+2015-06-01 16:36:25 ; Transmit on 12577.0 (TEST / ACK) to 538004567 (SAMCO SUNDARBANS / V7XT6)
+2015-06-01 16:36:30 ; Duplicate Message, ignored...12577.0 : 538004567
+2015-06-01 16:38:01 ; Coast Station online......
+2015-06-01 16:56:46 ; Transmit on 8414.5 (TEST / ACK) to 309027000 (SILVER CLOUD / C6MQ5)
+2015-06-01 16:56:47 ; Duplicate Message, ignored...8414.5 : 309027000
+2015-06-01 16:56:49 ; Duplicate Message, ignored...8414.5 : 309027000
+2015-06-02 02:47:21 ; Transmit on 8414.5 (TEST / ACK) to 538003287 (CONGER / V7PU3)
+2015-06-02 02:47:21 ; Transmit on 8414.5 (TEST / ACK) to 538003287 (CONGER / V7PU3)
+2015-06-02 02:49:52 ; Transmit on 8414.5 (TEST / ACK) to 538003287 (CONGER / V7PU3)
+2015-06-02 02:49:53 ; Duplicate Message, ignored...8414.5 : 538003287
+2015-06-02 02:49:54 ; Duplicate Message, ignored...8414.5 : 538003287
+2015-06-02 07:53:31 ; Duplicate Message, ignored...8414.5 : 002320204
+2015-06-02 07:53:32 ; Duplicate Message, ignored...8414.5 : 002320204
+2015-06-02 07:53:33 ; Duplicate Message, ignored...8414.5 : 002320204
+2015-06-02 07:55:20 ; Transmit on 8414.5 (TEST / ACK) to 309027000 (SILVER CLOUD / C6MQ5)
+2015-06-02 07:55:21 ; Duplicate Message, ignored...8414.5 : 309027000
+2015-06-02 07:55:23 ; Duplicate Message, ignored...8414.5 : 309027000
+2015-06-02 07:55:25 ; Duplicate Message, ignored...8414.5 : 309027000
+2015-06-02 10:04:26 ; Transmit on 16804.5 (TEST / ACK) to 247158200 (FUTURA / IBMC)
+2015-06-02 11:18:14 ; Transmit on 12577.0 (TEST / ACK) to 636016318 (VSC CASTOR / D5FN5)
+2015-06-02 12:22:37 ; Transmit on 8414.5 (TEST / ACK) to 258873000 (STRIL SERVER / LARP7  )
+2015-06-02 12:22:37 ; Transmit on 8414.5 (TEST / ACK) to 258873000 (STRIL SERVER / LARP7  )
+2015-06-02 12:22:38 ; Duplicate Message, ignored...8414.5 : 258873000
+2015-06-02 12:22:40 ; Duplicate Message, ignored...8414.5 : 258873000
+2015-06-02 13:23:06 ; Transmit on 12577.0 (TEST / ACK) to 351838000 (HIGH FORCE / 3FMA2)
+2015-06-02 13:23:08 ; Duplicate Message, ignored...12577.0 : 351838000
+2015-06-02 13:55:21 ; Transmit on 8414.5 (TEST / ACK) to 319377000 (STOLT NORLAND / ZCXG8)
+2015-06-02 14:20:39 ; Transmit on 6312.0 (TEST / ACK) to 257434000 (SIEM EMERALD / LARH3)
+2015-06-02 14:54:47 ; Transmit on 12577.0 (TEST / ACK) to 538005187 (CRYSTAL BAY / V7BQ6)
+2015-06-02 14:58:36 ; Transmit on 16804.5 (TEST / ACK) to 538005187 (CRYSTAL BAY / V7BQ6)
+2015-06-02 16:39:15 ; Transmit on 8414.5 (TEST / ACK) to 319039300 (LADY SARA / ZGCF9)
+2015-06-02 17:50:45 ; Duplicate Message, ignored...8414.5 : 002320204
+2015-06-02 17:50:46 ; Duplicate Message, ignored...8414.5 : 002320204
+2015-06-02 17:50:47 ; Duplicate Message, ignored...8414.5 : 002320204
+2015-06-02 17:50:47 ; Duplicate Message, ignored...8414.5 : 002320204
+2015-06-02 17:50:49 ; Duplicate Message, ignored...8414.5 : 002320204
+2015-06-02 18:28:44 ; Transmit on 16804.5 (TEST / ACK) to 240585000 (ANANGEL VISION / SXLT)
+2015-06-02 19:13:39 ; Transmit on 2187.5 (TEST / REQ) to 002320001 (Shetland Coastguard / )
+2015-06-02 20:28:38 ; Duplicate Message, ignored...8414.5 : 002320204
+2015-06-02 20:28:40 ; Duplicate Message, ignored...8414.5 : 002320204
+2015-06-02 21:22:28 ; Transmit on 2187.5 (TEST / REQ) to 002320024 (Stornoway Coastguard / )
+2015-06-02 23:53:35 ; Transmit on 16804.5 (TEST / ACK) to 477534200 (EFFY N / VRFI9)
+2015-06-03 04:50:46 ; Transmit on 4207.5 (TEST / ACK) to 303270000 (OVERSEAS SANTORINI / WOSI)
+2015-06-03 04:53:01 ; Transmit on 6312.0 (TEST / ACK) to 303270000 (OVERSEAS SANTORINI / WOSI)
+2015-06-03 04:55:14 ; Transmit on 8414.5 (TEST / ACK) to 303270000 (OVERSEAS SANTORINI / WOSI)
+2015-06-03 04:55:16 ; Duplicate Message, ignored...8414.5 : 303270000
+2015-06-03 04:55:18 ; Duplicate Message, ignored...8414.5 : 303270000
+2015-06-03 06:48:32 ; Message from JOHN-PERSEUS ignored (excluded)
+2015-06-03 06:57:50 ; Transmit on 8414.5 (TEST / REQ) to 002711000 (Istanbul Radio / )
+2015-06-03 07:03:21 ; Transmit on 2187.5 (TEST / REQ) to 002191000 (Lyngby Radio / )
+2015-06-03 07:04:27 ; Transmit on 2187.5 (TEST / REQ) to 002320004 (Aberdeen Coastguard / )
+2015-06-03 07:23:14 ; Transmit on 12577.0 (TEST / ACK) to 240585000 (ANANGEL VISION / SXLT)
+2015-06-03 07:23:15 ; Duplicate Message, ignored...12577.0 : 240585000
+2015-06-03 07:24:30 ; Transmit on 16804.5 (TEST / ACK) to 240585000 (ANANGEL VISION / SXLT)
+2015-06-03 07:28:06 ; Transmit on 16804.5 (TEST / REQ) to 240585000 (ANANGEL VISION / SXLT)
+2015-06-03 07:30:13 ; Transmit on 12577.0 (TEST / REQ) to 240585000 (ANANGEL VISION / SXLT)
+2015-06-03 08:24:35 ; Transmit on 2187.5 (TEST / REQ) to 002320001 (Shetland Coastguard / )
+2015-06-03 08:28:09 ; Transmit on 12577.0 (TEST / REQ) to 002241022 (Coruna Radio / )
+2015-06-03 08:34:01 ; Transmit on 16804.5 (TEST / ACK) to 240585000 (ANANGEL VISION / SXLT)
+2015-06-03 08:57:24 ; Transmit on 12577.0 (TEST / ACK) to 341903000 (POSEIDON I / V4GZ2)
+2015-06-03 09:09:10 ; Transmit on 12577.0 (TEST / ACK) to 229739000 (REINBEK / 9HA3566)
+2015-06-03 09:09:14 ; Duplicate Message, ignored...12577.0 : 229739000
+2015-06-03 09:16:58 ; Transmit on 16804.5 (TEST / ACK) to 229739000 (REINBEK / 9HA3566)
+2015-06-03 09:22:20 ; Transmit on 8414.5 (TEST / ACK) to 229739000 (REINBEK / 9HA3566)
+2015-06-03 09:22:22 ; Duplicate Message, ignored...8414.5 : 229739000
+2015-06-03 09:28:14 ; Transmit on 2187.5 (TEST / REQ) to 002320007 (Humber Coastguard / )
+2015-06-03 09:29:04 ; Transmit on 2187.5 (TEST / REQ) to 002320017 (Milford Haven Coastguard / )
+2015-06-03 09:32:41 ; Transmit on 16804.5 (TEST / ACK) to 538005476 (SILVER VALERIE / V7EI8)
+2015-06-03 09:39:00 ; Transmit on 2187.5 (TEST / REQ) to 002320007 (Humber Coastguard / )
+2015-06-03 09:43:57 ; Transmit on 16804.5 (TEST / ACK) to 538005413 (STI SAN ANTONIO / V7DP6)
+2015-06-03 09:51:04 ; Transmit on 2187.5 (TEST / REQ) to 002191000 (Lyngby Radio / )
+2015-06-03 09:52:52 ; Transmit on 2187.5 (TEST / REQ) to 219055000 ( / )
+2015-06-03 09:55:03 ; Transmit on 8414.5 (TEST / REQ) to 219055000 ( / )
+2015-06-03 09:56:06 ; Transmit on 12577.0 (TEST / REQ) to 219055000 ( / )
+2015-06-03 09:56:44 ; Transmit on 12577.0 (TEST / REQ) to 219015591 ( / )
+2015-06-03 09:57:57 ; Transmit on 12577.0 (TEST / REQ) to 219055000 ( / )
+2015-06-03 09:59:07 ; Transmit on 8414.5 (TEST / REQ) to 219015591 (SAILOR EXAMINER / XPE3307)
+2015-06-03 10:01:40 ; Transmit on 2187.5 (TEST / REQ) to 002320001 (Shetland Coastguard / )
+2015-06-03 10:15:40 ; Transmit on 12577.0 (TEST / ACK) to 636016318 (VSC CASTOR / D5FN5)
+2015-06-03 10:15:41 ; Duplicate Message, ignored...12577.0 : 636016318
+2015-06-03 10:15:43 ; Duplicate Message, ignored...12577.0 : 636016318
+2015-06-03 10:38:12 ; Transmit on 8414.5 (TEST / ACK) to 246621000 (FORTUNAGRACHT / PBUU)
+2015-06-03 10:38:13 ; Duplicate Message, ignored...8414.5 : 246621000
+2015-06-03 10:38:14 ; Duplicate Message, ignored...8414.5 : 246621000
+2015-06-03 10:52:38 ; Transmit on 16804.5 (TEST / REQ) to 219015591 (SAILOR EXAMINER / XPE3307)
+2015-06-03 10:53:36 ; Transmit on 8414.5 (TEST / REQ) to 219015591 (SAILOR EXAMINER / XPE3307)
+2015-06-03 10:57:57 ; Transmit on 16804.5 (TEST / ACK) to 209722000 (BLUE WAVE / 5BGC3)
+2015-06-03 11:02:10 ; Transmit on 12577.0 (TEST / ACK) to 209722000 (BLUE WAVE / 5BGC3)
+2015-06-03 11:04:54 ; Transmit on 12577.0 (TEST / REQ) to 002241022 (Coruna Radio / )
+2015-06-03 11:17:01 ; Message from DORSET_2 ignored (excluded)
+2015-06-03 11:18:39 ; Message from JOHN-FT817 ignored (excluded)
+2015-06-03 11:25:23 ; Transmit on 2187.5 (TEST / REQ) to 000000000 (SHIP,000000000 / )
+2015-06-03 11:26:20 ; Transmit on 16804.5 (TEST / REQ) to 219015591 (SAILOR EXAMINER / XPE3307)
+2015-06-03 11:29:17 ; Transmit on 2187.5 (TEST / REQ) to 219015591 (SAILOR EXAMINER / XPE3307)
+2015-06-03 11:32:06 ; Transmit on 16804.5 (TEST / ACK) to 477170400 (MAERSK NIAGARA / VREO9)
+2015-06-03 11:34:29 ; Transmit on 12577.0 (TEST / ACK) to 477170400 (MAERSK NIAGARA / VREO9)
+2015-06-03 11:43:08 ; Transmit on 8414.5 (TEST / ACK) to 477170400 (MAERSK NIAGARA / VREO9)
+2015-06-03 11:47:20 ; Message on 4207.5 ignored (channel deselected)
+2015-06-03 11:49:21 ; Message on 6312.0 ignored (channel deselected)
+2015-06-03 11:52:37 ; Transmit on 8414.5 (TEST / ACK) to 477170400 (MAERSK NIAGARA / VREO9)
+2015-06-03 11:52:38 ; Duplicate Message, ignored...8414.5 : 477170400
+2015-06-03 12:23:09 ; Transmit on 8414.5 (TEST / ACK) to 538006106 (HARVEST TIME / V7JU5)
+2015-06-03 12:23:09 ; Duplicate Message, ignored...8414.5 : 538006106
+2015-06-03 12:41:03 ; Transmit on 8414.5 (TEST / ACK) to 548718000 (SIR HENRY / DYIL)
+2015-06-03 12:41:04 ; Duplicate Message, ignored...8414.5 : 548718000
+2015-06-03 12:41:05 ; Duplicate Message, ignored...8414.5 : 548718000
+2015-06-03 13:37:57 ; Transmit on 12577.0 (TEST / REQ) to 002241022 (Coruna Radio / )
+2015-06-03 13:45:07 ; Transmit on 8414.5 (TEST / ACK) to 310711000 (SICHEM NEW YORK / ZCEO5  )
+2015-06-03 13:45:11 ; Transmit on 8414.5 (TEST / ACK) to 477141600 (GRAN COUVA / VREK4)
+2015-06-03 13:47:23 ; Transmit on 16804.5 (TEST / ACK) to 636009608 (636009608 / 636009608)
+2015-06-03 14:01:43 ; Transmit on 6312.0 (TEST / ACK) to 249078000 (SEAPRINCESS / 9HJZ9)
+2015-06-03 14:12:01 ; Transmit on 8414.5 (TEST / ACK) to 314392000 (SEA MELODY / 8PAG7)
+2015-06-03 14:12:03 ; Duplicate Message, ignored...8414.5 : 314392000
+2015-06-03 14:34:14 ; Transmit on 12577.0 (TEST / ACK) to 403531001 (BAHRI JEDDAH / HZFG)
+2015-06-03 14:34:21 ; Transmit on 12577.0 (TEST / ACK) to 403531001 (BAHRI JEDDAH / HZFG)
+2015-06-03 14:38:21 ; Transmit on 16804.5 (TEST / ACK) to 403531001 (BAHRI JEDDAH / HZFG)
+2015-06-03 15:15:58 ; Transmit on 12577.0 (TEST / ACK) to 369970517 (NAWC 38 / 5VBH5)
+2015-06-03 15:15:58 ; Duplicate Message, ignored...12577.0 : 369970517
+2015-06-03 15:16:00 ; Duplicate Message, ignored...12577.0 : 369970517
+2015-06-03 15:31:56 ; Transmit on 16804.5 (TEST / ACK) to 538006177 (BERYL / V7KN4)
+2015-06-03 15:40:01 ; Transmit on 8414.5 (TEST / ACK) to 319039300 (LADY SARA / ZGCF9)
+2015-06-03 15:40:02 ; Duplicate Message, ignored...8414.5 : 319039300
+2015-06-03 15:43:01 ; Coast Station online......
+2015-06-03 15:45:04 ; Transmit on 12577.0 (TEST / REQ) to 219015591 (SAILOR EXAMINER / XPE3307)
+2015-06-03 15:47:01 ; Coast Station online......
+2015-06-03 15:50:01 ; Coast Station online......
+2015-06-03 15:51:30 ; Transmit on 12577.0 (TEST / REQ) to 002311000 (Torshavn Radio / )
+2015-06-03 15:51:36 ; Transmit on 2187.5 (TEST / REQ) to 002311000 (Torshavn Radio / )
+2015-06-03 15:55:20 ; Transmit on 12577.0 (TEST / ACK) to 319039300 (LADY SARA / ZGCF9)
+2015-06-03 15:58:07 ; Transmit on 16804.5 (TEST / ACK) to 319039300 (LADY SARA / ZGCF9)
+2015-06-03 16:01:31 ; Transmit on 8414.5 (TEST / ACK) to 351838000 (HIGH FORCE / 3FMA2)
+2015-06-03 17:32:09 ; Transmit on 8414.5 (TEST / ACK) to 477222700 (NYK HERCULES / VRLQ4)
+2015-06-03 17:58:28 ; Transmit on 2187.5 (TEST / REQ) to 002320024 (Stornoway Coastguard / )
+2015-06-03 18:04:02 ; Coast Station online......
+2015-06-03 18:05:02 ; Coast Station online......
+2015-06-03 18:08:02 ; Coast Station online......
+2015-06-03 18:10:02 ; Coast Station online......
+2015-06-03 18:11:02 ; Coast Station online......
+2015-06-03 18:14:02 ; Coast Station online......
+2015-06-03 18:18:02 ; Coast Station online......
+2015-06-03 18:19:02 ; Coast Station online......
+2015-06-03 18:20:02 ; Coast Station online......
+2015-06-03 18:22:21 ; Transmit on 12577.0 (TEST / ACK) to 248052000 (CMA CGM TITAN / 9HA2146)
+2015-06-03 18:24:02 ; Coast Station online......
+2015-06-03 19:21:21 ; Admin; SHUTDOWN COMMAND FROM  80.229.223.86 (john); ADDING NEW FEATURE
+2015-06-03 19:22:01 ; Coast Station online......
+2015-06-03 19:22:02 ; Admin; Login from 80.229.223.86
+2015-06-03 19:22:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:22:02 ; Admin; Login from 80.229.223.86
+2015-06-03 19:22:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:22:02 ; Admin; Login from 2.99.34.247
+2015-06-03 19:22:02 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 19:22:03 ; Admin; Login from 80.229.223.86
+2015-06-03 19:22:03 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:22:03 ; Admin; Login from 80.229.223.86
+2015-06-03 19:22:03 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:22:03 ; Admin; Login from 2.99.34.247
+2015-06-03 19:22:03 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 19:22:04 ; Admin; Login from 2.99.34.247
+2015-06-03 19:22:04 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 19:22:06 ; Admin; Login from 2.99.34.247
+2015-06-03 19:22:06 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 19:22:07 ; Admin; Login from 2.99.34.247
+2015-06-03 19:22:07 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 19:22:08 ; Admin; Login from 2.99.34.247
+2015-06-03 19:22:08 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 19:22:09 ; Admin; Login from 2.99.34.247
+2015-06-03 19:22:09 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 19:22:10 ; Admin; Login from 2.99.34.247
+2015-06-03 19:22:10 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 19:24:28 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 19:25:25 ; Admin; Login from 80.229.223.86
+2015-06-03 19:25:25 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:25:31 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 19:25:53 ; Admin; Login from 80.229.223.86
+2015-06-03 19:25:54 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:26:05 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 19:26:18 ; Admin; Login from 80.229.223.86
+2015-06-03 19:26:18 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:26:26 ; Admin; Login from 80.229.223.86
+2015-06-03 19:26:26 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:26:49 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 19:30:05 ; Coast Station online......
+2015-06-03 19:30:05 ; Admin; Login from 80.229.223.86
+2015-06-03 19:30:05 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:30:05 ; Admin; Login from 2.99.34.247
+2015-06-03 19:30:05 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 19:30:06 ; Admin; Login from 80.229.223.86
+2015-06-03 19:30:06 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:30:06 ; Admin; Login from 2.99.34.247
+2015-06-03 19:30:06 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 19:30:19 ; Admin; Login from 80.229.223.86
+2015-06-03 19:30:19 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:30:30 ; Admin; Login from 80.229.223.86
+2015-06-03 19:30:30 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:31:44 ; Coast Station online......
+2015-06-03 19:31:44 ; Admin; Login from 80.229.223.86
+2015-06-03 19:31:44 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:31:44 ; Admin; Login from 80.229.223.86
+2015-06-03 19:31:44 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:31:44 ; Admin; Login from 2.99.34.247
+2015-06-03 19:31:44 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 19:31:45 ; Admin; Login from 80.229.223.86
+2015-06-03 19:31:45 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:31:46 ; Admin; Login from 2.99.34.247
+2015-06-03 19:31:46 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 19:31:53 ; Admin; DATABASE PURGED FROM 80.229.223.86 (john)
+2015-06-03 19:33:38 ; Admin; DATABASE PURGED FROM 80.229.223.86 (john)
+2015-06-03 19:33:43 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 19:34:27 ; Admin; Login from 80.229.223.86
+2015-06-03 19:34:28 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:34:32 ; Admin; DATABASE PURGED FROM 80.229.223.86 (john)
+2015-06-03 19:35:23 ; Coast Station online......
+2015-06-03 19:35:23 ; Admin; Login from 80.229.223.86
+2015-06-03 19:35:23 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:35:24 ; Admin; Login from 80.229.223.86
+2015-06-03 19:35:24 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:35:24 ; Admin; Login from 2.99.34.247
+2015-06-03 19:35:24 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 19:35:25 ; Admin; Login from 80.229.223.86
+2015-06-03 19:35:25 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:35:32 ; Admin; DATABASE PURGED FROM 80.229.223.86 (john)
+2015-06-03 19:35:47 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 19:36:13 ; Admin; Login from 80.229.223.86
+2015-06-03 19:36:13 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:36:17 ; Admin; DATABASE PURGED FROM 80.229.223.86 (john)
+2015-06-03 19:38:16 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 19:38:20 ; Admin; Login from 80.229.223.86
+2015-06-03 19:38:20 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:44:02 ; Coast Station online......
+2015-06-03 19:44:02 ; Admin; Login from 2.99.34.247
+2015-06-03 19:44:02 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 19:44:02 ; Admin; Login from 80.229.223.86
+2015-06-03 19:44:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:44:03 ; Admin; Login from 80.229.223.86
+2015-06-03 19:44:03 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:44:20 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 19:45:34 ; Coast Station online......
+2015-06-03 19:45:34 ; Admin; Login from 80.229.223.86
+2015-06-03 19:45:34 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:45:34 ; Admin; Login from 2.99.34.247
+2015-06-03 19:45:34 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 19:45:35 ; Admin; Login from 80.229.223.86
+2015-06-03 19:45:35 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:45:36 ; Admin; Login from 2.99.34.247
+2015-06-03 19:45:36 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 19:45:43 ; Admin; Login from 80.229.223.86
+2015-06-03 19:45:43 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:46:09 ; Admin; DATABASE PURGED FROM 80.229.223.86 (john)
+2015-06-03 19:48:04 ; Admin; Test Call sent to 002320024 on 2187.50 by 80.229.223.86 (john)
+2015-06-03 19:48:05 ; Transmit on 2187.5 (TEST / REQ) to 002320024 (Stornoway Coastguard / )
+2015-06-03 19:48:46 ; Received on 2187.5 (TEST / ACK) from 002320024 (Stornoway Coastguard / ) ; MICHAEL_SDR#2
+2015-06-03 19:48:46 ; Received on 2187.5 (TEST / ACK) from 002320024 (Stornoway Coastguard / ) ; JOHN-PERSEUS
+2015-06-03 19:48:54 ; Received on 2187.5 (TEST / ACK) from 002320024 (Stornoway Coastguard / ) ; MICHAEL_SDR#2
+2015-06-03 19:52:37 ; Coast Station online......
+2015-06-03 19:52:37 ; Admin; Login from 2.99.34.247
+2015-06-03 19:52:37 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 19:52:38 ; Admin; Login from 80.229.223.86
+2015-06-03 19:52:38 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:52:38 ; Admin; Login from 80.229.223.86
+2015-06-03 19:52:38 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:52:39 ; Admin; Login from 2.99.34.247
+2015-06-03 19:52:39 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 19:52:40 ; Admin; Login from 2.99.34.247
+2015-06-03 19:52:40 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 19:52:41 ; Admin; Login from 2.99.34.247
+2015-06-03 19:52:41 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 19:56:10 ; Admin; DATABASE PURGED FROM 80.229.223.86 (john)
+2015-06-03 19:58:57 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 19:59:08 ; Admin; Login from 80.229.223.86
+2015-06-03 19:59:08 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 19:59:32 ; Admin; Message Count reset by 80.229.223.86 (john)
+2015-06-03 20:00:16 ; Admin; DATABASE PURGED FROM 80.229.223.86 (john)
+2015-06-03 20:05:09 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 20:06:50 ; Admin; Login from 80.229.223.86
+2015-06-03 20:06:51 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 21:57:37 ; Admin; Login from 80.229.223.86
+2015-06-03 21:57:38 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 21:57:58 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 21:58:03 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 22:00:43 ; Admin; Login from 80.229.223.86
+2015-06-03 22:00:43 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 22:00:54 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 22:01:16 ; Admin; Login from 80.229.223.86
+2015-06-03 22:01:17 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 22:01:31 ; Admin; Added JOHN-FCDPP to excluded RX list by 80.229.223.86 (john)
+2015-06-03 22:01:36 ; Admin; Removed JOHN-FCDPP from excluded RX list by 80.229.223.86 (john)
+2015-06-03 22:30:08 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 22:30:24 ; Admin; Login from 80.229.223.86
+2015-06-03 22:30:24 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 22:30:30 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 22:30:42 ; Admin; Login from 80.229.223.86
+2015-06-03 22:30:42 ; Admin; USER INVALID 80.229.223.86 (joh)
+2015-06-03 22:30:52 ; Admin; Login from 80.229.223.86
+2015-06-03 22:30:52 ; Admin; USER INVALID 80.229.223.86 (hoh)
+2015-06-03 22:31:09 ; Admin; Login from 80.229.223.86
+2015-06-03 22:31:09 ; Admin; USER INVALID 80.229.223.86 (johh)
+2015-06-03 22:31:15 ; Admin; Login from 80.229.223.86
+2015-06-03 22:31:15 ; Admin; USER INVALID 80.229.223.86 (jjj)
+2015-06-03 22:33:21 ; Admin; Login from 80.229.223.86
+2015-06-03 22:33:21 ; Admin; USER INVALID 80.229.223.86 (jjj)
+2015-06-03 22:33:35 ; Admin; Login from 80.229.223.86
+2015-06-03 22:33:35 ; Admin; USER INVALID 80.229.223.86 (jjj])
+2015-06-03 22:33:45 ; Admin; Login from 80.229.223.86
+2015-06-03 22:33:45 ; Admin; USER INVALID 80.229.223.86 (jjoj)
+2015-06-03 22:33:56 ; Admin; Login from 80.229.223.86
+2015-06-03 22:33:56 ; Admin; USER INVALID 80.229.223.86 (jj)
+2015-06-03 22:37:24 ; Admin; Login from 80.229.223.86
+2015-06-03 22:37:25 ; Admin; USER INVALID 80.229.223.86 (jjjj)
+2015-06-03 22:39:31 ; Admin; Login from 80.229.223.86
+2015-06-03 22:39:31 ; Admin; USER INVALID 80.229.223.86 (jjjj)
+2015-06-03 22:40:04 ; Admin; Login from 80.229.223.86
+2015-06-03 22:40:05 ; Admin; USER INVALID 80.229.223.86 (jjjj)
+2015-06-03 22:44:21 ; Admin; Login from 80.229.223.86
+2015-06-03 22:44:21 ; Admin; USER INVALID 80.229.223.86 (jjjj)
+2015-06-03 22:44:28 ; Admin; Login from 80.229.223.86
+2015-06-03 22:44:28 ; Admin; USER INVALID 80.229.223.86 (jjjj)
+2015-06-03 22:44:33 ; Admin; Login from 80.229.223.86
+2015-06-03 22:44:33 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 22:44:44 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 22:44:49 ; Admin; Login from 80.229.223.86
+2015-06-03 22:44:49 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 22:44:53 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 22:44:58 ; Admin; Login from 80.229.223.86
+2015-06-03 22:44:58 ; Admin; USER INVALID 80.229.223.86 (jjj)
+2015-06-03 22:45:04 ; Admin; Login from 80.229.223.86
+2015-06-03 22:45:04 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 22:45:08 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 22:45:13 ; Admin; Login from 80.229.223.86
+2015-06-03 22:45:13 ; Admin; USER INVALID 80.229.223.86 (jjj)
+2015-06-03 22:45:19 ; Admin; Login from 80.229.223.86
+2015-06-03 22:45:19 ; Admin; USER INVALID 80.229.223.86 (jjj)
+2015-06-03 22:45:43 ; Admin; Login from 80.229.223.86
+2015-06-03 22:45:44 ; Admin; USER INVALID 80.229.223.86 (jjj)
+2015-06-03 22:45:48 ; Admin; Login from 80.229.223.86
+2015-06-03 22:45:48 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-03 22:47:04 ; Admin; Login from 80.229.223.86
+2015-06-03 22:47:05 ; Admin; USER INVALID 80.229.223.86 (jj)
+2015-06-03 22:47:11 ; Admin; Login from 80.229.223.86
+2015-06-03 22:47:11 ; Admin; USER INVALID 80.229.223.86 (jj)
+2015-06-03 22:47:18 ; Admin; Login from 80.229.223.86
+2015-06-03 22:47:18 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 22:47:23 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 22:53:09 ; Admin; Login from 80.229.223.86
+2015-06-03 22:53:09 ; Admin; USER INVALID 80.229.223.86 (jjjj)
+2015-06-03 22:53:18 ; Admin; Login from 80.229.223.86
+2015-06-03 22:53:18 ; Admin; USER INVALID 80.229.223.86 (jjjj)
+2015-06-03 22:56:36 ; Admin; Login from 80.229.223.86
+2015-06-03 22:56:36 ; Admin; USER INVALID 80.229.223.86 (kk)
+2015-06-03 22:56:42 ; Admin; Login from 80.229.223.86
+2015-06-03 22:56:43 ; Admin; USER INVALID 80.229.223.86 (kk)
+2015-06-03 22:57:40 ; Admin; Login from 80.229.223.86
+2015-06-03 22:57:40 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 22:57:45 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 22:57:54 ; Admin; Login from 80.229.223.86
+2015-06-03 22:57:54 ; Admin; USER INVALID 80.229.223.86 (kk)
+2015-06-03 22:58:05 ; Admin; Login from 80.229.223.86
+2015-06-03 22:58:05 ; Admin; USER INVALID 80.229.223.86 (jj)
+2015-06-03 22:58:24 ; Admin; Login from 80.229.223.86
+2015-06-03 22:58:24 ; Admin; USER INVALID 80.229.223.86 (kk)
+2015-06-03 22:58:33 ; Admin; Login from 80.229.223.86
+2015-06-03 22:58:33 ; Admin; USER INVALID 80.229.223.86 (kk)
+2015-06-03 23:01:12 ; Admin; Login from 80.229.223.86
+2015-06-03 23:01:13 ; Admin; USER INVALID 80.229.223.86 (kk)
+2015-06-03 23:01:25 ; Admin; Login from 80.229.223.86
+2015-06-03 23:01:25 ; Admin; USER INVALID 80.229.223.86 (kk)
+2015-06-03 23:01:35 ; Admin; Login from 80.229.223.86
+2015-06-03 23:01:35 ; Admin; USER INVALID 80.229.223.86 (kk)
+2015-06-03 23:01:44 ; Admin; Login from 80.229.223.86
+2015-06-03 23:01:44 ; Admin; USER INVALID 80.229.223.86 (kk)
+2015-06-03 23:03:44 ; Admin; Login from 80.229.223.86
+2015-06-03 23:03:44 ; Admin; USER INVALID 80.229.223.86 (joh)
+2015-06-03 23:03:51 ; Admin; Login from 80.229.223.86
+2015-06-03 23:03:51 ; Admin; USER INVALID 80.229.223.86 (jj)
+2015-06-03 23:04:10 ; Admin; Login from 80.229.223.86
+2015-06-03 23:04:11 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-03 23:04:16 ; Admin; Login from 80.229.223.86
+2015-06-03 23:04:16 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-03 23:05:29 ; Admin; Login from 80.229.223.86
+2015-06-03 23:05:29 ; Admin; USER INVALID 80.229.223.86 (kk)
+2015-06-03 23:05:37 ; Admin; Login from 80.229.223.86
+2015-06-03 23:05:37 ; Admin; USER INVALID 80.229.223.86 (ll)
+2015-06-03 23:05:55 ; Admin; Login from 80.229.223.86
+2015-06-03 23:05:55 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-03 23:06:08 ; Admin; Login from 80.229.223.86
+2015-06-03 23:06:08 ; Admin; USER INVALID 80.229.223.86 (oo)
+2015-06-03 23:06:48 ; Admin; Login from 80.229.223.86
+2015-06-03 23:06:48 ; Admin; USER INVALID 80.229.223.86 (joh)
+2015-06-03 23:06:54 ; Admin; Login from 80.229.223.86
+2015-06-03 23:06:54 ; Admin; USER INVALID 80.229.223.86 (kk)
+2015-06-03 23:08:29 ; Admin; Login from 80.229.223.86
+2015-06-03 23:08:30 ; Admin; USER INVALID 80.229.223.86 (ff)
+2015-06-03 23:08:36 ; Admin; Login from 80.229.223.86
+2015-06-03 23:08:36 ; Admin; USER INVALID 80.229.223.86 (jj)
+2015-06-03 23:08:44 ; Admin; Login from 80.229.223.86
+2015-06-03 23:08:44 ; Admin; USER INVALID 80.229.223.86 (kk)
+2015-06-03 23:08:50 ; Admin; Login from 80.229.223.86
+2015-06-03 23:08:50 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 23:09:01 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 23:09:07 ; Admin; Login from 80.229.223.86
+2015-06-03 23:09:07 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 23:09:17 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 23:09:26 ; Admin; Login from 80.229.223.86
+2015-06-03 23:09:26 ; Admin; USER INVALID 80.229.223.86 (jj)
+2015-06-03 23:09:37 ; Admin; Login from 80.229.223.86
+2015-06-03 23:09:37 ; Admin; USER INVALID 80.229.223.86 (jj)
+2015-06-03 23:10:01 ; Admin; Login from 80.229.223.86
+2015-06-03 23:10:02 ; Admin; USER INVALID 80.229.223.86 (joh)
+2015-06-03 23:10:06 ; Admin; Login from 80.229.223.86
+2015-06-03 23:10:06 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-03 23:13:01 ; Admin; Login from 80.229.223.86
+2015-06-03 23:13:01 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 23:14:20 ; Admin; SHUTDOWN COMMAND FROM  80.229.223.86 (john); TESTING
+2015-06-03 23:17:02 ; Coast Station online......
+2015-06-03 23:17:02 ; Admin; Login from 80.229.223.86
+2015-06-03 23:17:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 23:17:02 ; Admin; Login from 2.99.34.247
+2015-06-03 23:17:03 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 23:17:03 ; Admin; Login from 80.229.223.86
+2015-06-03 23:17:03 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 23:17:03 ; Admin; Login from 80.229.223.86
+2015-06-03 23:17:03 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 23:17:04 ; Admin; Login from 2.99.34.247
+2015-06-03 23:17:04 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 23:17:05 ; Admin; Login from 2.99.34.247
+2015-06-03 23:17:05 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 23:17:06 ; Admin; Login from 2.99.34.247
+2015-06-03 23:17:06 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 23:17:07 ; Admin; Login from 2.99.34.247
+2015-06-03 23:17:07 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 23:25:53 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 23:27:03 ; Admin; Login from 80.229.223.86
+2015-06-03 23:27:04 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 23:28:53 ; Admin; Login from 80.229.223.86
+2015-06-03 23:28:54 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 23:29:02 ; Admin; Message Count reset by 80.229.223.86 (john)
+2015-06-03 23:29:11 ; Admin; Login from 80.229.223.86
+2015-06-03 23:29:11 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 23:31:10 ; Admin; Login from 80.229.223.86
+2015-06-03 23:31:10 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 23:33:26 ; Admin; SHUTDOWN COMMAND FROM  80.229.223.86 (john); FIXING BUG IN PURGE SQL
+2015-06-03 23:34:02 ; Coast Station online......
+2015-06-03 23:34:02 ; Admin; Login from 2.99.34.247
+2015-06-03 23:34:02 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 23:34:02 ; Admin; Login from 80.229.223.86
+2015-06-03 23:34:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 23:34:02 ; Admin; Login from 80.229.223.86
+2015-06-03 23:34:03 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 23:34:03 ; Admin; Login from 2.99.34.247
+2015-06-03 23:34:03 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 23:34:04 ; Admin; Login from 2.99.34.247
+2015-06-03 23:34:04 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 23:34:06 ; Admin; Login from 2.99.34.247
+2015-06-03 23:34:06 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 23:34:07 ; Admin; Login from 2.99.34.247
+2015-06-03 23:34:07 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 23:34:08 ; Admin; Login from 2.99.34.247
+2015-06-03 23:34:08 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 23:34:09 ; Admin; Login from 2.99.34.247
+2015-06-03 23:34:09 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 23:34:10 ; Admin; Login from 2.99.34.247
+2015-06-03 23:34:10 ; Admin; User rich logged in from 2.99.34.247
+2015-06-03 23:34:24 ; Admin; DATABASE PURGED FROM 80.229.223.86 (john)
+2015-06-03 23:38:26 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-03 23:39:10 ; Admin; Login from 80.229.223.86
+2015-06-03 23:39:10 ; Admin; User john logged in from 80.229.223.86
+2015-06-03 23:52:42 ; Received on 16804.5 (TEST / REQ) from 253202000 (E.R.PUSAN / LXEP) ; JOHN-ICR75
+2015-06-03 23:52:42 ; Transmit on 16804.5 (TEST / ACK) to 253202000 (E.R.PUSAN / LXEP)
+2015-06-04 01:16:43 ; Received on 12577.0 (TEST / REQ) from 253202000 (E.R.PUSAN / LXEP) ; JOHN-FT817
+2015-06-04 01:16:44 ; Transmit on 12577.0 (TEST / ACK) to 253202000 (E.R.PUSAN / LXEP)
+2015-06-04 05:48:07 ; Received on 8414.5 (TEST / REQ) from 311000347 (VIKING NEPTUN / C6BR9) ; DICK-RX321
+2015-06-04 05:48:07 ; Received on 8414.5 (TEST / REQ) from 311000347 (VIKING NEPTUN / C6BR9) ; MICHAEL_SDR#3
+2015-06-04 05:48:09 ; Transmit on 8414.5 (TEST / ACK) to 311000347 (VIKING NEPTUN / C6BR9)
+2015-06-04 07:13:03 ; Admin; Login from 80.229.223.86
+2015-06-04 07:13:04 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:13:42 ; Admin; SHUTDOWN COMMAND FROM  80.229.223.86 (john); TEST OF AUTOMATIC RESTART
+2015-06-04 07:15:02 ; Coast Station online......
+2015-06-04 07:15:02 ; Admin; Login from 80.229.223.86
+2015-06-04 07:15:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:15:03 ; Admin; Login from 2.99.34.247
+2015-06-04 07:15:03 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:15:03 ; Admin; Login from 80.229.223.86
+2015-06-04 07:15:03 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:15:04 ; Admin; Login from 2.99.34.247
+2015-06-04 07:15:04 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:15:05 ; Admin; Login from 2.99.34.247
+2015-06-04 07:15:05 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:15:07 ; Admin; Login from 2.99.34.247
+2015-06-04 07:15:07 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:15:08 ; Admin; Login from 2.99.34.247
+2015-06-04 07:15:08 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:15:09 ; Admin; Login from 2.99.34.247
+2015-06-04 07:15:09 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:15:10 ; Admin; Login from 2.99.34.247
+2015-06-04 07:15:10 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:15:11 ; Admin; Login from 2.99.34.247
+2015-06-04 07:15:11 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:15:13 ; Admin; Login from 2.99.34.247
+2015-06-04 07:15:13 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:15:14 ; Admin; Login from 2.99.34.247
+2015-06-04 07:15:14 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:15:15 ; Admin; Login from 80.229.223.86
+2015-06-04 07:15:15 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:15:15 ; Admin; Login from 2.99.34.247
+2015-06-04 07:15:15 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:15:15 ; Admin; Login from 80.229.223.86
+2015-06-04 07:15:15 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:15:16 ; Admin; Login from 2.99.34.247
+2015-06-04 07:15:16 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:15:18 ; Admin; Login from 2.99.34.247
+2015-06-04 07:15:18 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:15:19 ; Admin; Login from 2.99.34.247
+2015-06-04 07:15:19 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:15:20 ; Admin; Login from 2.99.34.247
+2015-06-04 07:15:20 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:16:10 ; Admin; DATABASE PURGED FROM 80.229.223.86 (john)
+2015-06-04 07:20:06 ; Admin; TX Inhibit applied by 80.229.223.86 (john)
+2015-06-04 07:20:11 ; Admin; TX Inhibit removed by 80.229.223.86 (john)
+2015-06-04 07:28:57 ; Received on 12577.0 (TEST / REQ) from 636016318 (VSC CASTOR / D5FN5) ; JOHN-FT817
+2015-06-04 07:28:59 ; Transmit on 12577.0 (TEST / ACK) to 636016318 (VSC CASTOR / D5FN5)
+2015-06-04 07:29:41 ; Unable to communicate with Transceiver.... quitting...
+2015-06-04 07:30:02 ; Coast Station online......
+2015-06-04 07:30:02 ; Admin; Login from 80.229.223.86
+2015-06-04 07:30:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:30:02 ; Admin; Login from 2.99.34.247
+2015-06-04 07:30:02 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:30:02 ; Admin; Login from 80.229.223.86
+2015-06-04 07:30:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:30:02 ; Admin; Login from 80.229.223.86
+2015-06-04 07:30:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:30:03 ; Admin; Login from 80.229.223.86
+2015-06-04 07:30:03 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:31:21 ; Received on 12577.0 (TEST / REQ) from 257739000 (ARCTIC PRINCESS / LAGE6) ; JOHN-FT817
+2015-06-04 07:31:21 ; Transmit on 12577.0 (TEST / ACK) to 257739000 (ARCTIC PRINCESS / LAGE6)
+2015-06-04 07:31:21 ; Received on 12577.0 (TEST / REQ) from 257739000 (ARCTIC PRINCESS / LAGE6) ; MICHAEL_AOR#1
+2015-06-04 07:31:28 ; Received on 8414.5 (TEST / REQ) from 257739000 (ARCTIC PRINCESS / LAGE6) ; DICK-RX321
+2015-06-04 07:31:29 ; Received on 8414.5 (TEST / REQ) from 257739000 (ARCTIC PRINCESS / LAGE6) ; MICHAEL_SDR#3
+2015-06-04 07:31:29 ; Received on 8414.5 (TEST / REQ) from 257739000 (ARCTIC PRINCESS / LAGE6) ; JOHN-FCDPP
+2015-06-04 07:31:30 ; Transmit on 8414.5 (TEST / ACK) to 257739000 (ARCTIC PRINCESS / LAGE6)
+2015-06-04 07:33:16 ; Received on 8414.5 (TEST / REQ) from 257739000 (ARCTIC PRINCESS / LAGE6) ; DICK-RX321
+2015-06-04 07:33:16 ; Received on 8414.5 (TEST / REQ) from 257739000 (ARCTIC PRINCESS / LAGE6) ; MICHAEL_SDR#3
+2015-06-04 07:33:16 ; Received on 8414.5 (TEST / REQ) from 257739000 (ARCTIC PRINCESS / LAGE6) ; JOHN-FCDPP
+2015-06-04 07:33:18 ; Transmit on 8414.5 (TEST / ACK) to 257739000 (ARCTIC PRINCESS / LAGE6)
+2015-06-04 07:33:46 ; Unable to communicate with Transceiver.... quitting...
+2015-06-04 07:34:02 ; Coast Station online......
+2015-06-04 07:34:02 ; Admin; Login from 80.229.223.86
+2015-06-04 07:34:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:34:02 ; Admin; Login from 80.229.223.86
+2015-06-04 07:34:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:34:03 ; Admin; Login from 2.99.34.247
+2015-06-04 07:34:03 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:34:03 ; Admin; Login from 80.229.223.86
+2015-06-04 07:34:03 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:34:03 ; Admin; Login from 80.229.223.86
+2015-06-04 07:34:03 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:34:03 ; Admin; Login from 80.229.223.86
+2015-06-04 07:34:03 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:34:04 ; Admin; Login from 2.99.34.247
+2015-06-04 07:34:04 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:34:04 ; Admin; Login from 80.229.223.86
+2015-06-04 07:34:04 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:34:04 ; Admin; Login from 80.229.223.86
+2015-06-04 07:34:04 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:34:04 ; Admin; Login from 80.229.223.86
+2015-06-04 07:34:04 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:34:05 ; Admin; Login from 2.99.34.247
+2015-06-04 07:34:05 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:34:06 ; Admin; Login from 2.99.34.247
+2015-06-04 07:34:06 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:34:07 ; Admin; Login from 2.99.34.247
+2015-06-04 07:34:07 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:34:09 ; Admin; Login from 2.99.34.247
+2015-06-04 07:34:09 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:34:10 ; Admin; Login from 2.99.34.247
+2015-06-04 07:34:10 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:34:11 ; Admin; Login from 2.99.34.247
+2015-06-04 07:34:11 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:34:12 ; Admin; Login from 2.99.34.247
+2015-06-04 07:34:12 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:34:14 ; Admin; Login from 2.99.34.247
+2015-06-04 07:34:14 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:34:15 ; Admin; Login from 2.99.34.247
+2015-06-04 07:34:15 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:34:16 ; Admin; Login from 2.99.34.247
+2015-06-04 07:34:16 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:34:17 ; Admin; Login from 2.99.34.247
+2015-06-04 07:34:17 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:34:18 ; Admin; Login from 2.99.34.247
+2015-06-04 07:34:18 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:34:20 ; Admin; Login from 2.99.34.247
+2015-06-04 07:34:20 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:35:41 ; Unable to communicate with Transceiver.... quitting...
+2015-06-04 07:36:02 ; Coast Station online......
+2015-06-04 07:36:03 ; Admin; Login from 80.229.223.86
+2015-06-04 07:36:03 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:36:03 ; Admin; Login from 80.229.223.86
+2015-06-04 07:36:03 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:36:03 ; Admin; Login from 2.99.34.247
+2015-06-04 07:36:03 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:36:04 ; Admin; Login from 80.229.223.86
+2015-06-04 07:36:04 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:36:04 ; Admin; Login from 80.229.223.86
+2015-06-04 07:36:04 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:36:04 ; Admin; Login from 2.99.34.247
+2015-06-04 07:36:04 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:36:05 ; Admin; Login from 80.229.223.86
+2015-06-04 07:36:05 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:36:05 ; Admin; Login from 80.229.223.86
+2015-06-04 07:36:05 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:36:05 ; Admin; Login from 2.99.34.247
+2015-06-04 07:36:05 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:36:07 ; Admin; Login from 2.99.34.247
+2015-06-04 07:36:07 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:36:08 ; Admin; Login from 2.99.34.247
+2015-06-04 07:36:08 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:36:09 ; Admin; Login from 2.99.34.247
+2015-06-04 07:36:09 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:36:11 ; Admin; Login from 80.229.223.86
+2015-06-04 07:36:11 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:39:19 ; Unable to communicate with Transceiver.... quitting...
+2015-06-04 07:40:02 ; Coast Station online......
+2015-06-04 07:40:02 ; Admin; Login from 2.99.34.247
+2015-06-04 07:40:02 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:40:02 ; Admin; Login from 80.229.223.86
+2015-06-04 07:40:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:40:02 ; Admin; Login from 80.229.223.86
+2015-06-04 07:40:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:40:03 ; Admin; Login from 80.229.223.86
+2015-06-04 07:40:03 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:40:03 ; Admin; Login from 2.99.34.247
+2015-06-04 07:40:03 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:40:03 ; Admin; Login from 80.229.223.86
+2015-06-04 07:40:03 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:40:04 ; Admin; Login from 80.229.223.86
+2015-06-04 07:40:04 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:40:04 ; Admin; Login from 80.229.223.86
+2015-06-04 07:40:04 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:40:05 ; Admin; Login from 2.99.34.247
+2015-06-04 07:40:05 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:40:08 ; Admin; Login from 80.229.223.86
+2015-06-04 07:40:08 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:40:38 ; Unable to communicate with Transceiver.... quitting...
+2015-06-04 07:42:02 ; Coast Station online......
+2015-06-04 07:42:02 ; Admin; Login from 80.229.223.86
+2015-06-04 07:42:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:42:02 ; Admin; Login from 80.229.223.86
+2015-06-04 07:42:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:42:02 ; Admin; Login from 2.99.34.247
+2015-06-04 07:42:02 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:42:02 ; Admin; Login from 80.229.223.86
+2015-06-04 07:42:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:42:03 ; Admin; Login from 80.229.223.86
+2015-06-04 07:42:03 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:42:03 ; Admin; Login from 2.99.34.247
+2015-06-04 07:42:03 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:42:05 ; Admin; Login from 2.99.34.247
+2015-06-04 07:42:05 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:45:57 ; Admin; SHUTDOWN COMMAND FROM  80.229.223.86 (john); ADDING DIAL LOCK TO RADIO FUNCTIONS
+2015-06-04 07:46:02 ; Coast Station online......
+2015-06-04 07:46:02 ; Admin; Login from 80.229.223.86
+2015-06-04 07:46:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:46:02 ; Admin; Login from 2.99.34.247
+2015-06-04 07:46:02 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:46:02 ; Admin; Login from 80.229.223.86
+2015-06-04 07:46:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:46:02 ; Admin; Login from 80.229.223.86
+2015-06-04 07:46:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:46:03 ; Admin; Login from 80.229.223.86
+2015-06-04 07:46:03 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:46:03 ; Admin; Login from 2.99.34.247
+2015-06-04 07:46:03 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:46:04 ; Admin; Login from 2.99.34.247
+2015-06-04 07:46:04 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:46:05 ; Admin; Login from 2.99.34.247
+2015-06-04 07:46:06 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:46:07 ; Admin; Login from 2.99.34.247
+2015-06-04 07:46:07 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:46:08 ; Admin; Login from 2.99.34.247
+2015-06-04 07:46:08 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:46:09 ; Admin; Login from 2.99.34.247
+2015-06-04 07:46:09 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:46:32 ; Unable to communicate with Transceiver.... quitting...
+2015-06-04 07:52:34 ; Coast Station online......
+2015-06-04 07:52:34 ; Admin; Login from 80.229.223.86
+2015-06-04 07:52:34 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:52:34 ; Admin; Login from 80.229.223.86
+2015-06-04 07:52:34 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:52:34 ; Admin; Login from 2.99.34.247
+2015-06-04 07:52:34 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 07:52:35 ; Admin; Login from 80.229.223.86
+2015-06-04 07:52:35 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:52:35 ; Admin; Login from 80.229.223.86
+2015-06-04 07:52:35 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 07:52:41 ; Admin; Login from 80.229.223.86
+2015-06-04 07:52:41 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 08:00:33 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 08:00:41 ; Admin; Login from 80.229.223.86
+2015-06-04 08:00:41 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 08:00:47 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 08:01:42 ; Admin; Login from 80.229.223.86
+2015-06-04 08:01:43 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 08:01:59 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 08:02:28 ; Admin; Login from 80.229.223.86
+2015-06-04 08:02:28 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 08:02:34 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 08:02:58 ; Admin; Login from 80.229.223.86
+2015-06-04 08:02:58 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 08:03:13 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 08:03:37 ; Admin; Login from 80.229.223.86
+2015-06-04 08:03:37 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 08:06:47 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 08:06:55 ; Admin; Login from 80.229.223.86
+2015-06-04 08:06:55 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 08:07:56 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 08:08:05 ; Admin; Login from 80.229.223.86
+2015-06-04 08:08:05 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 08:08:23 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 08:08:48 ; Admin; Login from 80.229.223.86
+2015-06-04 08:08:49 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 08:10:53 ; Admin; Login from 80.229.223.86
+2015-06-04 08:10:54 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 08:11:16 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 08:12:32 ; Admin; Login from 80.229.223.86
+2015-06-04 08:12:33 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 08:13:32 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 08:16:03 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 08:16:08 ; Admin; Login from 80.229.223.86
+2015-06-04 08:16:08 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 08:17:05 ; Admin; Login from 80.229.223.86
+2015-06-04 08:17:06 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 08:24:26 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 08:25:18 ; Admin; Login from 80.229.223.86
+2015-06-04 08:25:19 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 08:25:29 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 08:25:43 ; Admin; Login from 80.229.223.86
+2015-06-04 08:25:43 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 08:29:32 ; Admin; DATABASE PURGED FROM 80.229.223.86 (john)
+2015-06-04 08:44:40 ; Admin; Test Call sent to 002711000 on 16804.50 by 2.99.34.247 (rich)
+2015-06-04 08:44:41 ; Transmit on 16804.5 (TEST / REQ) to 002711000 (Istanbul Radio / )
+2015-06-04 08:56:04 ; Admin; Login from 80.229.223.86
+2015-06-04 08:57:17 ; Admin; Login from 80.229.223.86
+2015-06-04 08:58:17 ; Admin; Login from 80.229.223.86
+2015-06-04 08:58:48 ; Admin; Login from 80.229.223.86
+2015-06-04 08:59:18 ; Admin; Login from 80.229.223.86
+2015-06-04 08:59:46 ; Admin; Login from 80.229.223.86
+2015-06-04 09:00:14 ; Admin; Login from 80.229.223.86
+2015-06-04 09:00:14 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 09:00:51 ; Admin; Test Call sent to 002320001 on 2187.50 by 80.229.223.86 (john)
+2015-06-04 09:00:51 ; Transmit on 2187.5 (TEST / REQ) to 002320001 (Shetland Coastguard / )
+2015-06-04 09:01:31 ; Received on 2187.5 (TEST / ACK) from 002320001 (Shetland Coastguard / ) ; JOHN-PERSEUS
+2015-06-04 09:01:42 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 09:02:32 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 09:03:46 ; Admin; Login from 80.229.223.86
+2015-06-04 09:03:47 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 09:03:59 ; Admin; Test Call sent to 002320004 on 2187.50 by 80.229.223.86 (john)
+2015-06-04 09:04:01 ; Transmit on 2187.5 (TEST / REQ) to 002320004 (Aberdeen Coastguard / )
+2015-06-04 09:04:13 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 09:04:48 ; Admin; Login from 80.229.223.86
+2015-06-04 09:04:48 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 09:05:09 ; Admin; Test Call sent to 002320024 on 2187.50 by 80.229.223.86 (john)
+2015-06-04 09:05:10 ; Transmit on 2187.5 (TEST / REQ) to 002320024 (Stornoway Coastguard / )
+2015-06-04 09:05:35 ; Admin; Added JOHN-FCDPP to excluded RX list by 80.229.223.86 (john)
+2015-06-04 09:05:41 ; Admin; Removed JOHN-FCDPP from excluded RX list by 80.229.223.86 (john)
+2015-06-04 09:09:07 ; Received on 8414.5 (TEST / REQ) from 309022000 (SUMMIT SPIRIT / C6WZ6) ; CHANDLER, AZ
+2015-06-04 09:09:08 ; Transmit on 8414.5 (TEST / ACK) to 309022000 (SUMMIT SPIRIT / C6WZ6)
+2015-06-04 09:09:53 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 09:10:00 ; Admin; Login from 80.229.223.86
+2015-06-04 09:10:00 ; Admin; USER INVALID 80.229.223.86 (l)
+2015-06-04 09:10:10 ; Admin; Login from 80.229.223.86
+2015-06-04 09:10:10 ; Admin; USER INVALID 80.229.223.86 (l)
+2015-06-04 09:10:14 ; Admin; Login from 80.229.223.86
+2015-06-04 09:10:14 ; Admin; USER INVALID 80.229.223.86 (l)
+2015-06-04 09:10:18 ; Admin; Login from 80.229.223.86
+2015-06-04 09:10:18 ; Admin; USER INVALID 80.229.223.86 (l)
+2015-06-04 09:10:30 ; Admin; Login from 80.229.223.86
+2015-06-04 09:10:30 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-04 09:10:32 ; Admin; Login from 80.229.223.86
+2015-06-04 09:10:32 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-04 09:10:35 ; Admin; Login from 80.229.223.86
+2015-06-04 09:10:35 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-04 09:10:39 ; Admin; Login from 80.229.223.86
+2015-06-04 09:10:47 ; Admin; Login from 80.229.223.86
+2015-06-04 09:10:52 ; Admin; Login from 80.229.223.86
+2015-06-04 09:10:52 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-04 09:11:01 ; Admin; Login from 80.229.223.86
+2015-06-04 09:11:26 ; Admin; Login from 80.229.223.86
+2015-06-04 09:11:26 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-04 09:12:16 ; Admin; Login from 80.229.223.86
+2015-06-04 09:12:16 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-04 09:12:20 ; Admin; Login from 80.229.223.86
+2015-06-04 09:12:20 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-04 09:12:23 ; Admin; Login from 80.229.223.86
+2015-06-04 09:12:24 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-04 09:12:43 ; Admin; Login from 80.229.223.86
+2015-06-04 09:12:43 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 09:13:36 ; Admin; Login from 80.229.223.86
+2015-06-04 09:13:37 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-04 09:13:39 ; Admin; Login from 80.229.223.86
+2015-06-04 09:13:39 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-04 09:13:42 ; Admin; Login from 80.229.223.86
+2015-06-04 09:13:42 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-04 09:15:12 ; Received on 16804.5 (TEST / REQ) from 240585000 (ANANGEL VISION / SXLT) ; DORSET_UK
+2015-06-04 09:15:13 ; Transmit on 16804.5 (TEST / ACK) to 240585000 (ANANGEL VISION / SXLT)
+2015-06-04 09:15:16 ; Received on 16804.5 (TEST / REQ) from 240585000 (ANANGEL VISION / SXLT) ; DORSET_2
+2015-06-04 09:15:52 ; Admin; SHUTDOWN COMMAND FROM  80.229.223.86 (john); CHANGING USERNAME VERIFICATION
+2015-06-04 09:17:02 ; Coast Station online......
+2015-06-04 09:17:02 ; Admin; Login from 80.229.223.86
+2015-06-04 09:17:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 09:17:02 ; Admin; Login from 80.229.223.86
+2015-06-04 09:17:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 09:17:02 ; Admin; Login from 80.229.223.86
+2015-06-04 09:17:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 09:17:02 ; Admin; Login from 2.99.34.247
+2015-06-04 09:17:02 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 09:17:03 ; Admin; Login from 80.229.223.86
+2015-06-04 09:17:03 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 09:17:03 ; Admin; Login from 80.229.223.86
+2015-06-04 09:17:03 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 09:17:03 ; Admin; Login from 2.99.34.247
+2015-06-04 09:17:03 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 09:17:45 ; Received on 12577.0 (TEST / REQ) from 240585000 (ANANGEL VISION / SXLT) ; JOHN-FT817
+2015-06-04 09:17:47 ; Transmit on 12577.0 (TEST / ACK) to 240585000 (ANANGEL VISION / SXLT)
+2015-06-04 09:18:20 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 09:18:26 ; Admin; Login from 80.229.223.86
+2015-06-04 09:21:49 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 09:22:01 ; Admin; Login from 80.229.223.86
+2015-06-04 09:22:01 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-04 09:22:02 ; Admin; Login from 80.229.223.86
+2015-06-04 09:22:02 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-04 09:22:03 ; Admin; Login from 80.229.223.86
+2015-06-04 09:22:03 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-04 09:22:08 ; Admin; Login from 80.229.223.86
+2015-06-04 09:22:08 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 09:25:13 ; Received on 8414.5 (TEST / REQ) from 311000347 (VIKING NEPTUN / C6BR9) ; DICK-RX321
+2015-06-04 09:25:13 ; Received on 8414.5 (TEST / REQ) from 311000347 (VIKING NEPTUN / C6BR9) ; MICHAEL_SDR#3
+2015-06-04 09:25:14 ; Received on 8414.5 (TEST / REQ) from 311000347 (VIKING NEPTUN / C6BR9) ; JOHN-FCDPP
+2015-06-04 09:25:14 ; Transmit on 8414.5 (TEST / ACK) to 311000347 (VIKING NEPTUN / C6BR9)
+2015-06-04 09:29:48 ; Admin; Login from 80.229.223.86
+2015-06-04 09:29:48 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-04 09:29:50 ; Admin; Login from 80.229.223.86
+2015-06-04 09:29:50 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-04 09:29:52 ; Admin; Login from 80.229.223.86
+2015-06-04 09:29:52 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 09:30:02 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 09:30:12 ; Admin; Login from 80.229.223.86
+2015-06-04 09:30:12 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-04 09:30:12 ; Admin; Login from 80.229.223.86
+2015-06-04 09:30:12 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-04 09:30:13 ; Admin; Login from 80.229.223.86
+2015-06-04 09:30:13 ; Admin; USER INVALID 80.229.223.86 ()
+2015-06-04 09:30:19 ; Admin; Login from 80.229.223.86
+2015-06-04 09:30:19 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 09:30:24 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 09:34:11 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 09:34:20 ; Admin; Login from 80.229.223.86
+2015-06-04 09:34:20 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 10:07:33 ; Received on 8414.5 (TEST / REQ) from 305979000 (POLLUX / V2GK9) ; DICK-RX321
+2015-06-04 10:07:33 ; Received on 8414.5 (TEST / REQ) from 305979000 (POLLUX / V2GK9) ; JOHN-FCDPP
+2015-06-04 10:07:34 ; Received on 8414.5 (TEST / REQ) from 305979000 (POLLUX / V2GK9) ; MICHAEL_SDR#3
+2015-06-04 10:07:34 ; Transmit on 8414.5 (TEST / ACK) to 305979000 (POLLUX / V2GK9)
+2015-06-04 10:20:40 ; Received on 8414.5 (TEST / REQ) from 222222222 (BBBB / 2222) ; DICK-RX321
+2015-06-04 10:20:40 ; Received on 8414.5 (TEST / REQ) from 222222222 (BBBB / 2222) ; MICHAEL_SDR#3
+2015-06-04 10:20:41 ; Transmit on 8414.5 (TEST / ACK) to 222222222 (BBBB / 2222)
+2015-06-04 10:29:16 ; Received on 8414.5 (TEST / REQ) from 305979000 (POLLUX / V2GK9) ; DICK-RX321
+2015-06-04 10:29:16 ; Received on 8414.5 (TEST / REQ) from 305979000 (POLLUX / V2GK9) ; JOHN-FCDPP
+2015-06-04 10:29:16 ; Received on 8414.5 (TEST / REQ) from 305979000 (POLLUX / V2GK9) ; MICHAEL_SDR#3
+2015-06-04 10:29:18 ; Transmit on 8414.5 (TEST / ACK) to 305979000 (POLLUX / V2GK9)
+2015-06-04 10:32:08 ; Admin; SHUTDOWN COMMAND FROM  80.229.223.86 (john); ADDED NEW USER
+2015-06-04 10:33:01 ; Coast Station online......
+2015-06-04 10:33:01 ; Admin; Login from 80.229.223.86
+2015-06-04 10:33:01 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 10:33:02 ; Admin; Login from 2.99.34.247
+2015-06-04 10:33:02 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 10:33:02 ; Admin; Login from 80.229.223.86
+2015-06-04 10:33:02 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 10:33:03 ; Admin; Login from 2.99.34.247
+2015-06-04 10:33:03 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 10:33:04 ; Admin; Login from 2.99.34.247
+2015-06-04 10:33:04 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 10:33:06 ; Admin; Login from 2.99.34.247
+2015-06-04 10:33:06 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 10:33:07 ; Admin; Login from 2.99.34.247
+2015-06-04 10:33:07 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 10:33:07 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 10:33:08 ; Admin; Login from 2.99.34.247
+2015-06-04 10:33:08 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 10:33:09 ; Admin; Login from 2.99.34.247
+2015-06-04 10:33:09 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 10:33:10 ; Admin; Login from 2.99.34.247
+2015-06-04 10:33:10 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 10:33:12 ; Admin; Login from 2.99.34.247
+2015-06-04 10:33:12 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 10:33:13 ; Admin; Login from 2.99.34.247
+2015-06-04 10:33:13 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 10:33:14 ; Admin; Login from 2.99.34.247
+2015-06-04 10:33:14 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 10:33:15 ; Admin; Login from 2.99.34.247
+2015-06-04 10:33:15 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 10:33:16 ; Admin; Login from 2.99.34.247
+2015-06-04 10:33:16 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 10:33:17 ; Admin; Login from 80.229.223.86
+2015-06-04 10:33:17 ; Admin; User dirk logged in from 80.229.223.86
+2015-06-04 10:33:18 ; Admin; Login from 2.99.34.247
+2015-06-04 10:33:18 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 10:33:19 ; Admin; Login from 2.99.34.247
+2015-06-04 10:33:19 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 10:33:20 ; Admin; Login from 2.99.34.247
+2015-06-04 10:33:20 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 10:33:21 ; Admin; Login from 2.99.34.247
+2015-06-04 10:33:21 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 10:33:23 ; Admin; Login from 2.99.34.247
+2015-06-04 10:33:23 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 10:33:26 ; Admin; Logoff from 80.229.223.86 (dirk)
+2015-06-04 10:33:30 ; Admin; Login from 80.229.223.86
+2015-06-04 10:33:30 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 10:42:08 ; Received on 2187.5 (TEST / REQ) from 309742000 (ABERDEEN / C6OL4) ; MICHAEL_SDR#2
+2015-06-04 10:42:09 ; Transmit on 2187.5 (TEST / ACK) to 309742000 (ABERDEEN / C6OL4)
+2015-06-04 10:43:52 ; Admin; DATABASE PURGED FROM 80.229.223.86 (john)
+2015-06-04 11:00:32 ; Received on 6312.0 (TEST / REQ) from 305979000 (POLLUX / V2GK9) ; MICHAEL_SDR#1
+2015-06-04 11:00:34 ; Transmit on 6312.0 (TEST / ACK) to 305979000 (POLLUX / V2GK9)
+2015-06-04 11:16:13 ; Received on 8414.5 (TEST / REQ) from 305979000 (POLLUX / V2GK9) ; DICK-RX321
+2015-06-04 11:16:14 ; Received on 8414.5 (TEST / REQ) from 305979000 (POLLUX / V2GK9) ; JOHN-FCDPP
+2015-06-04 11:16:14 ; Transmit on 8414.5 (TEST / ACK) to 305979000 (POLLUX / V2GK9)
+2015-06-04 11:19:32 ; Admin; Login from 80.229.223.86
+2015-06-04 11:19:32 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 11:20:13 ; Admin; Test Call sent to 305979000 on 8414.50 by 80.229.223.86 (john)
+2015-06-04 11:20:14 ; Transmit on 8414.5 (TEST / REQ) to 305979000 (POLLUX / V2GK9)
+2015-06-04 11:21:38 ; Admin; Logoff from 2.99.34.247 (rich)
+2015-06-04 11:23:15 ; Admin; Login from 2.99.34.247
+2015-06-04 11:23:15 ; Admin; User rich logged in from 2.99.34.247
+2015-06-04 11:28:28 ; Admin; Logoff from 80.229.223.86 (john)
+2015-06-04 11:28:38 ; Admin; Login from 80.229.223.86
+2015-06-04 11:29:02 ; Admin; Login from 80.229.223.86
+2015-06-04 11:29:03 ; Admin; User john logged in from 80.229.223.86
+2015-06-04 11:29:43 ; Admin; DATABASE PURGED FROM 80.229.223.86 (john)
+2015-06-04 11:29:47 ; Received on 8414.5 (TEST / REQ) from 477170400 (MAERSK NIAGARA / VREO9) ; DICK-RX321
+2015-06-04 11:29:47 ; Received on 8414.5 (TEST / REQ) from 477170400 (MAERSK NIAGARA / VREO9) ; JOHN-FCDPP
+2015-06-04 11:29:47 ; Transmit on 8414.5 (TEST / ACK) to 477170400 (MAERSK NIAGARA / VREO9)
+2015-06-04 11:39:19 ; Admin; Test Call sent to 002630100 on 2187.50 by 80.229.223.86 (john)
+2015-06-04 11:39:20 ; Transmit on 2187.5 (TEST / REQ) to 002630100 (UNID / )
+2015-06-04 11:41:28 ; Admin; Removed 4207.5 from allowed frequencies by 80.229.223.86 (john)
+2015-06-04 11:41:40 ; Admin; Added 4207.5 to allowed frequencies by 80.229.223.86 (john)
+
+

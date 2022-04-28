@@ -1,0 +1,3 @@
+[paths]
+default = /home/gm4slv/Dropbox/PythonProjects/ic7200_xmlrpc
+shack = ssh://gm4slv@shack/ic7200_xmlrpc

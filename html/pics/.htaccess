@@ -1,0 +1,3 @@
+BrowserMatchNoCase Googlebot bad_bot
+Order Deny,Allow
+Deny from env=bad_bot

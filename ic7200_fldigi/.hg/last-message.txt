@@ -1,0 +1,2 @@
+added xmlrpc check for "tune" so fldigi Tune button works
+

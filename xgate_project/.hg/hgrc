@@ -1,0 +1,6 @@
+[hooks]
+# update working directory after adding changesets
+changegroup.update = hg update
+
+[paths]
+default = ssh://gm4slv@nas1//data/Documents/PythonProjects/xgate_project

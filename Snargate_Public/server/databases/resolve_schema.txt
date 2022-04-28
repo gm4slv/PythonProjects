@@ -1,0 +1,1 @@
+CREATE TABLE resolve (id  integer primary key autoincrement, mmsi text not null unique, name text, call text);

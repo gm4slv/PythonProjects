@@ -1,0 +1,2 @@
+CREATE TABLE rx (datetime text, freq text, rx text, mmsi text, name text, call text, tc1 text, eos text);
+CREATE TABLE tx (datetime text, freq text, mmsi text, name text, call text, tc1 text, eos text);
