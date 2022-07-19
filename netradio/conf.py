@@ -15,6 +15,7 @@ set_pre_cmd = "\x16" + "\x02"
 
 set_pre_off = "\x00"
 set_pre_on = "\x01"
+set_pre_2_on = "\x02"
 
 set_att_cmd = "\x11"
 set_att_on = "\x20"
@@ -32,8 +33,8 @@ eom = "\xfd"
 ack = "\xfb"
 nak = "\xfa"
 
-a1 = "\x76"
-n1 = "IC-7200"
+a1 = "\x5A"
+n1 = "IC-R75"
 cal1 = ( 25, 1, 36, 47, 31, 18, 34, 35 )
 
 a2 = "\x5e"

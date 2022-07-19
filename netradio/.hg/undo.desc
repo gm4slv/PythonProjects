@@ -1,3 +1,3 @@
-5
-push
-file:///home/gm4slv/PythonProjects/netradio
+0
+pull
+ssh://shack/PythonProjects/netradio

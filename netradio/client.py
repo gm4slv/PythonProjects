@@ -15,7 +15,7 @@ import threading
 import time
 
 
-HOST, PORT = "192.168.21.151", 9999
+HOST, PORT = "localhost", 9999
 
 smlog = "pymon.txt"
 log_active = []
@@ -111,6 +111,7 @@ def prompt():
     print "gs   : Get S-meter"
     print "gp   : Get Pre-amp"
     print "pon  : Set Pre-amp On"
+    print "p2on : Set Pre-amp 2 On"
     print "poff : Set Pre-amp Off"
     print "gatt : Get Attn"
     print "aton : Set Attn On"
@@ -127,12 +128,39 @@ def start():
     global radio_num
     global rname
     global sock
-
-    data = raw_input(rname + " > ").lower().strip()
+    pfreq = connect("getfreq" + " " + radio_num)
+    pmode = connect("getmode" + " " + radio_num)
+    
+    data = raw_input(rname + " (" + pfreq + " " + pmode + ") " + " > ").lower().strip()
     if len(data.split()) > 1:
-        print "only one command at a time please"
+        if (data.split())[0] == "sf":
+            sfreq = (data.split())[1]
+            freq = connect("setfreq" + " " + sfreq + " " + radio_num)
+            print "%s replied: %s" % (rname, freq)
+            start()
+        elif (data.split())[0] == "sm":
+            smode = (data.split())[1]
+            mode = connect("setmode" + " " + smode + " " + radio_num)
+            print "%s replied: %s" % (rname, mode)
+            start()
+        else:
+            
+            print "only one command at a time please"
+            start()
+    elif data == "u":
+        oldf = connect("getfreq" + " " + radio_num)
+        newf = str(float(oldf) + 1)
+        freq = connect("setfreq" + " " + newf + " " + radio_num)
+        print "%s replied: %s" % (rname, freq)
         start()
-
+    
+    elif data == "d":
+        oldf = connect("getfreq" + " " + radio_num)
+        newf = str(float(oldf) - 1)
+        freq = connect("setfreq" + " " + newf + " " + radio_num)
+        print "%s replied: %s" % (rname, freq)
+        start()
+        
     elif data == "lr":
         list_radios()
         start()
@@ -183,6 +211,11 @@ def start():
 
     elif data == "pon":
         preamp = connect("preampon" + " " + radio_num)
+        print "%s replied: %s" % (rname, preamp)
+        start()
+    
+    elif data == "p2on":
+        preamp = connect("preamp2on" + " " + radio_num)
         print "%s replied: %s" % (rname, preamp)
         start()
 
@@ -257,7 +290,7 @@ def start():
         print "Server says: %s " % rx
 
     else:
-        prompt()
+        #prompt()
         start()
 
 
@@ -279,7 +312,8 @@ def get_all():
         print "Frequency : %s kHz" % freq
         print "Mode: %s" % mode
         print "S-Meter: %sdBm" % smeter
-        print "%s : %s " % (preamp, att)
+        print "Preamp = %s" % preamp
+        print "Attenuator = %s " % att
         print "=" * 33
 
     print ""

@@ -21,10 +21,10 @@ Python NMEA Radio Functions module for Icom IC-M710 Marine HF SSB Transceiver
 
 import serial
 import threading
-
+import time
 version = "v0.1"
 
-sport = 'COM1'
+sport = '/dev/ttyUSB0'
 sbaud = 4800
 
 #ser = serial.Serial(sport, 4800, timeout=1)
@@ -60,10 +60,11 @@ lf = "\x0a"
 class m710(object):
     def __init__(self, model):
         self.ser = serial.Serial(sport, sbaud, timeout=0.1)
+        self.model = model
+        print "model", model
 
 
-
-    def get_ecc(command):
+    def get_ecc(self,command):
         ecc = 112
         for c in command:
             ecc = ord(c) ^ ecc
@@ -72,31 +73,31 @@ class m710(object):
         return hecc
 
 # we must force the radio into "Remote" mode before sending any other commands.    
-    def remote_on():
+    def remote_on(self):
         command = "REMOTE,ON"
-        ecc = get_ecc(command)
+        ecc = self.get_ecc(command)
         sendStr = preamble+controller+","+radio+","+command+"*"+ecc+cr+lf
-        result = tx_rx(sendStr)
+        result = self.tx_rx(sendStr)
         if result:
             return
         else:
-            return remote_on()
+            return self.remote_on()
     
         
 
 # we can leave the radio in "Remote" mode for as long as we want to control it remotely
 # but we must close the "Remote" mode when finished. The previous radio settings (channel/power etc) are
 # restored after Remote mode is closed.
-    def remote_off():
+    def remote_off(self):
         command = "REMOTE,OFF"
-        ecc = get_ecc(command)
+        ecc = self.get_ecc(command)
         sendStr = preamble+controller+","+radio+","+command+"*"+ecc+cr+lf
-        result = tx_rx(sendStr) 
+        result = self.tx_rx(sendStr) 
         if result:
             #ser.close()
             return
         else:
-            return remote_off()
+            return self.remote_off()
     
 
     def ptt_on():
@@ -119,98 +120,103 @@ class m710(object):
         else:
             return ptt_off()
 
-    def get_freq():
-        freq = get_rxfreq()
-        fkhz = "%.3f" % (float(f) * 1000)
+
+
+    def get_freq(self):
+        fkhz = self.get_rxfreq()
+        #fkhz = "%.3f" % (float(f) * 1000)
         return fkhz
 
-    def set_freq(freq):
+    def set_freq(self,freq):
         
-        set_rxfreq(freq)
-        set_txfreq(freq)
-        
+        self.set_rxfreq(freq)
+        self.set_txfreq(freq)
+        return "Set freq success"
             
-    def get_rxfreq():
+    def get_rxfreq(self):
         command = "RXF"
-        ecc = get_ecc(command)
+        ecc = self.get_ecc(command)
         sendStr = preamble+controller+","+radio+","+command+"*"+ecc+cr+lf
-        result = tx_rx(sendStr)
+        result = self.tx_rx(sendStr)
         if result:
             list = result.split(",")
             f = list[4].split("*")[0]
             fkhz = "%.3f" % (float(f) * 1000)
             return fkhz
         else:
-            return get_rxfreq()
+            return self.get_rxfreq()
         
         
-    def get_txfreq():
+    def get_txfreq(self):
         command = "TXF"
         ecc = get_ecc(command)
         sendStr = preamble+controller+","+radio+","+command+"*"+ecc+cr+lf
-        result = tx_rx(sendStr)
+        result = self.tx_rx(sendStr)
         if result:
             list = result.split(",")
             f = list[4].split("*")[0]
             fkhz = "%.3f" % (float(f) * 1000)
             return fkhz
         else:
-            return get_txfreq()
+            return self.get_txfreq()
         
 
-    def get_mode():
+    def get_mode(self):
         command = "MODE"
-        ecc = get_ecc(command)
+        ecc = self.get_ecc(command)
         sendStr = preamble+controller+","+radio+","+command+"*"+ecc+cr+lf
-        result = tx_rx(sendStr)
+        result = self.tx_rx(sendStr)
         if result:
             list = result.split(",")
             mode = list[4].split("*")[0]
             return mode
         else:
-            return get_mode()
+            return self.get_mode()
         
        
 
-    def set_mode(mode):
+    def set_mode(self,mode):
+        mode = mode.upper()
         command = "MODE,"+mode
-        ecc = get_ecc(command)
+        ecc = self.get_ecc(command)
+        
         sendStr = preamble +controller+","+radio+"," + command + "*"+ecc+cr+lf
-        result = tx_rx(sendStr)
+        print "in set_mode with ", sendStr
+        result = self.tx_rx(sendStr)
         if result:
             return result
         else:
-            return set_mode(mode)
+            return self.set_mode(mode)
        
         
-    def set_rxfreq(freq):
+    def set_rxfreq(self,freq):
         
         fmhz = float(freq) / 1000
         f = str(fmhz)
         
         command = "RXF,"+f
-        ecc = get_ecc(command)
+        ecc = self.get_ecc(command)
         sendStr = preamble +controller+","+radio+"," + command + "*"+ecc+cr+lf
-        result = tx_rx(sendStr)
+        result = self.tx_rx(sendStr)
         if result:
             return result
         else:
-            return set_rxfreq(freq)
+            return self.set_rxfreq(freq)
             
             
-    def set_txfreq(freq):
+    def set_txfreq(self,freq):
         
         fmhz = float(freq) / 1000
         f = str(fmhz)
         
         command = "TXF,"+f
-        ecc = get_ecc(command)
+        ecc = self.get_ecc(command)
         sendStr = preamble +controller+","+radio+"," + command + "*"+ecc+cr+lf
-        result = tx_rx(sendStr)
+        result = self.tx_rx(sendStr)
         if result:
             return result
         else:
-            return set_txfreq(freq)
+            return self.set_txfreq(freq)
 
     def get_txpower():
         command = "TXP"
@@ -234,17 +240,17 @@ class m710(object):
         else:
             return set_txpower(p)
 
-    def get_smeter():
+    def get_smeter(self):
         command = "SIGM"
-        ecc = get_ecc(command)
+        ecc = self.get_ecc(command)
         sendStr = preamble+controller+","+radio+","+command+"*"+ecc+cr+lf
-        result = tx_rx(sendStr)
+        result = self.tx_rx(sendStr)
         if result:
             list = result.split(",")
             smeter = list[4].split("*")[0]
             return smeter
         else:
-            return get_smeter()
+            return self.get_smeter()
 
     def speaker_on():
         command = "SP,ON"
@@ -383,7 +389,11 @@ class m710(object):
         else:
             return get_rfg()
             
-            
+    def get_att(self):
+        return
+    
+    def get_pre(self):
+        return
 
     def set_rfg(v):
         command = "RFG,"+v
@@ -411,7 +421,7 @@ class m710(object):
     # is sent back to the client. 
     # If False the function calls itself again, and attempts to get an error-free reply from the radio, via tx_rx()
 
-    def check_ecc(message, recc):
+    def check_ecc(self,message, recc):
         i = 1
         cecc = 0
         
@@ -426,22 +436,27 @@ class m710(object):
         else: 
             return False
             
-    def tx_rx(sendStr):
-        #print "in tx_rx, sendStr =  " , sendStr
+    def tx_rx(self,sendStr):
+        print "in tx_rx, sendStr =  " , sendStr
         lock.acquire()
-        ser.write(sendStr)
-        result = ser.readline()
-        reply = result.split("*")
         
+        self.ser.write(sendStr)
+        time.sleep(0.1)
+        result = self.ser.readline()
+
+        print result
+        reply = result.split("*")
         ecc = reply[1][0:2].lower()
         message = reply[0]
         lock.release()
         
-        if check_ecc(message, ecc):
-           
+        if self.check_ecc(message, ecc):
             return result
         else:
             return False
+        
+        
+           
 
 
 #

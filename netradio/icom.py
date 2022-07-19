@@ -3,8 +3,8 @@ import threading
 from conf import *
 import time
 #sport = "COM1"
-sport = "/dev/ttyUSB0"
-sbaud = 19200
+sport = "/dev/ttyS0"
+sbaud = 9600
 
 lock = threading.Lock()
 
@@ -34,6 +34,8 @@ class Icom(object):
             return 0
         elif result[6] == "\x01":
             return 1
+        elif result[6] == "\x02":
+            return 2
 
     def get_pwr(self):
         sendStr = preamble + preamble + self.radio_address + controller + pwr_cmd + eom
@@ -80,6 +82,15 @@ class Icom(object):
             return "Success"
         elif result[4] == nak:
             return "NAK received"
+    
+    def pre_2_on(self):
+        sendStr = preamble + preamble + self.radio_address + controller + set_pre_cmd + set_pre_2_on + eom
+        result = self.tx_rx(sendStr)
+        if result[4] == ack:
+            return "Success"
+        elif result[4] == nak:
+            return "NAK received"
+
 
     def pre_off(self):
         sendStr = preamble + preamble + self.radio_address + controller + set_pre_cmd + set_pre_off + eom

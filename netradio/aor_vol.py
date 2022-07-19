@@ -14,6 +14,9 @@ class Ar7030(object):
     def __init__(self, model):
         self.ser = serial.Serial(sport, sbaud, timeout=10)
         self.model = model
+        self.af = self.af_on()
+        self.mute = self.mute_af_2()
+
 
 
     def check_bit(self, byte, bit):
@@ -110,11 +113,47 @@ class Ar7030(object):
         else:
             return 0
 
+    def mute_af(self):
+        sendStr = '\x50' + '\x31' + '\x4E'
+        byte = self.tx_rx(sendStr, False, 1)
+        print ord(byte)
+        high = 48
+        low = 96 + 15
+        sendStr = '\x81' + '\x50' + '\x31' + '\x4E' + chr(high) + chr(low) + '\x25' + '\x80'
+        self.tx_rx(sendStr, False, 0)
+        return "Command Sent"
+    
+    def mute_af_2(self):
+        sendStr = '\x50' + '\x32' + '\x47'
+        byte = self.tx_rx(sendStr, False, 1)
+        print ord(byte)
+        pon = self.set_bit(byte,6)
+        print pon
+        high = 48 + (pon >> 4)
+        low = 96 + (pon & 15)
+        
+        sendStr = '\x81' + '\x50' + '\x32' + '\x47' + chr(high) + chr(low) + '\x25' + '\x80'
+        self.tx_rx(sendStr, False, 0)
+        #self.af_on()
+        return "Command Sent"
+
+    def af_on(self):
+        sendStr = '\x50' + '\x31' + '\x4E'
+        byte = self.tx_rx(sendStr, False, 1)
+        print ord(byte)
+        pon = self.clear_bit(byte,4)
+        print pon
+        high = 48 + (pon >> 4)
+        low = 96 + (pon & 15)
+        sendStr = '\x81' + '\x50' + '\x31' + '\x4E' + chr(high) + chr(low) + '\x25' + '\x80'
+        self.tx_rx(sendStr, False, 0)
+        return "Command Sent"
 
     def att_on(self):
         #get current 8-bit rxcon byte
         sendStr = '\x50' + '\x32' + '\x48'
         byte = self.tx_rx(sendStr, False, 1)
+        print "Byte ", ord(byte)
 
         # set bit 7 ON = ATT ON and get the new 8-bit rxcon byte
         pon = self.set_bit(byte, 7)
@@ -123,6 +162,8 @@ class Ar7030(object):
         # split new rxcon byte into two 4-bit nibbles, add 48/96 (\x30 and \x60)
         high = 48 + (pon >> 4)
         low = 96 + (pon & 15)
+        print "high ", high
+        print "low ", low
 
         sendStr = '\x81' + '\x50' + '\x32' + '\x48' + chr(high) + chr(low) + '\x29' + '\x80'
 
@@ -134,6 +175,7 @@ class Ar7030(object):
         #get current 8-bit rxcon byte
         sendStr = '\x50' + '\x32' + '\x48'
         byte = self.tx_rx(sendStr, False, 1)
+        print "Byte ", ord(byte)
 
         # set bit 7 OFF = att OFF and get the new 8-bit rxcon byte
         pon = self.clear_bit(byte, 7)
@@ -142,6 +184,8 @@ class Ar7030(object):
         # split new rxcon byte into two 4-bit nibbles, add 48/96 (\x30 and \x60)
         high = 48 + (pon >> 4)
         low = 96 + (pon & 15)
+        print "high ", high
+        print "low ", low
 
         sendStr = '\x81' + '\x50' + '\x32' + '\x48' + chr(high) + chr(low) + '\x29' + '\x80'
 

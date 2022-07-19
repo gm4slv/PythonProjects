@@ -1,7 +1,7 @@
-#from aor import *
+from aor import *
 from icom import *
 from conf import *
-#from m710 import *
+from m710 import *
 import SocketServer
 import time
 
@@ -15,11 +15,12 @@ lock = threading.Lock()
 radios = []
 
 
-#r1 = m710(n4)
-#radios.append(n4)
 
 r1 = Icom(n1, a1, cal1)
 radios.append(n1)
+
+r2 = m710(n4)
+radios.append(n4)
 
 #r2 = Icom(n2, a2, cal2)
 #radios.append(n2)
@@ -28,7 +29,9 @@ radios.append(n1)
 #radios.append(n3)
 
 print radios
-print r1.digi_off()
+#print r1.digi_off()
+
+#print r2.remote_on()
 
 def list_radios():
     radiolist = ""
@@ -127,9 +130,14 @@ class ThreadedRequestHandler(SocketServer.StreamRequestHandler):
                 self.wfile.write(newmode)
             elif words[0] == "setfreq":
                 my_radio = eval(words[-1])
-                freq = float(words[1])
-                newfreq = my_radio.set_freq(freq)
-                self.wfile.write(newfreq)
+                try:
+                    freq = float(words[1])
+                    newfreq = my_radio.set_freq(freq)
+                    self.wfile.write(newfreq)
+                except ValueError:
+                    #freq = float(my_radio.get_freq())
+                    self.wfile.write("Error in freq. %s No change\r\n" % words[1])
+                    
             elif words[0] == "getsmeter":
                 my_radio = eval(words[-1])
                 smeter = round(float(my_radio.get_smeter()), 1)
@@ -148,6 +156,10 @@ class ThreadedRequestHandler(SocketServer.StreamRequestHandler):
             elif words[0] == "preampon":
                 my_radio = eval(words[-1])
                 preamp = my_radio.pre_on()
+                self.wfile.write(preamp)
+            elif words[0] == "preamp2on":
+                my_radio = eval(words[-1])
+                preamp = my_radio.pre_2_on()
                 self.wfile.write(preamp)
             elif words[0] == "preampoff":
                 my_radio = eval(words[-1])

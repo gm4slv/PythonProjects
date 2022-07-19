@@ -13,7 +13,7 @@ except ImportError:
 
 import threading
 
-HOST, PORT = "snargate", 9999
+HOST, PORT = "localhost", 9999
 
 def make_con():
     global sock
