@@ -166,7 +166,7 @@ class Icom(object):
             return "0"
         if len(result) > 0:
             f = 0
-        for k in [18, 19, 16, 17, 14, 15, 12, 13, 11, 10]:
+        for k in [18, 19, 16, 17, 14, 15, 12, 13, 10, 11]:
             f = 10 * f + self.nib(result, k)
         self.freq = (float(f) / 1000)
         return "%.3f" % self.freq

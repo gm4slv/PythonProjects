@@ -25,8 +25,8 @@ radios.append(n4)
 #r2 = Icom(n2, a2, cal2)
 #radios.append(n2)
 
-#r3 = Ar7030(n3)
-#radios.append(n3)
+r3 = Ar7030(n3)
+radios.append(n3)
 
 print radios
 #print r1.digi_off()
